@@ -31,43 +31,49 @@
                 </div>
                 <br>
                 <form method="post" accept-charset="utf-8" name="Modelform">
-                    <div class="col-md-10 form-group" style="text-align: center">
-                        <label><b>Pilih Merek:</b> </label><br>
-                        <select class="selectpicker form-control" id="company" name="company" required="1"
-                                onchange="load_car_models(this.id,'car_models')">
-                            {% for company in companies %}
-                            <option value="{{ company }}">{{ company }}</option>
-                            {% endfor %}
-                        </select>
+                    <div class="col-md-12">
+                        <div class="col-md-6 form-group" style="text-align: center">
+                            <label><b>Pilih Merek:</b> </label><br>
+                            <select class="selectpicker form-control" id="company" name="company" required="1"
+                                    onchange="load_car_models(this.id,'car_models')">
+                                {% for company in companies %}
+                                <option value="{{ company }}">{{ company }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-md-6 form-group" style="text-align: center">
+                            <label><b>Pilih Model:</b> </label><br>
+                            <select class="selectpicker form-control" id="car_models" name="car_models" required="1">
+                            </select>
+                        </div>
                     </div>
-                    <div class="col-md-10 form-group" style="text-align: center">
-                        <label><b>Pilih Model:</b> </label><br>
-                        <select class="selectpicker form-control" id="car_models" name="car_models" required="1">
-                        </select>
+                    <div class="col-md-12">
+                        <div class="col-md-6 form-group" style="text-align: center">
+                            <label><b>Pilih Tahun Pembuatan:</b> </label><br>
+                            <select class="selectpicker form-control" id="year" name="year" required="1">
+                                {% for year in years %}
+                                <option value="{{ year }}">{{ year }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-md-6 form-group" style="text-align: center">
+                            <label><b>Pilih Jenis Bahan Bakar:</b> </label><br>
+                            <select class="selectpicker form-control" id="fuel_type" name="fuel_type" required="1">
+                                {% for fuel in fuel_types %}
+                                <option value="{{ fuel }}">{{ fuel }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
                     </div>
-                    <div class="col-md-10 form-group" style="text-align: center">
-                        <label><b>Pilih Tahun Pembuatan:</b> </label><br>
-                        <select class="selectpicker form-control" id="year" name="year" required="1">
-                            {% for year in years %}
-                            <option value="{{ year }}">{{ year }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
-                    <div class="col-md-10 form-group" style="text-align: center">
-                        <label><b>Pilih Jenis Bahan Bakar:</b> </label><br>
-                        <select class="selectpicker form-control" id="fuel_type" name="fuel_type" required="1">
-                            {% for fuel in fuel_types %}
-                            <option value="{{ fuel }}">{{ fuel }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
-                    <div class="col-md-10 form-group" style="text-align: center">
-                        <label><b>Masukkan Jumlah Kilometer:</b> </label><br>
-                        <input type="text" class="form-control" id="kilo_driven" name="kilo_driven"
-                               placeholder="Jarak tempuh KM ">
-                    </div>
-                    <div class="col-md-10 form-group" style="text-align: center">
-                        <button  class="btn btn-primary form-control" onclick="send_data()">Prediksi Harga</button>
+                    <div class="col-md-12">
+                        <div class="col-md-6 form-group" style="text-align: center">
+                            <label><b>Masukkan Jumlah Kilometer:</b> </label><br>
+                            <input type="text" class="form-control" id="kilo_driven" name="kilo_driven"
+                                   placeholder="Jarak tempuh KM ">
+                        </div>
+                        <div class="col-md-6 form-group" style="text-align: center">
+                            <button  class="btn btn-primary form-control" onclick="send_data()">Prediksi Harga</button>
+                        </div>
                     </div>
                 </form>
                 <br>
