@@ -111,14 +111,18 @@
             }
         {% endfor %}
     }
-
+    
     function form_handler(event) {
         event.preventDefault(); // Don't submit the form normally
     }
     function send_data()
     {
         document.querySelector('form').addEventListener("submit",form_handler);
-
+        // Create our number formatter.
+        var formatter = new Intl.NumberFormat('en-US', {
+          style: 'currency',
+          currency: 'IDR',
+        });
         var fd=new FormData(document.querySelector('form'));
 
         var xhr= new XMLHttpRequest({mozSystem: true});
@@ -127,7 +131,7 @@
         document.getElementById('prediction').innerHTML="Tunggu ! Memprediksi Harga.....";
         xhr.onreadystatechange = function(){
             if(xhr.readyState == XMLHttpRequest.DONE){
-                document.getElementById('prediction').innerHTML="Prediction: Rp"+xhr.responseText;
+                document.getElementById('prediction').innerHTML="Prediction: "+formatter.format(xhr.responseText);
 
             }
         };
@@ -136,6 +140,7 @@
 
         xhr.send(fd);
     }
+                     
 </script>
 
 
