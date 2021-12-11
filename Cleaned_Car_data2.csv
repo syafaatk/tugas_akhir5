@@ -1,0 +1,2411 @@
+,name,company,year,Price,kms_driven,fuel_type
+0,BMW Serie 3,BMW,2006,155000792,90000,Bensin
+1,Hyundai Getz,Hyundai,2005,56000000,5000,Bensin
+2,Isuzu Grand touring,Isuzu,2004,120000000,15000,Diesel
+3,Isuzu Grand touring,Isuzu,2010,169000000,105000,Diesel
+4,Proton,Proton,2010,120000000,80000,Bensin
+5,Suzuki Ertiga,Suzuki,2019,190000000,5000,Bensin
+6,Mercedes-Benz SLK,Mercedes-Benz,2005,420000000,45000,Bensin
+7,Mercedes-Benz S-Class S300,Mercedes-Benz,2010,449000000,45000,Bensin
+8,Aston Martin Vantage,Aston Martin,2018,6000000000,5000,Bensin
+9,KIA Picanto SE,KIA,2014,90000000,20000,Bensin
+10,Isuzu Grand touring,Isuzu,2012,166000000,85000,Diesel
+11,Honda HR-V 1.8L,Honda,2019,380000000,5000,Bensin
+12,Smart Fortwo,Smart,2010,205000000,65000,Hybrid
+13,Mitsubishi Pajero Sport,Mitsubishi,2012,233000000,115000,Diesel
+14,Land Rover Range,Land Rover,2013,595000000,35000,Bensin
+15,Mazda Biante 2.0,Mazda,2015,200000000,95000,Bensin
+16,Daihatsu Xenia,Daihatsu,2013,105000000,105000,Bensin
+17,Chery,Chery,2015,72000000,10000,Bensin
+18,Volkswagen Caravelle,Volkswagen,2000,89000000,95000,Bensin
+19,Volkswagen Polo TSI,Volkswagen,2016,189000000,45000,Bensin
+20,Timor DOHC,Timor,1997,30000000,50000,Bensin
+21,Toyota,Toyota,2015,175000000,85000,Bensin
+22,Mitsubishi L300,Mitsubishi,2016,125200000,55000,Diesel
+23,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,230000000,15000,Bensin
+24,Peugeot 206 Sporty,Peugeot,2003,47000000,45000,Bensin
+25,Lexus RX 270,Lexus,2011,360000000,80000,Bensin
+26,Mercedes-Benz C-Class C250,Mercedes-Benz,2014,485000000,5000,Bensin
+27,Mercedes-Benz E-Class E250,Mercedes-Benz,2013,795000000,10000,Bensin
+28,Mitsubishi Outlander,Mitsubishi,2014,189000000,35000,Bensin
+29,Audi Audi A3,Audi,2002,97000000,100000,Bensin
+30,Honda Freed S,Honda,2012,129000000,95000,Bensin
+31,Mercedes-Benz E-Class E260,Mercedes-Benz,2004,95000000,105000,Bensin
+32,Peugeot 405,Peugeot,1996,28000000,155000,Bensin
+33,Isuzu Panther,Isuzu,1997,53000000,185000,Diesel
+34,Toyota Rush S,Toyota,2013,135000000,100000,Bensin
+35,Hyundai Accent GLS,Hyundai,2006,50000000,100000,Bensin
+36,Mitsubishi Lancer Evolution,Mitsubishi,1986,36000000,260000,Bensin
+37,Toyota Soluna Gli,Toyota,2000,54000000,155000,Bensin
+38,Isuzu,Isuzu,2010,140000000,25000,Diesel
+39,Toyota Innova G,Toyota,2012,185000000,80000,Diesel
+40,Volkswagen Polo TSI,Volkswagen,2017,198000000,20000,Bensin
+41,Hyundai New Tucson,Hyundai,2012,157000000,65000,Bensin
+42,Nissan X-Trail,Nissan,2006,83000000,160000,Bensin
+43,Mitsubishi Xpander EXCEED,Mitsubishi,2018,205000000,5000,Bensin
+44,Mazda RX-8 Sport,Mazda,2010,249000000,70000,Bensin
+45,Jeep Jeep,Jeep,2001,65000000,30000,Bensin
+46,Honda CR-V 2.4,Honda,2008,126000000,75000,Bensin
+47,Honda Jazz,Honda,2005,80000000,20000,Bensin
+48,Honda Jazz RS,Honda,2016,140000000,10000,Bensin
+49,Porsche 911,Porsche,2016,2775000000,15000,Bensin
+50,Nissan Grand livina,Nissan,2010,95000000,135000,Bensin
+51,Suzuki Ertiga GL,Suzuki,2013,112000000,95000,Bensin
+52,Daihatsu Sigra 1.2,Daihatsu,2017,119000000,15000,Bensin
+53,Mazda 8,Mazda,2002,60000000,155000,Bensin
+54,Suzuki Ertiga Dreza,Suzuki,2017,175000000,20000,Bensin
+55,Nissan Grand livina,Nissan,2014,112000000,55000,Bensin
+56,Citroen BX,Citroen,1991,19000000,105000,Bensin
+57,Datsun Cross,Datsun,2018,108000000,10000,Bensin
+58,Lexus 430,Lexus,2005,227000000,75000,Bensin
+59,Daihatsu Gran max,Daihatsu,2014,93500000,55000,Bensin
+60,Suzuki Wagon R,Suzuki,2017,85000000,35000,Bensin
+61,Isuzu Panther Grand,Isuzu,2002,105000000,90000,Bensin
+62,Honda HR-V E,Honda,2017,252000000,25000,Bensin
+63,Hyundai Avega GL,Hyundai,2010,61500000,100000,Bensin
+64,Honda HR-V 1.8L,Honda,2016,265000000,35000,Bensin
+65,Datsun Go+ Panca,Datsun,2016,82000000,25000,Bensin
+66,Daihatsu Terios TS,Daihatsu,2012,112000000,55000,Bensin
+67,Geely Panda,Geely,2011,30000000,25000,Bensin
+68,Mazda 2 GT,Mazda,2014,175000000,55000,Bensin
+69,Mazda 2 RZ,Mazda,2013,130000000,60000,Bensin
+70,KIA Sorento,KIA,2013,190000000,70000,Bensin
+71,Dodge,Dodge,1986,150000000,45000,Bensin
+72,Nissan Evalia XV,Nissan,2012,100000000,80000,Bensin
+73,KIA Picanto SE,KIA,2011,72000000,75000,Bensin
+74,Mini Cooper Mini,Mini Cooper,2013,420000000,50000,Bensin
+75,Daihatsu Xenia R,Daihatsu,2018,143000000,35000,Bensin
+76,Chevrolet Captiva,Chevrolet,2010,125000000,12500,Bensin
+77,Mercedes-Benz GLA-Class GLA200,Mercedes-Benz,2017,609000000,15000,Bensin
+78,Nissan Serena HWS,Nissan,2011,97000000,75000,Bensin
+79,Isuzu Panther LV,Isuzu,2007,107000000,225000,Diesel
+80,Mazda Biante,Mazda,2013,190000000,50000,Bensin
+81,Suzuki Carry RV.,Suzuki,2006,47000000,185000,Bensin
+82,Daihatsu Terios TX,Daihatsu,2013,115000000,105000,Bensin
+83,BMW,BMW,2000,130000000,130000,Bensin
+84,Nissan Serena HWS,Nissan,2014,169000000,75000,Bensin
+85,Honda Freed E,Honda,2012,168000000,65000,Bensin
+86,Daihatsu Xenia R,Daihatsu,2016,137000000,35000,Bensin
+87,Honda Freed E,Honda,2010,119000000,100000,Bensin
+88,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,228000000,10000,Bensin
+89,Mazda CX-5 Grand,Mazda,2013,210000000,100000,Bensin
+90,Lamborghini Gallardo,Lamborghini,2013,3100000000,15000,Bensin
+91,Mitsubishi Pajero Sport,Mitsubishi,2016,425000000,45000,Diesel
+92,BMW Serie 3,BMW,2015,388000000,45000,Bensin
+93,Chevrolet Captiva,Chevrolet,2008,115000000,95000,Bensin
+94,Jaguar XJ Portfolio,Jaguar,1996,295000000,70000,Bensin
+95,BMW X1 sDrive18i,BMW,2017,525000000,20000,Bensin
+96,Mazda,Mazda,2013,145000000,50000,Bensin
+97,Mazda Biante,Mazda,2012,230000000,35000,Bensin
+98,Datsun Go+ Panca,Datsun,2017,99000000,25000,Bensin
+99,Fiat Abart,Fiat,2017,1200000000,5000,Bensin
+100,Datsun Go Panca,Datsun,2017,82999975,40000,Bensin
+101,Chevrolet Trax LTZ,Chevrolet,2018,235000000,25000,Hybrid
+102,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,235000000,20000,Bensin
+103,Mercedes-Benz E-Class E250,Mercedes-Benz,2017,995000000,10000,Bensin
+104,Isuzu Panther LM,Isuzu,2003,78500000,115000,Diesel
+105,Chevrolet Aveo LT,Chevrolet,2014,110000000,65000,Bensin
+106,Mitsubishi Xpander ULTIMATE,Mitsubishi,2019,267100000,20000,Bensin
+107,Honda Brio,Honda,2019,145500000,5000,Bensin
+108,Suzuki Ertiga GL,Suzuki,2013,150000000,20000,Bensin
+109,Mazda Biante,Mazda,2012,179000000,75000,Bensin
+110,Nissan Teana 250,Nissan,2010,148000000,75000,Bensin
+111,Land Rover Discovery,Land Rover,2015,1650000000,5000,Bensin
+112,KIA Picanto A/T,KIA,2008,66000000,115000,Bensin
+113,Nissan Grand livina,Nissan,2010,96000000,85000,Bensin
+114,Mazda Biante,Mazda,2013,199000000,95000,Bensin
+115,Chevrolet Spin LT,Chevrolet,2014,90000000,105000,Bensin
+116,Chevrolet Orlando LT,Chevrolet,2012,140000000,100000,Bensin
+117,Daihatsu Xenia R,Daihatsu,2014,123000000,70000,Bensin
+118,Mercedes-Benz E-Class E320,Mercedes-Benz,1996,110000000,110000,Bensin
+119,Chevrolet Captiva,Chevrolet,2011,210000000,35000,Diesel
+120,Ford,Ford,1986,250000000,12500,Bensin
+121,BMW Serie 3,BMW,2000,115000000,105000,Bensin
+122,Nissan Terrano Kingsroad,Nissan,2004,75000000,185000,Bensin
+123,Mazda 2,Mazda,2014,165000000,45000,Bensin
+124,Honda Jazz S,Honda,2017,185000000,15000,Bensin
+125,Jeep Rubicon,Jeep,2011,715000000,10000,Bensin
+126,Nissan Grand livina,Nissan,2012,98000000,70000,Bensin
+127,Mitsubishi Pajero Sport,Mitsubishi,2013,259000000,70000,Diesel
+128,Hyundai Accent GLS,Hyundai,2001,37500000,180000,Bensin
+129,Ford Fiesta Sport,Ford,2011,90000000,80000,Bensin
+130,Mercedes-Benz E-Class E320,Mercedes-Benz,1994,73000000,140000,Bensin
+131,Mitsubishi Triton,Mitsubishi,2012,128000000,195000,Diesel
+132,KIA Rio Hatchback,KIA,2012,110000000,65000,Bensin
+133,Isuzu Panther,Isuzu,1994,40000000,85000,Diesel
+134,BMW Serie 3,BMW,2006,155000000,105000,Bensin
+135,Datsun 120,Datsun,1986,18500000,10000,Bensin
+136,Mazda Astina,Mazda,1991,35500000,35000,Bensin
+137,Ford Ranger,Ford,2014,1200000000,15000,Bensin
+138,Hyundai Accent GLS,Hyundai,2001,36000000,150000,Bensin
+139,Ford Ranger Base,Ford,2012,130000000,150000,Diesel
+140,BMW Serie 3,BMW,2018,600000000,15000,Bensin
+141,Nissan Serena HWS,Nissan,2013,168000000,85000,Bensin
+142,Suzuki APV SGX,Suzuki,2011,86000000,45000,Bensin
+143,Volvo V70,Volvo,1997,102000000,75000,Bensin
+144,Peugeot 306 ST,Peugeot,1996,25500000,105000,Bensin
+145,Daihatsu Xenia Li,Daihatsu,2010,83500000,145000,Bensin
+146,Daihatsu Terios TX,Daihatsu,2011,138000000,75000,Bensin
+147,Mitsubishi Xpander EXCEED,Mitsubishi,2018,215000000,10000,Bensin
+148,Chevrolet,Chevrolet,1986,23200000,45000,Diesel
+149,Suzuki Ertiga,Suzuki,2019,185000000,5000,Bensin
+150,Ford Fiesta Trend,Ford,2013,95000000,15000,Bensin
+151,Ford Everest XLT,Ford,2008,115000000,175000,Diesel
+152,Mazda Vantrend,Mazda,1994,22500000,60000,Bensin
+153,Hino,Hino,2013,415000000,205000,Diesel
+154,Toyota Corolla,Toyota,1993,45000000,205000,Bensin
+155,Ford Fiesta Sport+,Ford,2013,69000000,5000,Bensin
+156,Honda Jazz RS,Honda,2016,205000000,55000,Bensin
+157,Mitsubishi Pajero Sport,Mitsubishi,2018,449000000,20000,Diesel
+158,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,225000000,15000,Bensin
+159,BMW Serie 3,BMW,2016,469000000,20000,Bensin
+160,Ford Fiesta Trend,Ford,2013,105000000,35000,Bensin
+161,Honda Brio Satya,Honda,2017,131000000,25000,Bensin
+162,Peugeot 405,Peugeot,1994,34000000,180000,Bensin
+163,Datsun Go+ Panca,Datsun,2014,78500000,45000,Bensin
+164,Volvo XC90,Volvo,2008,210000000,80000,Bensin
+165,Mercedes-Benz S-Class S400,Mercedes-Benz,2014,1175000000,40000,Bensin
+166,Mercedes-Benz GLE-Class,Mercedes-Benz,2015,1390000000,30000,Bensin
+167,Mazda 2 R,Mazda,2015,185000000,55000,Bensin
+168,Isuzu Elf Minibus,Isuzu,2016,200000000,25000,Diesel
+169,Chery New QQ,Chery,2009,37000000,95000,Bensin
+170,Hyundai Avega GL,Hyundai,2007,44900000,155000,Bensin
+171,Isuzu Panther,Isuzu,1995,55000000,140000,Diesel
+172,Suzuki Escudo JLX,Suzuki,1994,55000000,10000,Bensin
+173,Hyundai Cakra,Hyundai,1997,29500000,200000,Bensin
+174,Nissan Serena HWS,Nissan,2007,82000000,140000,Bensin
+175,Audi Audi Q5,Audi,2011,285000000,60000,Bensin
+176,Honda Mobilio E,Honda,2015,134500000,55000,Bensin
+177,Porsche Cayenne V6,Porsche,2012,1095000000,20000,Bensin
+178,Wuling Confero S,Wuling,2017,127000000,30000,Bensin
+179,Suzuki Escudo JLX,Suzuki,1995,42000000,205000,Bensin
+180,Nissan Grand livina,Nissan,2011,86500000,195000,Bensin
+181,Mitsubishi Colt Box,Mitsubishi,2010,90000000,25000,Diesel
+182,Daihatsu Luxio X,Daihatsu,2011,99500000,105000,Bensin
+183,Mitsubishi Pajero Sport,Mitsubishi,2016,440000000,35000,Diesel
+184,BMW Serie 5,BMW,2013,385000000,55000,Bensin
+185,Toyota Agya TRD,Toyota,2015,100000000,40000,Bensin
+186,Nissan Grand livina,Nissan,2011,122000000,140000,Bensin
+187,Hyundai Verna,Hyundai,2003,45000000,165000,Bensin
+188,Honda Mobilio S,Honda,2017,135000000,85000,Bensin
+189,Mazda CX-5 Grand,Mazda,2013,220000000,80000,Bensin
+190,Toyota Agya G,Toyota,2016,107000000,15000,Bensin
+191,Suzuki Carry Pick-up,Suzuki,2018,92000000,5000,Bensin
+192,KIA Carens II,KIA,2006,65500000,210000,Bensin
+193,Honda Mobilio E,Honda,2014,119000000,85000,Bensin
+194,Ford Ecosport Titanium,Ford,2014,120000000,50000,Bensin
+195,Daihatsu Terios,Daihatsu,2014,133000000,110000,Bensin
+196,BMW Serie 3,BMW,2018,649000000,10000,Bensin
+197,Honda CR-V,Honda,2005,95000000,45000,Bensin
+198,Honda Brio Satya,Honda,2014,105000000,50000,Bensin
+199,Honda CR-V,Honda,2004,88000000,105000,Bensin
+200,Hyundai,Hyundai,1996,25000000,40000,Bensin
+201,Honda CR-V 2.4,Honda,2012,220000000,50000,Bensin
+202,KIA Picanto M/T,KIA,2004,57000000,145000,Bensin
+203,Jeep CJ7,Jeep,1986,175000000,155000,Bensin
+204,Honda Brio Satya,Honda,2017,126500000,45000,Bensin
+205,Isuzu Colt 77,Isuzu,2018,165000000,10000,Diesel
+206,Mazda CX-5 Grand,Mazda,2013,225000000,95000,Bensin
+207,Mercedes-Benz,Mercedes-Benz,1989,140000000,95000,Bensin
+208,Mercedes-Benz A-Class A140,Mercedes-Benz,2002,65000000,55000,Bensin
+209,BMW Serie 4,BMW,2015,1250000000,20000,Bensin
+210,Daihatsu Xenia Li,Daihatsu,2011,90000000,225000,Bensin
+211,Daihatsu Xenia M,Daihatsu,2012,105000000,25000,Bensin
+212,Daihatsu Terios Adventure,Daihatsu,2016,153000000,65000,Bensin
+213,Mitsubishi Pajero Sport,Mitsubishi,2017,445000000,35000,Diesel
+214,Ford Fiesta Trend,Ford,2014,125000000,20000,Bensin
+215,Mitsubishi Pajero Sport,Mitsubishi,2014,305000000,35000,Diesel
+216,Porsche Boxster S,Porsche,2014,1400000000,10000,Bensin
+217,Honda CR-V,Honda,2017,415000000,50000,Bensin
+218,Suzuki Splash,Suzuki,2011,75000000,80000,Bensin
+219,Isuzu Panther Touring,Isuzu,2005,125000000,205000,Diesel
+220,Hyundai H-1,Hyundai,2011,130000000,105000,Bensin
+221,Ford Fiesta Sport,Ford,2011,109000000,150000,Bensin
+222,KIA Carens II,KIA,2005,56000000,25000,Bensin
+223,Porsche Boxster S,Porsche,2016,1900000000,15000,Bensin
+224,Toyota Kijang LGX,Toyota,2002,79000000,100000,Bensin
+225,Jeep Grand Cherokee,Jeep,2015,1150000000,5000,Bensin
+226,Toyota Corolla,Toyota,1986,25000000,5000,Bensin
+227,Toyota Fortuner G,Toyota,2010,203000000,45000,Bensin
+228,Isuzu Elf Minibus,Isuzu,2001,65000000,195000,Diesel
+229,Land Rover Range,Land Rover,2012,575000000,40000,Bensin
+230,Bentley Continental GT,Bentley,2012,3250000000,25000,Bensin
+231,Ford Fiesta EcoBoost,Ford,2012,105000000,65000,Bensin
+232,Mazda Biante,Mazda,2016,235000000,60000,Bensin
+233,Mazda 2 R,Mazda,2010,90000000,100000,Bensin
+234,Datsun Go+ Panca,Datsun,2017,79000000,45000,Bensin
+235,Holden,Holden,1986,150000000,75000,Bensin
+236,Jeep Grand Cherokee,Jeep,2011,395000000,60000,Bensin
+237,Volvo S90,Volvo,2000,29000000,115000,Bensin
+238,Honda,Honda,1994,45000000,30000,Bensin
+239,KIA Picanto M/T,KIA,2008,63000000,230000,Bensin
+240,Mitsubishi Mirage GLX,Mitsubishi,2013,88000000,100000,Bensin
+241,Lexus RX 200T,Lexus,2016,895000000,40000,Bensin
+242,Ford Everest LTD,Ford,2008,130000000,80000,Diesel
+243,Nissan Grand livina,Nissan,2014,108000000,110000,Bensin
+244,Ford Ecosport Titanium,Ford,2014,122000000,95000,Bensin
+245,Hyundai Santa Fe,Hyundai,2016,365000000,30000,Diesel
+246,Nissan Grand livina,Nissan,2009,73900000,80000,Bensin
+247,Proton Exora CFE,Proton,2014,79000000,65000,Bensin
+248,Audi Audi A8,Audi,2004,115850000,85000,Bensin
+249,Mercedes-Benz E-Class E240,Mercedes-Benz,2003,114500000,105000,Bensin
+250,Toyota Agya G,Toyota,2016,102000000,60000,Bensin
+251,Mercedes-Benz E-Class E320,Mercedes-Benz,1996,69000000,12500,Bensin
+252,Nissan Grand livina,Nissan,2010,78500000,75000,Bensin
+253,Mazda CX-5 Touring,Mazda,2015,289000000,40000,Bensin
+254,BMW X1 sDrive20d,BMW,2012,235000000,95000,Diesel
+255,Chevrolet Spin LTZ,Chevrolet,2014,102000000,120000,Bensin
+256,KIA Picanto SE,KIA,2011,65500000,85000,Bensin
+257,Klasik dan Antik,Klasik dan Antik,1986,135000000,210000,Bensin
+258,Honda Freed E,Honda,2016,285000000,35000,Bensin
+259,Suzuki SX4,Suzuki,2009,110000000,130000,Bensin
+260,Datsun Go+ Panca,Datsun,2014,65000000,35000,Bensin
+261,Daihatsu Gran max,Daihatsu,2018,105000000,25000,Bensin
+262,Datsun Go+ Panca,Datsun,2017,88000000,10000,Bensin
+263,Lain-lain,Lain-lain,2002,40000000,25000,Bensin
+264,BMW X1 sDrive18i,BMW,2010,215000000,55000,Bensin
+265,Ford Ecosport Titanium,Ford,2014,125000000,100000,Bensin
+266,Peugeot 406,Peugeot,1997,27500000,255000,Bensin
+267,Mercedes-Benz C-Class C240,Mercedes-Benz,2005,135000000,65000,Bensin
+268,Mercedes-Benz GLA-Class GLA200,Mercedes-Benz,2015,480000000,35000,Bensin
+269,Daihatsu Sigra 1.2,Daihatsu,2018,120000000,25000,Bensin
+270,Mitsubishi Strada Triton,Mitsubishi,2012,151000000,85000,Diesel
+271,Daihatsu Sigra,Daihatsu,2019,114100000,5000,Bensin
+272,Holden Gemini,Holden,1986,15000000,10000,Bensin
+273,Daihatsu Espass,Daihatsu,1996,29000000,135000,Bensin
+274,Ford Ranger XLT,Ford,2011,145000000,15000,Bensin
+275,Suzuki Splash GL,Suzuki,2011,82000000,65000,Bensin
+276,Mazda 2 R,Mazda,2015,205000000,45000,Bensin
+277,Chevrolet Spark LT,Chevrolet,2017,150000000,35000,Bensin
+278,Chevrolet Captiva,Chevrolet,2014,195000000,75000,Diesel
+279,Ford Fiesta Trend,Ford,2011,85000000,95000,Bensin
+280,Suzuki Carry Pick-up,Suzuki,2019,115000000,5000,Bensin
+281,Mitsubishi Lancer,Mitsubishi,1987,18000000,15000,Bensin
+282,KIA Rio Hatchback,KIA,2013,115000000,85000,Bensin
+283,BMW X1 sDrive18i,BMW,2016,499000000,15000,Bensin
+284,Mazda RX-8 Sport,Mazda,2004,185000000,40000,Bensin
+285,BMW Serie 3,BMW,2003,195000000,85000,Bensin
+286,Hyundai New Tucson,Hyundai,2017,313000000,45000,Diesel
+287,Wuling Confero S,Wuling,2018,112000000,15000,Bensin
+288,Peugeot 406 Limited,Peugeot,2004,45000000,155000,Bensin
+289,Mercedes-Benz GLA-Class GLA200,Mercedes-Benz,2015,525000001,10000,Bensin
+290,Toyota Innova V,Toyota,2016,335000000,55000,Diesel
+291,Mitsubishi Pajero Sport,Mitsubishi,2014,300000000,85000,Diesel
+292,Mazda Biante 2.0,Mazda,2014,205000000,55000,Bensin
+293,Chevrolet Captiva,Chevrolet,2011,159000000,130000,Diesel
+294,Datsun Go Panca,Datsun,2017,58000000,75000,Bensin
+295,Audi Audi A4,Audi,1998,47250000,80000,Bensin
+296,Nissan Livina,Nissan,2010,68000000,145000,Bensin
+297,Chevrolet Captiva,Chevrolet,2010,85000000,12500,Bensin
+298,Isuzu Panther LM,Isuzu,2006,85000000,12500,Diesel
+299,Datsun Go Panca,Datsun,2016,59000000,65000,Bensin
+300,Hummer H2 V8,Hummer,2010,2200000000,35000,Bensin
+301,Honda CR-V 2.4,Honda,2010,145000000,150000,Bensin
+302,Daihatsu Xenia Li,Daihatsu,2004,64550000,170000,Bensin
+303,Toyota Avanza G,Toyota,2013,115000000,65000,Bensin
+304,Mazda 2 R,Mazda,2012,110000000,55000,Bensin
+305,Mazda 2 GT,Mazda,2014,168000000,60000,Bensin
+306,Toyota Starlet,Toyota,1990,27000000,150000,Bensin
+307,Isuzu New Panther,Isuzu,2014,147000000,95000,Diesel
+308,Chevrolet Optra,Chevrolet,2010,57500000,100000,Bensin
+309,Hyundai Excel,Hyundai,2013,89500000,95000,Bensin
+310,Mitsubishi Pajero Sport,Mitsubishi,2010,110000000,130000,Diesel
+311,BMW M Series,BMW,1990,888000000,75000,Bensin
+312,Nissan X-Trail,Nissan,2011,139000000,105000,Bensin
+313,Isuzu,Isuzu,2018,235000000,35000,Diesel
+314,Mitsubishi Pajero Sport,Mitsubishi,2016,525000000,35000,Diesel
+315,Daihatsu Ayla X,Daihatsu,2017,98000000,25000,Bensin
+316,Isuzu Elf Minibus,Isuzu,2015,210000000,130000,Diesel
+317,Mitsubishi Pajero,Mitsubishi,2014,276000000,65000,Diesel
+318,Daihatsu Gran max,Daihatsu,2018,108000000,45000,Bensin
+319,Mini Cooper Mini,Mini Cooper,2015,545000000,35000,Bensin
+320,Daihatsu Ayla X,Daihatsu,2017,90000000,25000,Bensin
+321,Isuzu Elf Minibus,Isuzu,2013,135000000,12500,Diesel
+322,Daihatsu Terios,Daihatsu,2019,190000000,5000,Bensin
+323,KIA Picanto M/T,KIA,2009,40000000,40000,Bensin
+324,Mercedes-Benz A-Class A140,Mercedes-Benz,2001,39000000,35000,Bensin
+325,Chevrolet Spin,Chevrolet,2015,119000000,50000,Bensin
+326,Hyundai Trajet GL8,Hyundai,2003,53000000,155000,Bensin
+327,Toyota Avanza G,Toyota,2008,99500000,105000,Bensin
+328,Daihatsu Zebra,Daihatsu,1998,40000000,30000,Bensin
+329,Suzuki Ertiga GX,Suzuki,2013,137000000,80000,Bensin
+330,Nissan Grand livina,Nissan,2013,117000000,70000,Bensin
+331,Mazda 2 S,Mazda,2010,84000000,105000,Bensin
+332,BMW Serie 5,BMW,2013,365000000,20000,Bensin
+333,Chevrolet Aveo LT,Chevrolet,2012,85000000,40000,Bensin
+334,KIA Sportage EX,KIA,2012,131000000,75000,Bensin
+335,Toyota Avanza G,Toyota,2014,126000000,290000,Bensin
+336,Honda Mobilio E,Honda,2014,130000000,85000,Bensin
+337,Honda Brio E,Honda,2013,99000000,35000,Bensin
+338,Hyundai H-1 X,Hyundai,2012,160000000,60000,Diesel
+339,Daihatsu Xenia X,Daihatsu,2013,116000000,80000,Bensin
+340,Isuzu Grand touring,Isuzu,2011,180000000,100000,Diesel
+341,Ford Everest,Ford,2003,88000000,15000,Diesel
+342,Daihatsu Taruna CSX,Daihatsu,2000,61000000,5000,Bensin
+343,Mini Cooper Mini,Mini Cooper,2014,605000000,10000,Bensin
+344,Toyota Rush TRD,Toyota,2018,205000000,10000,Bensin
+345,Mitsubishi Pajero Sport,Mitsubishi,2011,270000000,80000,Diesel
+346,Mazda 6,Mazda,2018,485000000,10000,Bensin
+347,Hyundai Avega GX,Hyundai,2010,55000000,70000,Bensin
+348,Volkswagen Beetle,Volkswagen,2009,450000000,30000,Bensin
+349,Toyota Soluna Gli,Toyota,2000,40000000,10000,Bensin
+350,Mercedes-Benz E-Class E300,Mercedes-Benz,2009,305000000,95000,Bensin
+351,Renault Megane,Renault,2005,79000000,115000,Bensin
+352,Suzuki APV GX,Suzuki,2008,65000000,295000,Bensin
+353,Timor DOHC,Timor,1997,20000000,35000,Bensin
+354,Mazda Biante 2.0,Mazda,2013,184000000,40000,Bensin
+355,Wuling Confero S,Wuling,2017,130000000,45000,Bensin
+356,Nissan Latio,Nissan,2008,80500000,115000,Bensin
+357,KIA Picanto SE,KIA,2013,85000000,65000,Bensin
+358,Mercedes-Benz C-Class C250,Mercedes-Benz,2013,440000000,30000,Bensin
+359,Mitsubishi Pajero NA,Mitsubishi,2000,155000000,105000,Bensin
+360,Hyundai H-1,Hyundai,2012,145000000,12500,Bensin
+361,KIA Sportage LX,KIA,2005,57000000,105000,Bensin
+362,Toyota Corolla Altis,Toyota,2016,220000000,50000,Bensin
+363,Isuzu Panther LM,Isuzu,2008,100000000,80000,Diesel
+364,Honda HR-V S,Honda,2017,245000000,10000,Bensin
+365,Nissan X-Trail,Nissan,2015,300000000,40000,Bensin
+366,Isuzu,Isuzu,2016,625000000,100000,Diesel
+367,Nissan Grand livina,Nissan,2008,72000000,130000,Bensin
+368,Ford Focus Sport,Ford,2014,185000000,90000,Bensin
+369,Mazda CX-5 Elite,Mazda,2018,485000000,20000,Bensin
+370,Mazda 2 GT,Mazda,2014,168000000,60000,Bensin
+371,KIA Visto,KIA,2000,41000000,150000,Bensin
+372,Nissan Elgrand HWS,Nissan,2012,300000000,60000,Bensin
+373,Ford Escape Limited,Ford,2010,117500000,130000,Bensin
+374,KIA Picanto SE,KIA,2013,80000000,45000,Bensin
+375,Isuzu,Isuzu,2016,625000000,100000,Diesel
+376,Suzuki Karimun DX,Suzuki,2018,80000000,20000,Bensin
+377,BMW,BMW,2017,570000000,25000,Bensin
+378,BMW Serie 3,BMW,2014,383000000,50000,Bensin
+379,Jeep Rubicon,Jeep,2015,1100000000,20000,Bensin
+380,Toyota Starlet,Toyota,1991,40000000,235000,Bensin
+381,Chrysler 300 300C,Chrysler,2013,380000000,40000,Bensin
+382,BMW X1 sDrive18i,BMW,2018,650000000,5000,Bensin
+383,Toyota Calya G,Toyota,2017,125000000,20000,Bensin
+384,Daihatsu Xenia R,Daihatsu,2013,112000000,105000,Bensin
+385,Honda Freed S,Honda,2012,129000000,65000,Bensin
+386,Ford Fiesta EcoBoost,Ford,2014,135000000,55000,Bensin
+387,Mazda Biante,Mazda,2013,169000000,80000,Bensin
+388,BMW Serie 5,BMW,2010,335000000,90000,Bensin
+389,KIA,KIA,2010,63000000,120000,Bensin
+390,Volkswagen Safari 1.6,Volkswagen,1986,50000000,25000,Bensin
+391,Ford,Ford,2004,75000000,25000,Diesel
+392,Ford Ecosport Titanium,Ford,2014,135000000,80000,Bensin
+393,BMW Serie 5,BMW,2012,330000000,45000,Bensin
+394,Daihatsu Sigra,Daihatsu,2019,111000000,5000,Bensin
+395,Mercedes-Benz CLA-Class CLA200,Mercedes-Benz,2017,695000000,15000,Bensin
+396,Isuzu,Isuzu,2013,132000000,55000,Diesel
+397,Ford laser,Ford,1993,32000000,50000,Bensin
+398,Ford Everest,Ford,2007,120000000,295000,Diesel
+399,Suzuki APV,Suzuki,2004,55000000,205000,Bensin
+400,Mercedes-Benz C-Class C200,Mercedes-Benz,2011,209950000,65000,Bensin
+401,Mazda 2 R,Mazda,2012,99000000,75000,Bensin
+402,Ford Fiesta Trend,Ford,2012,88500000,10000,Bensin
+403,Proton Saga,Proton,2009,50000000,55000,Bensin
+404,Nissan Livina,Nissan,2013,95000000,120000,Bensin
+405,Nissan Grand livina,Nissan,2016,132000000,50000,Bensin
+406,Nissan X-Trail,Nissan,2018,348000000,10000,Bensin
+407,Smart Fortwo 1.0,Smart,2010,185000000,20000,Bensin
+408,Mazda Familia,Mazda,1997,42000000,295000,Bensin
+409,Daihatsu Xenia Xi,Daihatsu,2010,74000000,40000,Bensin
+410,Daihatsu Xenia R,Daihatsu,2012,117000000,55000,Bensin
+411,BMW Serie 3,BMW,2002,90000000,20000,Bensin
+412,Mercedes-Benz S-Class S350,Mercedes-Benz,2009,390000000,55000,Bensin
+413,KIA Picanto,KIA,2010,77000000,95000,Bensin
+414,Suzuki Baleno next-G,Suzuki,2003,45500000,210000,Bensin
+415,Ford Fiesta Trend,Ford,2011,95000000,85000,Bensin
+416,Ford Ecosport Titanium,Ford,2015,160000000,50000,Bensin
+417,Timor,Timor,1997,30000000,45000,Bensin
+418,Hino Dutro Truck,Hino,2004,65000000,20000,Diesel
+419,Chevrolet Orlando LT,Chevrolet,2014,165000000,35000,Bensin
+420,Land Rover Range,Land Rover,2013,549000000,50000,Bensin
+421,Daihatsu Gran max,Daihatsu,2016,95000000,40000,Bensin
+422,Nissan Livina,Nissan,2012,125000000,110000,Bensin
+423,Honda Mobilio E,Honda,2015,145000000,45000,Bensin
+424,Jeep Rubicon,Jeep,2012,800000000,10000,Diesel
+425,Nissan X-Trail,Nissan,2014,189000000,80000,Bensin
+426,Nissan Serena,Nissan,2004,60000000,165000,Bensin
+427,Mitsubishi Pajero Sport,Mitsubishi,2019,544500000,5000,Diesel
+428,Nissan Grand livina,Nissan,2016,125000000,85000,Bensin
+429,Hyundai Avega SG,Hyundai,2014,125000000,45000,Bensin
+430,Proton Savvy,Proton,2009,45000000,90000,Bensin
+431,Mitsubishi Pajero Sport,Mitsubishi,2009,225000000,170000,Diesel
+432,Mercedes-Benz C-Class C200,Mercedes-Benz,2008,200000000,35000,Bensin
+433,Suzuki Karimun GX,Suzuki,2005,60000000,45000,Bensin
+434,Datsun Go+ Panca,Datsun,2016,75000000,55000,Bensin
+435,BMW Serie 3,BMW,1995,45000000,265000,Bensin
+436,Mercedes-Benz C-Class C200,Mercedes-Benz,1996,48000000,230000,Bensin
+437,Datsun Go Panca,Datsun,2015,70000000,45000,Bensin
+438,Honda Brio,Honda,2013,105000000,85000,Bensin
+439,Suzuki Ertiga GL,Suzuki,2019,160000000,10000,Bensin
+440,Toyota Innova G,Toyota,2004,145000000,5000,Diesel
+441,Chery QQ Compact,Chery,2010,35000000,40000,Bensin
+442,Mazda CX-5 Grand,Mazda,2015,299000000,60000,Bensin
+443,Toyota Vios,Toyota,2009,70000000,12500,Bensin
+444,Suzuki Grand vitara,Suzuki,2008,86000000,200000,Bensin
+445,Datsun Go+ Panca,Datsun,2016,78000000,5000,Bensin
+446,Hino Dutro,Hino,2014,240000000,110000,Diesel
+447,Hyundai Grand Avega,Hyundai,2012,113000000,85000,Bensin
+448,Daihatsu Xenia R,Daihatsu,2015,118000000,60000,Bensin
+449,Toyota Yaris S,Toyota,2010,107000000,140000,Bensin
+450,Mitsubishi Pajero Sport,Mitsubishi,2013,305000000,70000,Diesel
+451,KIA Sportage Plantinum,KIA,2001,30000000,20000,Bensin
+452,Hyundai New Tucson,Hyundai,2012,135000000,95000,Bensin
+453,Mazda Biante 2.0,Mazda,2015,227000000,55000,Bensin
+454,Ford Fiesta Trend,Ford,2011,95000000,75000,Bensin
+455,Daihatsu Terios TX,Daihatsu,2014,139000000,55000,Bensin
+456,Hyundai,Hyundai,2007,45000000,145000,Bensin
+457,Peugeot 307,Peugeot,2004,78000000,155000,Diesel
+458,Mitsubishi Lancer 1.8,Mitsubishi,1995,45000000,150000,Bensin
+459,Daihatsu Xenia Xi,Daihatsu,2011,105000000,150000,Bensin
+460,Isuzu,Isuzu,2013,132000000,55000,Diesel
+461,Volkswagen Beetle,Volkswagen,1986,235000000,5000,Bensin
+462,Mercedes-Benz SLK-Class SLK200,Mercedes-Benz,2009,525000000,35000,Bensin
+463,Mazda 2 R,Mazda,2016,200000000,30000,Bensin
+464,Toyota,Toyota,1986,15000000,205000,Bensin
+465,Jeep Wrangler Rubicon,Jeep,2011,715000000,50000,Bensin
+466,Daihatsu Gran max,Daihatsu,2015,87000000,100000,Bensin
+467,Mazda 2 V,Mazda,2013,112000000,55000,Bensin
+468,Ford Ranger,Ford,2004,34500000,300000,Diesel
+469,Mitsubishi Pajero Sport,Mitsubishi,2016,400000000,45000,Diesel
+470,KIA Picanto SE,KIA,2009,59500000,5000,Bensin
+471,Hino,Hino,2014,750000000,100000,Diesel
+472,Mercedes-Benz C-Class C250,Mercedes-Benz,2016,655000000,15000,Bensin
+473,Maserati Ghibli,Maserati,2017,1495000000,5000,Bensin
+474,Suzuki Baleno,Suzuki,2017,185000000,25000,Bensin
+475,Datsun Go+ Panca,Datsun,2016,70000000,65000,Bensin
+476,Mazda CX-7,Mazda,2011,173500000,95000,Bensin
+477,Hyundai i10 1.1,Hyundai,2011,78000000,70000,Bensin
+478,Honda Brio E,Honda,2015,125000000,10000,Bensin
+479,Mercedes-Benz CLS-Class CLS350,Mercedes-Benz,2012,650000000,35000,Bensin
+480,Mitsubishi Outlander,Mitsubishi,2014,183000000,65000,Bensin
+481,KIA,KIA,2013,195000000,30000,Bensin
+482,Ford Ecosport Titanium,Ford,2014,119000000,40000,Bensin
+483,Mitsubishi Xpander ULTIMATE,Mitsubishi,2019,250000000,5000,Bensin
+484,Nissan Evalia,Nissan,2012,73000000,105000,Bensin
+485,Mercedes-Benz CLA-Class CLA45,Mercedes-Benz,2014,439000000,35000,Bensin
+486,Isuzu D-Max,Isuzu,2012,135000000,75000,Diesel
+487,Datsun Go+ Panca,Datsun,2014,65000000,95000,Bensin
+488,Suzuki Carry,Suzuki,1996,20000000,5000,Bensin
+489,Mitsubishi L300 Pick,Mitsubishi,2013,117000000,85000,Diesel
+490,Nissan Grand livina,Nissan,2009,95000000,35000,Bensin
+491,Jeep Wrangler Sahara,Jeep,2011,620000000,30000,Bensin
+492,Lexus RX 200T,Lexus,2016,990000000,45000,Bensin
+493,Mazda 2 GT,Mazda,2014,184000000,70000,Bensin
+494,Volkswagen Beetle,Volkswagen,1986,53000000,285000,Bensin
+495,Nissan X-Trail,Nissan,2010,115000000,115000,Bensin
+496,Chevrolet Captiva,Chevrolet,2007,90000000,95000,Bensin
+497,Toyota Kijang SX,Toyota,2000,65000000,115000,Bensin
+498,Mercedes-Benz E-Class E300,Mercedes-Benz,1988,33000000,210000,Bensin
+499,Daihatsu Terios TX,Daihatsu,2013,125000000,70000,Bensin
+500,Chevrolet Captiva,Chevrolet,2011,135000000,50000,Diesel
+501,Mini Cooper Mini,Mini Cooper,2015,625000000,15000,Bensin
+502,Daihatsu Taft,Daihatsu,1986,43000000,15000,Bensin
+503,Suzuki Wagon R,Suzuki,2011,66500000,50000,Bensin
+504,Hyundai H-1 Elegance,Hyundai,2008,88000000,115000,Bensin
+505,Daihatsu Ayla X,Daihatsu,2014,84500000,60000,Bensin
+506,Chevrolet Trax LTZ,Chevrolet,2017,215000000,15000,Bensin
+507,Datsun Go+,Datsun,2014,85000000,40000,Bensin
+508,KIA Picanto SE,KIA,2011,83000000,65000,Bensin
+509,Honda Odyssey Absolute,Honda,2003,88000000,130000,Bensin
+510,Mitsubishi Pajero Sport,Mitsubishi,2014,265000000,65000,Diesel
+511,Mazda 323,Mazda,1997,38000000,110000,Bensin
+512,BMW X5 xDrive35i,BMW,2015,809000000,40000,Bensin
+513,Daihatsu Terios TX,Daihatsu,2011,122000000,40000,Bensin
+514,Honda Freed E,Honda,2012,164000000,70000,Bensin
+515,Honda Mobilio E,Honda,2017,175000000,5000,Bensin
+516,KIA Rio,KIA,2012,54000000,35000,Bensin
+517,Audi Audi A4,Audi,2013,255000000,55000,Bensin
+518,Honda Mobilio S,Honda,2017,134000000,55000,Bensin
+519,Nissan Livina,Nissan,2013,115000000,60000,Bensin
+520,Nissan Livina,Nissan,2014,115000000,245000,Bensin
+521,Daihatsu Espass,Daihatsu,1995,27000000,10000,Bensin
+522,Toyota Avanza Veloz,Toyota,2012,125000000,30000,Bensin
+523,BMW Serie 3,BMW,2012,219000000,40000,Bensin
+524,Nissan March,Nissan,2011,82000000,80000,Bensin
+525,Nissan Evalia ST,Nissan,2014,95000000,40000,Bensin
+526,Daihatsu Xenia X,Daihatsu,2013,116000000,80000,Bensin
+527,Mitsubishi Lancer 1.6,Mitsubishi,1997,65000000,15000,Bensin
+528,Mazda Biante 2.0,Mazda,2015,255000000,65000,Bensin
+529,Isuzu Panther,Isuzu,1994,43000000,35000,Diesel
+530,KIA Picanto A/T,KIA,2007,55000000,90000,Bensin
+531,Isuzu Panther LV,Isuzu,2016,190000000,40000,Diesel
+532,Mazda 2 V,Mazda,2012,115000000,55000,Bensin
+533,BMW Serie 7,BMW,2015,1375000000,5000,Bensin
+534,Proton Gen2,Proton,2013,72000000,30000,Bensin
+535,Nissan Juke RX,Nissan,2012,128000000,45000,Bensin
+536,BMW Serie 2,BMW,2015,355000000,35000,Bensin
+537,Chevrolet Orlando LT,Chevrolet,2014,165000000,65000,Bensin
+538,Ford Focus S,Ford,2013,185000000,35000,Bensin
+539,Mazda Biante 2.0,Mazda,2015,270000000,45000,Bensin
+540,Mazda 2 GT,Mazda,2015,190000000,65000,Bensin
+541,Toyota Avanza G,Toyota,2010,107000000,30000,Bensin
+542,Mercedes-Benz S-Class S400,Mercedes-Benz,2015,1550000000,20000,Bensin
+543,Daihatsu Xenia X,Daihatsu,2012,89000000,110000,Bensin
+544,BMW X1 sDrive18i,BMW,2017,525000000,25000,Bensin
+545,Isuzu Panther LS,Isuzu,2001,74000000,135000,Diesel
+546,Hyundai i10 1.1,Hyundai,2009,62000000,70000,Bensin
+547,Toyota Vios G,Toyota,2005,55000000,20000,Bensin
+548,Suzuki Katana GX,Suzuki,1996,45000000,95000,Bensin
+549,Datsun Go+ Panca,Datsun,2015,70000000,75000,Bensin
+550,Mini Cooper Mini,Mini Cooper,2012,675000000,10000,Bensin
+551,Isuzu Panther,Isuzu,1997,75000000,160000,Diesel
+552,Suzuki Ertiga GX,Suzuki,2016,145000000,75000,Bensin
+553,Ford Everest XLT,Ford,2005,82000000,165000,Diesel
+554,Nissan Serena HWS,Nissan,2004,81000000,45000,Bensin
+555,Suzuki Wagon R,Suzuki,2015,85000000,45000,Bensin
+556,Mercedes-Benz,Mercedes-Benz,2015,410000000,25000,Bensin
+557,BMW X1 sDrive20d,BMW,2011,265000000,55000,Diesel
+558,Mercedes-Benz Vito,Mercedes-Benz,2001,83000000,60000,Bensin
+559,Toyota Voxy,Toyota,2018,418000000,10000,Bensin
+560,Mazda Biante 2.0,Mazda,2013,185000000,75000,Bensin
+561,Datsun 120,Datsun,1986,22000000,75000,Bensin
+562,Volkswagen Golf MkVII,Volkswagen,2014,249000000,35000,Bensin
+563,Mitsubishi Pajero Sport,Mitsubishi,2011,250000000,45000,Diesel
+564,BMW Serie 3,BMW,2002,82000000,95000,Bensin
+565,Isuzu Elf Minibus,Isuzu,2010,140000000,120000,Diesel
+566,Toyota Agya TRD,Toyota,2016,115000000,60000,Bensin
+567,Honda CR-V 2.0,Honda,2007,97000000,145000,Bensin
+568,Chevrolet Blazer,Chevrolet,2005,65000000,35000,Bensin
+569,Daihatsu Ayla X,Daihatsu,2018,100000000,15000,Bensin
+570,Chevrolet Spin LTZ,Chevrolet,2015,110000000,55000,Bensin
+571,Lexus RX 350,Lexus,2005,155000000,100000,Bensin
+572,BMW X5 E70,BMW,2010,320000000,40000,Bensin
+573,Cadillac Escalade V8,Cadillac,2011,800000000,5000,Bensin
+574,Daihatsu Gran max,Daihatsu,2017,95000000,45000,Bensin
+575,Daihatsu Xenia R,Daihatsu,2012,115000000,120000,Bensin
+576,Suzuki Ertiga GL,Suzuki,2013,112500000,85000,Bensin
+577,Nissan Livina X-Gear,Nissan,2008,87500000,80000,Bensin
+578,Nissan X-Trail,Nissan,2010,117000000,110000,Bensin
+579,Jeep Wrangler Sport,Jeep,1997,369000000,135000,Bensin
+580,Lexus RX 270,Lexus,2012,380000000,55000,Bensin
+581,Ford Ecosport Titanium,Ford,2015,130000000,75000,Bensin
+582,Mercedes-Benz C-Class C280,Mercedes-Benz,2002,99000000,100000,Bensin
+583,Daihatsu Ayla X,Daihatsu,2017,91500000,45000,Bensin
+584,Daihatsu Gran max,Daihatsu,2019,125000000,10000,Bensin
+585,Mini Cooper Mini,Mini Cooper,1986,450000000,60000,Bensin
+586,Suzuki Jimny,Suzuki,1986,53000000,20000,Bensin
+587,Mazda 2 R,Mazda,2017,203500000,30000,Bensin
+588,KIA Picanto SE,KIA,2013,85000000,50000,Bensin
+589,Suzuki Ertiga GX,Suzuki,2018,165000000,10000,Bensin
+590,Isuzu,Isuzu,2016,218000000,65000,Diesel
+591,Suzuki Ertiga GL,Suzuki,2014,130000000,60000,Bensin
+592,Nissan Juke RX,Nissan,2012,139000000,105000,Bensin
+593,Daihatsu Zebra Minibus,Daihatsu,2001,23000000,5000,Bensin
+594,Mazda 2 V,Mazda,2014,125000000,30000,Bensin
+595,Isuzu Elf Minibus,Isuzu,2015,260000000,12500,Diesel
+596,Lexus LX 570,Lexus,2010,1175000000,95000,Bensin
+597,Mini Cooper Mini,Mini Cooper,2014,585000000,5000,Bensin
+598,Isuzu Panther LV,Isuzu,2005,95000000,215000,Diesel
+599,Datsun Go+ Panca,Datsun,2015,75000000,105000,Bensin
+600,Toyota Sienta G,Toyota,2017,180000000,45000,Bensin
+601,Chevrolet Spin ACTIV,Chevrolet,2015,147500000,20000,Bensin
+602,Chevrolet Captiva,Chevrolet,2009,115000000,25000,Bensin
+603,Nissan Grand livina,Nissan,2009,70000000,175000,Bensin
+604,Daihatsu Sigra 1.2,Daihatsu,2018,101000000,60000,Bensin
+605,Mazda CX-3,Mazda,2017,335000000,10000,Bensin
+606,Chevrolet Trax LTZ,Chevrolet,2017,215000000,20000,Bensin
+607,Isuzu Panther Pick,Isuzu,2008,80000000,145000,Diesel
+608,Daihatsu Sigra 1.2,Daihatsu,2018,109000000,15000,Bensin
+609,Mitsubishi Xpander GLX,Mitsubishi,2018,190000000,40000,Bensin
+610,Hyundai i20,Hyundai,2016,126000000,85000,Bensin
+611,BMW Serie 3,BMW,2014,349000000,45000,Bensin
+612,Jeep Rubicon,Jeep,2012,710000000,25000,Bensin
+613,Daihatsu Espass,Daihatsu,2007,30000000,35000,Bensin
+614,Mitsubishi Xpander ULTIMATE,Mitsubishi,2017,225000000,10000,Bensin
+615,Toyota Avanza G,Toyota,2014,112000000,100000,Bensin
+616,Mercedes-Benz GLC-Class,Mercedes-Benz,2019,989000000,5000,Bensin
+617,Honda City 1.5,Honda,1997,39000000,100000,Bensin
+618,Datsun Go+ Panca,Datsun,2014,70000000,85000,Bensin
+619,Porsche,Porsche,2014,890000000,30000,Bensin
+620,Mercedes-Benz E-Class E300,Mercedes-Benz,2010,269000000,45000,Bensin
+621,Datsun Go+ Panca,Datsun,2016,89950000,35000,Bensin
+622,Mazda 2 R,Mazda,2016,172000000,70000,Bensin
+623,Suzuki Katana,Suzuki,1986,88500000,5000,Bensin
+624,Ford Fiesta Sport,Ford,2013,120000000,100000,Bensin
+625,KIA Picanto SE,KIA,2012,79000000,65000,Bensin
+626,KIA Sorento,KIA,2013,175000000,80000,Bensin
+627,Nissan Grand livina,Nissan,2014,115000000,40000,Bensin
+628,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,216000000,15000,Bensin
+629,BMW Serie 3,BMW,1995,125000000,40000,Bensin
+630,Mercedes-Benz S-Class S300,Mercedes-Benz,2010,467000000,20000,Bensin
+631,Volkswagen Scirocco 1.4,Volkswagen,2014,375000000,25000,Bensin
+632,Nissan March 1.2L,Nissan,2011,75000000,75000,Bensin
+633,Nissan,Nissan,2012,60000000,15000,Bensin
+634,Hino Dutro 300,Hino,2018,270000000,25000,Diesel
+635,Isuzu Panther LV,Isuzu,2005,87000000,150000,Diesel
+636,Isuzu Panther Touring,Isuzu,2004,110000000,205000,Diesel
+637,Jeep CJ7,Jeep,1986,120000000,30000,Diesel
+638,Honda Jazz RS,Honda,2016,185000000,55000,Bensin
+639,Honda City S,Honda,2014,139000000,5000,Bensin
+640,Daihatsu Terios TX,Daihatsu,2007,98000000,150000,Bensin
+641,Mercedes-Benz B-Class,Mercedes-Benz,2004,124000000,95000,Bensin
+642,Isuzu Panther LV,Isuzu,2007,90000000,115000,Diesel
+643,KIA Picanto SE,KIA,2011,75000000,120000,Bensin
+644,Mercedes-Benz E-Class E230,Mercedes-Benz,1991,65000000,100000,Bensin
+645,Toyota Yaris G,Toyota,2018,190000000,10000,Bensin
+646,Suzuki APV SGX,Suzuki,2016,145000000,80000,Bensin
+647,Ford Ranger Standard,Ford,2013,110000000,75000,Diesel
+648,Chevrolet Aveo LT,Chevrolet,2004,64000000,90000,Bensin
+649,Mercedes-Benz SLK-Class SLK200,Mercedes-Benz,2012,615000000,25000,Bensin
+650,Volkswagen Polo TSI,Volkswagen,2017,185000000,40000,Bensin
+651,KIA Picanto M/T,KIA,2009,65000000,90000,Bensin
+652,Mazda 2 R,Mazda,2011,120000000,80000,Bensin
+653,Chevrolet Captiva,Chevrolet,2011,150000000,115000,Diesel
+654,BMW Serie 3,BMW,1997,125000000,80000,Bensin
+655,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,229000000,15000,Bensin
+656,KIA Rio Hatchback,KIA,2013,108000000,95000,Bensin
+657,Suzuki Karimun GX,Suzuki,2015,70000000,110000,Bensin
+658,Lexus RX 270,Lexus,2011,330000000,30000,Bensin
+659,Toyota Innova V,Toyota,2014,179000000,80000,Bensin
+660,Chevrolet Estate LS,Chevrolet,2007,80000000,190000,Bensin
+661,Suzuki Grand vitara,Suzuki,2011,105000000,90000,Bensin
+662,KIA Travello,KIA,2007,68000000,95000,Diesel
+663,Daihatsu Espass,Daihatsu,2005,42500000,75000,Bensin
+664,Nissan Livina,Nissan,2013,115000000,115000,Bensin
+665,Honda CR-V,Honda,2018,440000000,20000,Bensin
+666,Hyundai Grand Avega,Hyundai,2012,110000000,65000,Bensin
+667,Suzuki Ertiga GX,Suzuki,2014,112000000,80000,Bensin
+668,Mazda E2000,Mazda,1997,40000000,90000,Bensin
+669,Isuzu Panther,Isuzu,1994,43500000,30000,Diesel
+670,Mazda CX-5 Touring,Mazda,2012,175000000,12500,Bensin
+671,Jeep Jeep,Jeep,1986,75000000,85000,Bensin
+672,KIA Rio,KIA,2012,101000000,75000,Bensin
+673,KIA Sportage,KIA,2000,70000000,195000,Bensin
+674,BMW Serie 3,BMW,2003,86000000,160000,Bensin
+675,Mazda CX-3 Touring,Mazda,2017,320000000,35000,Bensin
+676,Jeep Grand Cherokee,Jeep,2000,258000000,135000,Bensin
+677,Honda CR-V 2.4,Honda,2005,95000000,170000,Bensin
+678,Honda City i-DSI,Honda,2005,76000000,260000,Bensin
+679,Ford Ranger WildTrak,Ford,2016,699000000,20000,Diesel
+680,Suzuki Ignis GX,Suzuki,2017,120000000,5000,Bensin
+681,Nissan Juke RX,Nissan,2011,122500000,110000,Bensin
+682,KIA Sportage EX,KIA,2013,160000000,65000,Bensin
+683,Nissan Serena Autech,Nissan,2015,269000000,75000,Bensin
+684,Toyota Calya G,Toyota,2016,140000000,65000,Bensin
+685,Chevrolet Captiva,Chevrolet,2008,105000000,115000,Bensin
+686,Ford Ecosport Titanium,Ford,2014,105000000,110000,Bensin
+687,Isuzu Panther,Isuzu,1994,40000000,105000,Diesel
+688,Mitsubishi Pajero Sport,Mitsubishi,2016,405000000,80000,Diesel
+689,BMW Serie 3,BMW,1994,75000000,165000,Bensin
+690,Mitsubishi Pajero Sport,Mitsubishi,2011,225000000,55000,Bensin
+691,Daihatsu Xenia X,Daihatsu,2018,136000000,30000,Bensin
+692,Daihatsu Gran max,Daihatsu,2018,134200000,40000,Bensin
+693,BMW X1 sDrive18i,BMW,2013,260000000,55000,Bensin
+694,Isuzu New Panther,Isuzu,1998,78000000,25000,Diesel
+695,Isuzu Panther,Isuzu,1997,60000000,200000,Diesel
+696,Hyundai,Hyundai,2001,48000000,15000,Bensin
+697,Isuzu Panther,Isuzu,2008,89000000,40000,Diesel
+698,Datsun Go+ Panca,Datsun,2015,80000000,30000,Bensin
+699,Ford Fiesta Trend,Ford,2013,97000000,35000,Bensin
+700,Mercedes-Benz,Mercedes-Benz,1986,39000000,100000,Bensin
+701,BMW Serie 3,BMW,1986,55000000,15000,Bensin
+702,BMW Serie 3,BMW,2003,90000000,105000,Bensin
+703,Honda Brio Satya,Honda,2016,119500000,20000,Bensin
+704,Nissan X-Trail,Nissan,2008,69000000,115000,Bensin
+705,Honda HR-V E,Honda,2015,225000000,40000,Bensin
+706,Honda Brio Satya,Honda,2018,139500000,30000,Bensin
+707,Honda Brio,Honda,2014,114500000,60000,Bensin
+708,Toyota Camry V,Toyota,2016,377000000,50000,Bensin
+709,Mazda Biante 2.0,Mazda,2016,245000000,25000,Bensin
+710,BMW Serie 5,BMW,2012,370000000,40000,Diesel
+711,Mercedes-Benz E-Class E250,Mercedes-Benz,2016,925000000,5000,Bensin
+712,Isuzu Panther,Isuzu,1997,62000000,115000,Diesel
+713,Mitsubishi Delica Standart,Mitsubishi,2015,195000000,120000,Bensin
+714,Mazda CX-5 Touring,Mazda,2013,235000000,95000,Bensin
+715,Volkswagen Tiguan TSI,Volkswagen,2015,245000000,75000,Bensin
+716,Toyota Alphard G,Toyota,2005,145000000,105000,Bensin
+717,Chevrolet Spark LT,Chevrolet,2010,68000000,12500,Bensin
+718,Mitsubishi Eterna 2.0,Mitsubishi,1989,39000000,205000,Bensin
+719,Mitsubishi Kuda GLX,Mitsubishi,2000,45000000,25000,Diesel
+720,Honda Jazz i-DSI,Honda,2006,74000000,115000,Bensin
+721,Mini Cooper Mini,Mini Cooper,2014,438000000,45000,Bensin
+722,Suzuki Carry RV.,Suzuki,2001,43500000,15000,Bensin
+723,Volvo XC90 T-6,Volvo,2007,195000000,65000,Bensin
+724,Mini Cooper Mini,Mini Cooper,2017,590000000,15000,Bensin
+725,Mitsubishi Pajero Sport,Mitsubishi,2016,415000000,60000,Diesel
+726,Toyota Innova G,Toyota,2012,149000000,120000,Bensin
+727,Datsun Go T,Datsun,2018,107500000,15000,Bensin
+728,BMW X6 xDrive35i,BMW,2014,850000000,45000,Bensin
+729,Daihatsu Xenia R,Daihatsu,2015,125000000,70000,Bensin
+730,Suzuki Ertiga GX,Suzuki,2013,120000000,90000,Bensin
+731,Daihatsu Taruna CL,Daihatsu,2000,45000000,15000,Bensin
+732,Suzuki Baleno,Suzuki,2001,45000000,12500,Bensin
+733,Chevrolet Captiva,Chevrolet,2010,99000000,150000,Diesel
+734,Proton,Proton,2017,95000000,20000,Bensin
+735,Mercedes-Benz S-Class S350,Mercedes-Benz,2011,676000000,25000,Bensin
+736,Hyundai Trajet GLS,Hyundai,2000,65000000,120000,Bensin
+737,KIA Carnival GS,KIA,2001,40000000,10000,Diesel
+738,Mercedes-Benz,Mercedes-Benz,2013,690000000,105000,Diesel
+739,Daihatsu Xenia R,Daihatsu,2012,98000000,160000,Bensin
+740,BMW Serie 3,BMW,2014,475000000,25000,Bensin
+741,Mazda CX-3 Touring,Mazda,2017,298000000,40000,Bensin
+742,Land Rover Range,Land Rover,2018,2150000000,15000,Bensin
+743,Nissan March 1.2L,Nissan,2013,83000000,60000,Bensin
+744,Mercedes-Benz A-Class,Mercedes-Benz,2013,315000000,40000,Bensin
+745,Daihatsu Feroza,Daihatsu,1995,38500000,30000,Bensin
+746,Honda Odyssey,Honda,2004,79000000,105000,Bensin
+747,Honda Mobilio RS,Honda,2016,170000000,55000,Bensin
+748,Mazda,Mazda,2012,215000000,95000,Bensin
+749,Suzuki Baleno next-G,Suzuki,2005,65000000,180000,Bensin
+750,Chevrolet Aveo LT,Chevrolet,2014,100000000,85000,Bensin
+751,BMW X5 xDrive35i,BMW,2015,745000000,35000,Bensin
+752,Chevrolet Colorado,Chevrolet,2012,183000000,75000,Diesel
+753,Datsun Go+ Panca,Datsun,2016,76000000,25000,Bensin
+754,Audi Audi A4,Audi,2013,270000000,50000,Bensin
+755,Mitsubishi Outlander,Mitsubishi,2015,230000000,25000,Bensin
+756,Honda Freed E,Honda,2009,122000000,120000,Bensin
+757,Daihatsu Gran max,Daihatsu,2008,56000000,255000,Bensin
+758,Toyota Kijang LX,Toyota,2003,59000000,165000,Bensin
+759,Chevrolet Spin,Chevrolet,2013,95000000,70000,Bensin
+760,Daihatsu Gran max,Daihatsu,2015,85000000,100000,Bensin
+761,Hyundai i20 GL,Hyundai,2010,75000000,115000,Bensin
+762,BMW Serie 3,BMW,2016,699000000,30000,Bensin
+763,Mazda CX-5 Elite,Mazda,2017,438000000,30000,Bensin
+764,Mazda 5,Mazda,2017,200000000,15000,Bensin
+765,Toyota Calya G,Toyota,2016,120000000,40000,Bensin
+766,Mazda 323 Interplay,Mazda,1993,25000000,205000,Bensin
+767,Nissan Grand livina,Nissan,2013,115000000,75000,Bensin
+768,Chevrolet Aveo LS,Chevrolet,2011,68500000,50000,Bensin
+769,Isuzu Elf Minibus,Isuzu,2014,310000000,55000,Diesel
+770,Lain-lain,Lain-lain,2013,107000000,60000,Bensin
+771,KIA Picanto SE,KIA,2013,88000000,50000,Bensin
+772,BMW Serie 5,BMW,2016,559000000,30000,Bensin
+773,Isuzu Panther,Isuzu,1998,59500000,300000,Diesel
+774,Ford Ranger Base,Ford,2013,220000000,90000,Diesel
+775,Nissan X-Trail,Nissan,2015,235000000,55000,Bensin
+776,Honda Brio E,Honda,2017,134000000,45000,Bensin
+777,Timor S515i,Timor,2000,33000000,12500,Bensin
+778,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,240000000,15000,Bensin
+779,BMW Serie 5,BMW,2005,83000000,185000,Bensin
+780,BMW Serie 4,BMW,2017,1195000000,5000,Bensin
+781,Suzuki Carry Pick-up,Suzuki,2018,94000000,15000,Bensin
+782,Mazda CX-5 Grand,Mazda,2013,215500000,70000,Bensin
+783,Isuzu,Isuzu,1996,46000000,120000,Diesel
+784,BMW X1 sDrive18i,BMW,2017,520000000,15000,Bensin
+785,Mercedes-Benz A-Class A250,Mercedes-Benz,2014,400000000,10000,Bensin
+786,Mercedes-Benz ML-Class ML350,Mercedes-Benz,2009,275000000,70000,Bensin
+787,Toyota Avanza G,Toyota,2013,120000000,90000,Bensin
+788,Suzuki SX4,Suzuki,2007,94000000,175000,Bensin
+789,Mercedes-Benz Lainnya,Mercedes-Benz,1997,65000000,105000,Bensin
+790,Chevrolet Captiva,Chevrolet,2010,127000000,145000,Diesel
+791,Chevrolet Orlando LT,Chevrolet,2012,150000000,65000,Bensin
+792,BMW Serie 5,BMW,2018,995000000,10000,Bensin
+793,Suzuki SX4 Cross,Suzuki,2011,105000000,140000,Bensin
+794,KIA Picanto M/T,KIA,2012,85000000,55000,Bensin
+795,Honda Brio Satya,Honda,2017,140000000,20000,Bensin
+796,Ford Fiesta Sport,Ford,2013,108000000,60000,Bensin
+797,Mercedes-Benz E-Class E250,Mercedes-Benz,2012,350000000,30000,Bensin
+798,Lexus RX 200T,Lexus,2016,1050000000,35000,Bensin
+799,Honda Jazz RS,Honda,2008,127000000,115000,Bensin
+800,Daihatsu Terios TX,Daihatsu,2008,118000000,100000,Bensin
+801,Mercedes-Benz S-Class S280,Mercedes-Benz,1986,380000000,50000,Bensin
+802,Isuzu New Panther,Isuzu,2006,93000000,205000,Diesel
+803,Nissan Serena,Nissan,1999,45000000,12500,Bensin
+804,Chevrolet Trooper,Chevrolet,1993,78000000,105000,Bensin
+805,Subaru XV 201,Subaru,2013,150000000,50000,Bensin
+806,Volkswagen Tiguan,Volkswagen,2013,199000000,35000,Bensin
+807,Mitsubishi Pajero Sport,Mitsubishi,2012,280000000,110000,Diesel
+808,Mazda MPV V6,Mazda,2002,60000000,150000,Bensin
+809,BMW Serie 3,BMW,1995,37500000,225000,Bensin
+810,Honda Mobilio E,Honda,2017,155000000,20000,Bensin
+811,Suzuki Ertiga,Suzuki,2013,108000000,75000,Bensin
+812,Daihatsu Gran max,Daihatsu,2019,114000000,10000,Bensin
+813,Chevrolet Spin LTZ,Chevrolet,2014,119000000,25000,Bensin
+814,Datsun Go+ Panca,Datsun,2016,77000000,35000,Bensin
+815,Suzuki Swift GX,Suzuki,2013,137000000,80000,Bensin
+816,Isuzu,Isuzu,2012,130000000,35000,Diesel
+817,Hyundai Cakra,Hyundai,1997,27000000,105000,Bensin
+818,Honda Accord VTi-L,Honda,2011,175000000,100000,Bensin
+819,Mercedes-Benz GLE-Class GLE400,Mercedes-Benz,2016,920000000,20000,Bensin
+820,Suzuki Carry Pick-up,Suzuki,2015,62000000,70000,Bensin
+821,Nissan Grand livina,Nissan,2013,94000000,55000,Bensin
+822,KIA Picanto M/T,KIA,2011,72000000,75000,Bensin
+823,Suzuki Ertiga GL,Suzuki,2017,154900000,25000,Bensin
+824,Honda Freed E,Honda,2014,168000000,95000,Bensin
+825,Geely MK,Geely,2012,55000000,45000,Bensin
+826,Daihatsu Espass Pick,Daihatsu,2002,32000000,60000,Bensin
+827,Audi Audi A8,Audi,2009,290000000,50000,Bensin
+828,Isuzu New Panther,Isuzu,2009,114500000,90000,Diesel
+829,BMW Serie 3,BMW,1996,57000000,120000,Bensin
+830,Mercedes-Benz C-Class C250,Mercedes-Benz,2017,720000000,30000,Bensin
+831,Nissan Grand livina,Nissan,2011,100000000,235000,Bensin
+832,Hyundai Santa Fe,Hyundai,2003,55000000,95000,Bensin
+833,Mitsubishi Pajero Sport,Mitsubishi,2014,295000000,90000,Diesel
+834,Daihatsu Xenia R,Daihatsu,2014,111000000,85000,Bensin
+835,Mitsubishi Pajero Sport,Mitsubishi,2013,260000000,80000,Diesel
+836,Wuling Confero S,Wuling,2018,125000000,10000,Bensin
+837,Fiat,Fiat,1986,19000000,12500,Bensin
+838,Honda HR-V E,Honda,2015,239000000,40000,Bensin
+839,Mazda Biante 2.0,Mazda,2017,250000000,40000,Bensin
+840,Toyota Innova G,Toyota,2009,116000000,100000,Bensin
+841,Datsun Go+ Panca,Datsun,2015,80000000,30000,Bensin
+842,BMW,BMW,2018,675000000,5000,Bensin
+843,Nissan,Nissan,2010,320000000,35000,Bensin
+844,Mitsubishi Colt,Mitsubishi,2008,133000000,35000,Diesel
+845,Chevrolet Captiva,Chevrolet,2013,159000000,105000,Diesel
+846,Mitsubishi Pajero Sport,Mitsubishi,2012,260000000,5000,Diesel
+847,KIA Rio Hatchback,KIA,2012,97500000,80000,Bensin
+848,Toyota Vellfire V,Toyota,2009,305000000,60000,Bensin
+849,Isuzu Elf Minibus,Isuzu,2003,67500000,145000,Diesel
+850,Honda Brio Satya,Honda,2016,115000000,85000,Bensin
+851,Chevrolet Trooper,Chevrolet,1994,87500000,300000,Bensin
+852,Hyundai Santa Fe,Hyundai,2012,205000000,100000,Diesel
+853,Datsun Go+ Panca,Datsun,2016,86500000,55000,Bensin
+854,KIA Visto,KIA,2002,46000000,30000,Bensin
+855,Hyundai Accent GLS,Hyundai,2000,32500000,105000,Bensin
+856,Toyota Innova,Toyota,2016,290000000,20000,Bensin
+857,Hyundai Santa Fe,Hyundai,2015,315000000,80000,Diesel
+858,Isuzu,Isuzu,2014,350000000,50000,Diesel
+859,Wuling Confero S,Wuling,2017,125000000,45000,Bensin
+860,Mitsubishi Pajero Sport,Mitsubishi,2012,280000000,105000,Diesel
+861,Daihatsu Sigra,Daihatsu,2019,150700000,5000,Bensin
+862,Daihatsu Luxio M,Daihatsu,2013,103000000,105000,Bensin
+863,Nissan Juke RX,Nissan,2012,130000000,60000,Bensin
+864,BMW X3 xDrive20i,BMW,2018,995000000,20000,Bensin
+865,Datsun Go+ Panca,Datsun,2018,110000000,10000,Bensin
+866,Mercedes-Benz E-Class E250,Mercedes-Benz,2013,525000000,55000,Bensin
+867,Porsche 911 Turbo,Porsche,2015,950000000,20000,Bensin
+868,Mercedes-Benz CLA-Class CLA200,Mercedes-Benz,2014,495000000,25000,Bensin
+869,Land Rover,Land Rover,1986,250000000,50000,Bensin
+870,Suzuki SX4,Suzuki,2008,85000000,140000,Bensin
+871,Toyota Agya TRD,Toyota,2013,93000000,50000,Bensin
+872,Nissan Grand livina,Nissan,2014,108000000,60000,Bensin
+873,Mazda 8,Mazda,2002,60000000,95000,Bensin
+874,Toyota Vellfire V,Toyota,2011,318000000,75000,Bensin
+875,Suzuki SX4 Cross,Suzuki,2007,82500000,205000,Bensin
+876,Mitsubishi Xpander GLS,Mitsubishi,2018,188000000,10000,Bensin
+877,Mercedes-Benz C-Class C300,Mercedes-Benz,2010,310000000,65000,Bensin
+878,Mercedes-Benz E-Class E300,Mercedes-Benz,1992,65000000,110000,Bensin
+879,Mazda 2 R,Mazda,2011,108000000,80000,Bensin
+880,BMW Serie 3,BMW,2000,78000000,110000,Bensin
+881,Mitsubishi Mirage Exceed,Mitsubishi,2013,115000000,45000,Bensin
+882,Hino Dutro Truck,Hino,2009,180000000,25000,Diesel
+883,Ford Fiesta Trend,Ford,2012,100000000,100000,Bensin
+884,Mercedes-Benz S-Class S300,Mercedes-Benz,2008,280000000,70000,Bensin
+885,Toyota Kijang LGX,Toyota,2001,87000000,205000,Diesel
+886,Daihatsu Terios TX,Daihatsu,2011,121000000,105000,Bensin
+887,Datsun Go+ Panca,Datsun,2016,78500000,35000,Bensin
+888,Jeep Wrangler Sport,Jeep,2011,620000000,50000,Bensin
+889,BMW M Series,BMW,2000,85000000,230000,Bensin
+890,Suzuki SX4 RC1,Suzuki,2012,125000000,60000,Bensin
+891,BMW X3 xDrive20d,BMW,2015,610000000,30000,Diesel
+892,Daihatsu Taft GT,Daihatsu,1995,109000000,205000,Diesel
+893,Daihatsu Terios TX,Daihatsu,2013,115000000,105000,Bensin
+894,Ford Lynx Ghia,Ford,1997,31500000,50000,Bensin
+895,KIA Carnival,KIA,2001,57000000,205000,Diesel
+896,Honda Brio E,Honda,2014,102000000,35000,Bensin
+897,Jeep Wrangler Sport,Jeep,2011,650000000,30000,Bensin
+898,Nissan Serena HWS,Nissan,2012,120000000,60000,Bensin
+899,Suzuki Ertiga GL,Suzuki,2016,125000000,45000,Bensin
+900,Mazda CX-5 Grand,Mazda,2015,295000045,65000,Bensin
+901,Mazda CX-5 Grand,Mazda,2015,298000000,75000,Bensin
+902,Proton Gen2,Proton,2008,65000000,120000,Bensin
+903,Honda Mobilio E,Honda,2017,143000000,40000,Bensin
+904,Honda Jazz RS,Honda,2016,205000000,35000,Bensin
+905,Mazda CX-5 Grand,Mazda,2014,217000000,65000,Bensin
+906,Daihatsu Ayla M,Daihatsu,2016,87000000,30000,Bensin
+907,Daihatsu Gran max,Daihatsu,2018,117500000,35000,Bensin
+908,Mazda 2 R,Mazda,2010,97500000,50000,Bensin
+909,Peugeot 206 XS,Peugeot,2006,59500000,115000,Bensin
+910,Isuzu Panther,Isuzu,1995,45000000,12500,Diesel
+911,KIA Carnival GS,KIA,2000,42000000,155000,Bensin
+912,Jeep Wrangler Sport,Jeep,2011,675000000,30000,Bensin
+913,Mitsubishi Pajero Sport,Mitsubishi,2011,230000000,95000,Diesel
+914,Mazda 323,Mazda,1986,18500000,30000,Bensin
+915,BMW Serie 5,BMW,2011,300000000,100000,Bensin
+916,Nissan Grand livina,Nissan,2007,88000000,12500,Bensin
+917,Mitsubishi Strada Triton,Mitsubishi,2011,160000000,100000,Diesel
+918,Mazda 2 R,Mazda,2011,109000000,90000,Bensin
+919,Ford Ranger XLT,Ford,2010,110000000,155000,Diesel
+920,Jaguar XJ,Jaguar,2004,123456789,75000,Bensin
+921,Toyota Innova G,Toyota,2009,120000000,80000,Bensin
+922,BMW Serie 3,BMW,2018,619000000,5000,Bensin
+923,KIA Sportage EX,KIA,2012,125000000,75000,Bensin
+924,Nissan March XS,Nissan,2015,112000000,50000,Bensin
+925,Mazda CX-5 Touring,Mazda,2013,187000000,215000,Bensin
+926,Honda CR-V 2.4,Honda,2015,320000000,80000,Bensin
+927,KIA Rio Hatchback,KIA,2000,42500000,60000,Bensin
+928,KIA Carens II,KIA,2005,59000000,80000,Bensin
+929,Datsun Go+ Panca,Datsun,2015,64500000,150000,Bensin
+930,Datsun Cross,Datsun,2019,147500000,5000,Bensin
+931,Chevrolet Aveo LT,Chevrolet,2014,120000000,70000,Bensin
+932,Ford Fiesta EcoBoost,Ford,2014,140000000,50000,Bensin
+933,Datsun Go+ Panca,Datsun,2015,93000000,40000,Bensin
+934,Suzuki Ertiga GX,Suzuki,2015,129500000,55000,Bensin
+935,Timor DOHC,Timor,2000,35000000,10000,Bensin
+936,Suzuki Katana,Suzuki,1994,46000000,90000,Bensin
+937,Suzuki APV Mega,Suzuki,2011,75000000,35000,Bensin
+938,Mitsubishi L300 Pick,Mitsubishi,2013,113000000,180000,Diesel
+939,Toyota Camry 2.5,Toyota,2012,199000000,110000,Bensin
+940,BMW Serie 3,BMW,1988,185000000,115000,Bensin
+941,Timor DOHC,Timor,2000,22000000,205000,Bensin
+942,BMW Serie 5,BMW,2012,298000000,75000,Bensin
+943,KIA Visto,KIA,2001,36500000,55000,Bensin
+944,Datsun Go+ Panca,Datsun,2015,67000000,50000,Bensin
+945,Toyota Innova G,Toyota,2014,195000000,50000,Bensin
+946,Isuzu,Isuzu,2001,21000000,40000,Diesel
+947,BMW Serie 5,BMW,2013,150000000,35000,Bensin
+948,Toyota Sienta E,Toyota,2017,150000000,35000,Bensin
+949,Toyota Innova G,Toyota,2012,201000000,140000,Diesel
+950,Toyota Avanza G,Toyota,2010,107000000,115000,Bensin
+951,Cadillac Escalade V8,Cadillac,2013,1175000000,40000,Bensin
+952,Ford Fiesta Sport,Ford,2014,125000000,50000,Bensin
+953,Daihatsu Terios R,Daihatsu,2016,165000000,50000,Bensin
+954,Hyundai Matrix,Hyundai,2002,43000000,135000,Bensin
+955,Suzuki Ertiga,Suzuki,2017,149000000,5000,Diesel
+956,KIA Rio Hatchback,KIA,2011,100000000,60000,Bensin
+957,Jeep Cherokee Limited,Jeep,1995,155000000,120000,Bensin
+958,KIA Picanto,KIA,2014,76500000,55000,Bensin
+959,Mitsubishi Pajero Sport,Mitsubishi,2014,260000000,60000,Diesel
+960,Mitsubishi Pajero Sport,Mitsubishi,2015,350000000,125000,Diesel
+961,Isuzu,Isuzu,2015,695000000,15000,Diesel
+962,Daihatsu Sigra,Daihatsu,2019,107000000,5000,Bensin
+963,Suzuki APV GL,Suzuki,2015,115000000,50000,Bensin
+964,Isuzu Elf Minibus,Isuzu,2013,145000000,225000,Diesel
+965,Hyundai Avega GX,Hyundai,2012,63000000,105000,Bensin
+966,Suzuki Jimny 5,Suzuki,1986,107000000,295000,Bensin
+967,Mercedes-Benz S-Class S320,Mercedes-Benz,1992,110000000,105000,Bensin
+968,Mazda 2 GT,Mazda,2015,181000000,60000,Bensin
+969,Ford Ecosport Titanium,Ford,2015,129000000,85000,Bensin
+970,Tata Xenon XT,Tata,2018,280000000,10000,Diesel
+971,Honda Jazz i-DSI,Honda,2004,70000000,205000,Bensin
+972,Ford Escape XLT,Ford,2005,81000000,130000,Bensin
+973,Mazda CX-7,Mazda,2012,185000000,70000,Bensin
+974,BMW Serie 3,BMW,2006,145000000,50000,Bensin
+975,KIA Rio 5,KIA,2013,107000000,30000,Bensin
+976,Porsche Cayenne Turbo,Porsche,2011,835000000,45000,Bensin
+977,Nissan X-Trail,Nissan,2004,98000000,50000,Bensin
+978,Toyota Etios Valco,Toyota,2013,100000000,60000,Bensin
+979,Mitsubishi Pajero Sport,Mitsubishi,2017,435000000,30000,Diesel
+980,Toyota Innova G,Toyota,2016,230000000,45000,Bensin
+981,Honda Accord VTi-L,Honda,2012,178000000,50000,Bensin
+982,Mercedes-Benz E-Class E300,Mercedes-Benz,2012,385000000,55000,Bensin
+983,Ford Escape XLT,Ford,2004,85000000,100000,Bensin
+984,Datsun Go+ Panca,Datsun,2016,75000000,35000,Bensin
+985,Chevrolet Captiva,Chevrolet,2010,110000000,155000,Diesel
+986,Chevrolet Captiva,Chevrolet,2008,109000000,100000,Diesel
+987,KIA,KIA,1998,33000000,145000,Bensin
+988,Volvo,Volvo,2001,145000000,100000,Bensin
+989,Land Rover Range,Land Rover,2011,1075000000,30000,Bensin
+990,Chevrolet Blazer,Chevrolet,2000,50000000,40000,Bensin
+991,Porsche Cayenne V6,Porsche,2012,715000000,55000,Bensin
+992,Honda City i-DSI,Honda,2003,66000000,205000,Bensin
+993,Toyota Agya TRD,Toyota,2015,92000000,15000,Bensin
+994,Daihatsu Xenia X,Daihatsu,2013,116000000,80000,Bensin
+995,Mercedes-Benz C-Class C180,Mercedes-Benz,1995,46000000,95000,Bensin
+996,Hyundai Trajet GLS,Hyundai,2001,39000000,200000,Bensin
+997,Chevrolet Spin LTZ,Chevrolet,2013,93000000,90000,Bensin
+998,Daihatsu Ayla,Daihatsu,2017,113000000,20000,Bensin
+999,Aston Martin Vantage,Aston Martin,2012,2200000000,10000,Bensin
+1000,Hino Dutro Truck,Hino,2016,230000000,15000,Diesel
+1001,Toyota Innova G,Toyota,2011,122000000,95000,Bensin
+1002,Suzuki Swift GL,Suzuki,2005,79000000,140000,Bensin
+1003,Mazda 2 RZ,Mazda,2014,109999000,85000,Bensin
+1004,Hyundai i20 GL,Hyundai,2012,86000000,85000,Bensin
+1005,Mercedes-Benz C-Class C200,Mercedes-Benz,2011,260000000,70000,Bensin
+1006,KIA Picanto SE,KIA,2011,75000000,90000,Bensin
+1007,Mitsubishi Pajero Sport,Mitsubishi,2011,265000000,105000,Diesel
+1008,Suzuki APV GX,Suzuki,2007,76000000,20000,Bensin
+1009,Isuzu Panther,Isuzu,1994,47000000,50000,Diesel
+1010,BMW Serie 3,BMW,2016,515000000,20000,Bensin
+1011,Chevrolet Spin LTZ,Chevrolet,2013,93000000,95000,Bensin
+1012,Datsun Go+ Panca,Datsun,2018,80000000,20000,Bensin
+1013,KIA Visto,KIA,2001,41000000,120000,Bensin
+1014,Daihatsu Charade G100,Daihatsu,1989,23500000,15000,Bensin
+1015,Mazda 2 RZ,Mazda,2012,105000005,55000,Bensin
+1016,Mitsubishi T120SS Pick,Mitsubishi,2018,88000000,20000,Bensin
+1017,KIA Sportage,KIA,2012,157500000,70000,Bensin
+1018,Datsun Go Panca,Datsun,2015,70500000,40000,Bensin
+1019,Datsun Go+ Panca,Datsun,2017,85000000,25000,Bensin
+1020,Daihatsu Ayla,Daihatsu,2018,115000000,10000,Bensin
+1021,Mazda 2 V,Mazda,2012,125000000,95000,Bensin
+1022,Isuzu Panther,Isuzu,1997,40000000,30000,Diesel
+1023,Suzuki Wagon R,Suzuki,2015,88000000,25000,Bensin
+1024,Mitsubishi Colt,Mitsubishi,1986,70000000,40000,Diesel
+1025,Mitsubishi Mirage Exceed,Mitsubishi,2012,95000000,110000,Bensin
+1026,Isuzu Panther,Isuzu,1997,44000000,55000,Diesel
+1027,Peugeot 405,Peugeot,1990,23000000,12500,Bensin
+1028,Suzuki Swift ST,Suzuki,2008,88000000,105000,Bensin
+1029,Mitsubishi Pajero Sport,Mitsubishi,2012,268000000,95000,Diesel
+1030,Hyundai Accent,Hyundai,1997,45000000,10000,Bensin
+1031,Toyota Agya G,Toyota,2015,95000000,40000,Bensin
+1032,Mitsubishi Pajero Sport,Mitsubishi,2016,400000000,45000,Diesel
+1033,Datsun Go Panca,Datsun,2016,80000000,20000,Bensin
+1034,Hyundai Santa Fe,Hyundai,2013,240000000,125000,Diesel
+1035,KIA Picanto SE,KIA,2012,83000000,90000,Bensin
+1036,Mazda 2 S,Mazda,2010,90000000,160000,Bensin
+1037,Toyota Calya G,Toyota,2016,106000000,10000,Bensin
+1038,Isuzu Elf Minibus,Isuzu,2013,270000000,200000,Diesel
+1039,Suzuki Ertiga GX,Suzuki,2013,128000000,65000,Bensin
+1040,Suzuki Carry,Suzuki,2010,65000000,40000,Bensin
+1041,Isuzu Grand touring,Isuzu,2002,115000000,150000,Diesel
+1042,Nissan Evalia ST,Nissan,2013,110000000,120000,Bensin
+1043,Isuzu Panther LM,Isuzu,2014,165000000,110000,Diesel
+1044,Honda Jazz i-DSI,Honda,2006,90000000,165000,Bensin
+1045,BMW X6 xDrive35i,BMW,2009,440000000,50000,Bensin
+1046,Mitsubishi Pajero Sport,Mitsubishi,2014,285000000,45000,Diesel
+1047,Toyota Fortuner TRD,Toyota,2018,450000000,15000,Diesel
+1048,Daihatsu Espass,Daihatsu,1997,27500000,35000,Bensin
+1049,KIA Picanto M/T,KIA,2004,57000000,145000,Bensin
+1050,Isuzu Panther LM,Isuzu,2007,88500000,110000,Diesel
+1051,Porsche,Porsche,2012,950000000,10000,Bensin
+1052,BMW Serie 3,BMW,1990,35000000,55000,Bensin
+1053,KIA Rio Hatchback,KIA,2013,123000000,45000,Bensin
+1054,Chevrolet Captiva,Chevrolet,2016,285000000,40000,Bensin
+1055,Mazda CX-9 3.7,Mazda,2010,210000000,50000,Bensin
+1056,Honda Jazz i-DSI,Honda,2006,78000000,105000,Bensin
+1057,Isuzu New Panther,Isuzu,2013,140000000,120000,Diesel
+1058,Ford Fiesta Sport,Ford,2013,110000000,70000,Bensin
+1059,Suzuki Ertiga GL,Suzuki,2013,126000000,130000,Bensin
+1060,Toyota Rush G,Toyota,2012,139500000,75000,Bensin
+1061,Daihatsu Xenia X,Daihatsu,2008,88000000,105000,Bensin
+1062,Nissan X-Trail,Nissan,2016,290000000,65000,Bensin
+1063,Chevrolet Spark LT,Chevrolet,2017,150000000,30000,Bensin
+1064,Mitsubishi Pajero Sport,Mitsubishi,2017,447500000,30000,Diesel
+1065,Jaguar E-Pace SUV,Jaguar,2016,1700000000,10000,Bensin
+1066,Nissan Juke RX,Nissan,2013,123000000,75000,Bensin
+1067,Chevrolet Captiva,Chevrolet,2011,137000000,80000,Diesel
+1068,BMW Serie 5,BMW,2012,333000000,30000,Bensin
+1069,Ford Ranger WildTrak,Ford,2008,100000000,190000,Diesel
+1070,Volkswagen Scirocco R,Volkswagen,2013,450000000,50000,Bensin
+1071,Mitsubishi Lancer 1.6,Mitsubishi,1992,28000000,40000,Bensin
+1072,Ferrari California California,Ferrari,2009,2375000000,20000,Bensin
+1073,Nissan Evalia SV,Nissan,2014,87000000,60000,Bensin
+1074,Volkswagen Scirocco 1.4,Volkswagen,2013,305000000,40000,Bensin
+1075,Toyota Kijang LGX,Toyota,1997,62000000,190000,Bensin
+1076,Jaguar XJ Portfolio,Jaguar,2015,1150000000,10000,Bensin
+1077,Hyundai,Hyundai,1997,24800000,105000,Bensin
+1078,Ford laser,Ford,1997,15000000,70000,Bensin
+1079,BMW X1 sDrive18i,BMW,2018,585000000,35000,Bensin
+1080,Isuzu Panther,Isuzu,1993,42000000,15000,Diesel
+1081,Mazda 2 R,Mazda,2013,145000000,60000,Bensin
+1082,Honda Jazz RS,Honda,2010,140000000,115000,Bensin
+1083,Chevrolet Captiva,Chevrolet,2011,138000000,85000,Diesel
+1084,Chevrolet Spin LTZ,Chevrolet,2013,92000000,65000,Bensin
+1085,Honda Mobilio E,Honda,2015,130000000,75000,Bensin
+1086,KIA Picanto SE,KIA,2013,87500000,65000,Bensin
+1087,Chevrolet Kalos,Chevrolet,2011,50000000,280000,Bensin
+1088,Suzuki Karimun estillo,Suzuki,2007,45000000,105000,Bensin
+1089,Mercedes-Benz S-Class S400,Mercedes-Benz,2016,1550000000,10000,Bensin
+1090,Isuzu Panther,Isuzu,1995,52000000,35000,Diesel
+1091,Tata Super Ace,Tata,2015,70500000,40000,Diesel
+1092,Toyota Avanza Veloz,Toyota,2012,118000000,90000,Bensin
+1093,Chevrolet Spin LTZ,Chevrolet,2013,91000000,115000,Bensin
+1094,Chevrolet Spin LTZ,Chevrolet,2015,105000000,70000,Bensin
+1095,Toyota Fortuner VRZ,Toyota,2017,390000000,40000,Diesel
+1096,Honda Brio Satya,Honda,2015,101300000,5000,Bensin
+1097,Mitsubishi Pajero Sport,Mitsubishi,2018,455000000,30000,Bensin
+1098,Volkswagen Golf FSI,Volkswagen,2005,89000000,125000,Bensin
+1099,Daihatsu Gran max,Daihatsu,2008,79000000,130000,Bensin
+1100,Datsun Go+ Panca,Datsun,2015,75000000,75000,Bensin
+1101,Isuzu Panther Grand,Isuzu,2005,145000000,160000,Diesel
+1102,Chevrolet Spin LTZ,Chevrolet,2013,95000000,80000,Bensin
+1103,Ford Fiesta Trend,Ford,2011,95000000,105000,Bensin
+1104,Hyundai Elantra,Hyundai,1995,25000000,105000,Bensin
+1105,Bentley Continental GT,Bentley,2012,3750000000,10000,Bensin
+1106,Toyota Camry V,Toyota,2007,127000000,120000,Bensin
+1107,Suzuki Ignis GX,Suzuki,2018,137000000,15000,Bensin
+1108,Isuzu Panther Grand,Isuzu,2008,146000000,200000,Diesel
+1109,Datsun Go+ Panca,Datsun,2017,75000000,25000,Bensin
+1110,Toyota Avanza E,Toyota,2016,132000000,50000,Bensin
+1111,Mitsubishi Pajero Sport,Mitsubishi,2016,390000000,80000,Diesel
+1112,Ford Escape XLT,Ford,2004,58000000,140000,Bensin
+1113,Suzuki Katana,Suzuki,1992,55000000,120000,Bensin
+1114,Ford Fiesta Sport,Ford,2013,89000000,105000,Bensin
+1115,Daihatsu Xenia Mi,Daihatsu,2007,67000000,125000,Bensin
+1116,Daihatsu Xenia X,Daihatsu,2018,138000000,15000,Bensin
+1117,Honda Brio E,Honda,2017,119000000,10000,Bensin
+1118,Honda Mobilio RS,Honda,2017,169000000,10000,Bensin
+1119,Mitsubishi Lancer GLXi,Mitsubishi,1993,39000000,105000,Bensin
+1120,Mitsubishi Xpander EXCEED,Mitsubishi,2018,215000000,40000,Bensin
+1121,Ford Lynx Ghia,Ford,2002,41000000,205000,Bensin
+1122,Ford Escape XLT,Ford,2010,120000000,95000,Bensin
+1123,Lexus LX 570,Lexus,2012,1050000000,135000,Diesel
+1124,Land Rover Range,Land Rover,2012,435000000,30000,Bensin
+1125,Mazda 2 R,Mazda,2013,115000000,55000,Bensin
+1126,Mercedes-Benz C-Class C200,Mercedes-Benz,2016,650000000,30000,Bensin
+1127,BMW Serie 3,BMW,2015,445000000,45000,Bensin
+1128,Chevrolet Trax LTZ,Chevrolet,2018,225000000,10000,Bensin
+1129,Lexus RX 270,Lexus,2014,485000000,105000,Bensin
+1130,Hyundai Accent,Hyundai,1997,35000000,40000,Bensin
+1131,Mitsubishi Xpander,Mitsubishi,2019,213700000,5000,Bensin
+1132,Porsche Boxster,Porsche,2013,1195000000,15000,Bensin
+1133,Daihatsu Terios TX,Daihatsu,2012,115000000,105000,Bensin
+1134,KIA Picanto M/T,KIA,2012,70000000,125000,Bensin
+1135,Audi Audi A5,Audi,2011,405000000,35000,Bensin
+1136,Aston Martin DB11,Aston Martin,2007,107000000,110000,Bensin
+1137,Toyota Fortuner G,Toyota,2014,267000000,85000,Bensin
+1138,Honda HR-V 1.8L,Honda,2016,281000000,65000,Bensin
+1139,Honda BR-V E,Honda,2017,177000000,30000,Bensin
+1140,Toyota Vios G,Toyota,2008,83000000,145000,Diesel
+1141,Nissan Serena HWS,Nissan,2013,187000000,150000,Bensin
+1142,Suzuki SX4,Suzuki,2008,70000000,120000,Bensin
+1143,Toyota Kijang Krista,Toyota,1999,83500000,185000,Diesel
+1144,Mitsubishi Galant V6-24,Mitsubishi,1998,60000000,225000,Bensin
+1145,Honda HR-V E,Honda,2015,220000000,85000,Bensin
+1146,Mercedes-Benz E-Class E280,Mercedes-Benz,2009,350000000,20000,Bensin
+1147,Nissan Evalia XV,Nissan,2012,89000000,235000,Bensin
+1148,Honda Brio E,Honda,2018,138000027,10000,Bensin
+1149,Nissan Serena X,Nissan,2015,178000000,100000,Bensin
+1150,Nissan Navara,Nissan,2013,230000000,115000,Diesel
+1151,Nissan Navara Sports,Nissan,2013,250000000,95000,Diesel
+1152,Toyota Calya G,Toyota,2016,110000000,55000,Bensin
+1153,Toyota Innova G,Toyota,2009,131000000,95000,Bensin
+1154,Mitsubishi T120SS,Mitsubishi,2016,77000000,85000,Diesel
+1155,Mazda 3 L4,Mazda,2006,89999999,105000,Bensin
+1156,Volvo S60,Volvo,2004,59500000,145000,Bensin
+1157,Ford Ecosport Titanium,Ford,2014,133000000,55000,Bensin
+1158,Hyundai Atoz GLS,Hyundai,2005,63500000,80000,Bensin
+1159,Nissan Grand livina,Nissan,2011,110000000,80000,Bensin
+1160,Mitsubishi Triton GLS,Mitsubishi,2013,205000000,100000,Diesel
+1161,Hyundai Avega GX,Hyundai,2008,53900000,140000,Bensin
+1162,Mazda CX-5 Grand,Mazda,2014,235000000,105000,Bensin
+1163,Ford Ranger XLT,Ford,2015,168500000,90000,Diesel
+1164,Lexus RX 270,Lexus,2012,405000000,55000,Bensin
+1165,BMW Serie 3,BMW,2001,78000000,175000,Bensin
+1166,Toyota Avanza G,Toyota,2013,129500000,20000,Bensin
+1167,Hyundai Avega GL,Hyundai,2010,58000000,130000,Bensin
+1168,Mazda Vantrend,Mazda,1995,27000000,10000,Bensin
+1169,Isuzu,Isuzu,1992,35000000,12500,Diesel
+1170,Nissan X-Trail,Nissan,2018,348000000,10000,Bensin
+1171,Hyundai Santa Fe,Hyundai,2016,299000000,60000,Bensin
+1172,Ford Everest XLT,Ford,2008,135000000,145000,Diesel
+1173,Nissan Juke RX,Nissan,2012,145000000,35000,Bensin
+1174,Isuzu Panther Touring,Isuzu,2003,139500000,250000,Diesel
+1175,Dodge Journey SXT,Dodge,2012,235000000,65000,Bensin
+1176,Suzuki Carry,Suzuki,1995,34000000,20000,Bensin
+1177,Hyundai New Tucson,Hyundai,2014,159000000,65000,Bensin
+1178,Jaguar S-Type,Jaguar,2002,130000000,40000,Bensin
+1179,Daihatsu Ayla X,Daihatsu,2016,98000000,40000,Bensin
+1180,Timor DOHC,Timor,1997,41500000,125000,Bensin
+1181,Suzuki SX4 Cross,Suzuki,2009,95000000,125000,Bensin
+1182,Toyota Calya G,Toyota,2016,95000000,100000,Bensin
+1183,Nissan Grand livina,Nissan,2014,115500000,70000,Bensin
+1184,Suzuki Escudo,Suzuki,1999,105000000,155000,Bensin
+1185,Mitsubishi Pajero Sport,Mitsubishi,2014,313000000,75000,Diesel
+1186,Mitsubishi Eterna 2.0,Mitsubishi,1989,39000000,205000,Bensin
+1187,Datsun Go+ Panca,Datsun,2015,75000000,70000,Bensin
+1188,Hyundai i20,Hyundai,2011,84000000,105000,Bensin
+1189,Mazda 323,Mazda,1997,36000000,110000,Bensin
+1190,Daihatsu Taruna CL,Daihatsu,2001,60000000,25000,Bensin
+1191,BMW Serie 7,BMW,1996,350000000,15000,Bensin
+1192,Hyundai Trajet,Hyundai,2002,60000000,100000,Bensin
+1193,Ford Ranger,Ford,2013,97500000,105000,Diesel
+1194,Honda Brio Satya,Honda,2017,122000000,10000,Bensin
+1195,Bentley Bentley,Bentley,2014,4600000000,5000,Bensin
+1196,Ford Escape Limited,Ford,2012,150000000,95000,Bensin
+1197,Daihatsu Gran max,Daihatsu,2014,80000000,25000,Bensin
+1198,Nissan Grand livina,Nissan,2013,125000000,65000,Bensin
+1199,Hyundai Atoz GLX,Hyundai,2002,38000000,140000,Bensin
+1200,Land Rover Range,Land Rover,2012,560000000,30000,Bensin
+1201,Ford Escape XLT,Ford,2003,110000000,25000,Bensin
+1202,Ford Escape XLT,Ford,2004,72500000,130000,Bensin
+1203,Mitsubishi Colt,Mitsubishi,1992,49000000,180000,Diesel
+1204,Toyota Agya TRD,Toyota,2015,95000000,60000,Bensin
+1205,Mazda Biante 2.0,Mazda,2014,242500000,45000,Bensin
+1206,Chevrolet Spark LT,Chevrolet,2018,194500000,15000,Bensin
+1207,Wuling Confero S,Wuling,2018,136000000,10000,Bensin
+1208,Suzuki Karimun estillo,Suzuki,2011,68000000,10000,Bensin
+1209,Aston Martin DB11,Aston Martin,2018,7900000000,5000,Bensin
+1210,Isuzu Grand touring,Isuzu,2015,225000000,40000,Diesel
+1211,Nissan Serena,Nissan,2007,74000000,125000,Bensin
+1212,Mazda RX-8,Mazda,2011,345000000,20000,Bensin
+1213,Nissan X-Trail,Nissan,2009,119500000,115000,Bensin
+1214,Daihatsu Terios TX,Daihatsu,2012,134000000,145000,Bensin
+1215,Toyota Avanza E,Toyota,2014,117000000,95000,Bensin
+1216,Nissan Serena HWS,Nissan,2008,84000000,125000,Bensin
+1217,Nissan March 1.2L,Nissan,2015,99000000,55000,Bensin
+1218,KIA Rio,KIA,2017,167000000,20000,Bensin
+1219,Toyota Yaris E,Toyota,2006,93000000,145000,Bensin
+1220,Mercedes-Benz C-Class C200,Mercedes-Benz,2010,198000000,90000,Bensin
+1221,Daihatsu Gran max,Daihatsu,2017,92000000,25000,Bensin
+1222,Mitsubishi L300 Pick,Mitsubishi,2000,45000000,100000,Diesel
+1223,Mazda CX-7,Mazda,2012,195000000,60000,Bensin
+1224,Honda Jazz RS,Honda,2013,155000000,80000,Bensin
+1225,Mitsubishi Strada Triton,Mitsubishi,2014,141000000,80000,Diesel
+1226,KIA Pregio SE,KIA,2008,73000000,185000,Diesel
+1227,Audi Audi Q3,Audi,2012,290000000,40000,Bensin
+1228,Chevrolet Trax LTZ,Chevrolet,2017,230000000,35000,Bensin
+1229,Suzuki Karimun,Suzuki,2016,97000000,30000,Bensin
+1230,Nissan Grand livina,Nissan,2016,135000000,45000,Bensin
+1231,Nissan Grand livina,Nissan,2007,75000000,215000,Bensin
+1232,Mazda 2 GT,Mazda,2016,190000000,50000,Bensin
+1233,Volkswagen Scirocco 1.4,Volkswagen,2013,375000000,20000,Bensin
+1234,Isuzu Panther,Isuzu,1997,55000000,25000,Diesel
+1235,Toyota Kijang Pick-Up,Toyota,2005,62500000,100000,Bensin
+1236,Mitsubishi,Mitsubishi,2014,175000000,80000,Diesel
+1237,Daihatsu Sigra,Daihatsu,2019,109000000,5000,Bensin
+1238,Mercedes-Benz CLA-Class,Mercedes-Benz,2016,415000000,15000,Bensin
+1239,Suzuki APV GX,Suzuki,2015,110000000,45000,Bensin
+1240,Ford Fiesta Sport,Ford,2011,95000000,70000,Bensin
+1241,Mitsubishi Pajero Sport,Mitsubishi,2015,275000000,100000,Diesel
+1242,Mercedes-Benz E-Class E250,Mercedes-Benz,2012,575000000,25000,Bensin
+1243,Chevrolet Captiva,Chevrolet,2010,128000000,110000,Diesel
+1244,Chevrolet Spin LTZ,Chevrolet,2013,93000000,100000,Bensin
+1245,Mercedes-Benz E-Class E300,Mercedes-Benz,1988,52000000,105000,Bensin
+1246,KIA Travello,KIA,2006,50000000,180000,Diesel
+1247,Datsun Go+ Panca,Datsun,2016,73000000,95000,Bensin
+1248,Datsun Go Panca,Datsun,2019,113000000,5000,Bensin
+1249,Suzuki Carry Pick-up,Suzuki,2018,120000000,15000,Bensin
+1250,Nissan Livina,Nissan,2008,69000000,150000,Bensin
+1251,Mazda CX-3 Touring,Mazda,2017,315000000,30000,Bensin
+1252,BMW Serie 6,BMW,2013,895000000,15000,Bensin
+1253,Fiat Abart,Fiat,2013,460000000,20000,Bensin
+1254,Honda Jazz,Honda,2014,177000000,50000,Bensin
+1255,KIA Picanto SE,KIA,2012,79000000,130000,Bensin
+1256,Mazda 6,Mazda,2013,275000000,35000,Bensin
+1257,Toyota Innova V,Toyota,2012,210000000,85000,Diesel
+1258,BMW X5 E53,BMW,2003,145000000,95000,Bensin
+1259,Volkswagen Touareg TDI,Volkswagen,2008,325000000,90000,Diesel
+1260,Mitsubishi Grandis,Mitsubishi,2005,95000000,135000,Bensin
+1261,BMW Serie 5,BMW,1998,60000000,205000,Bensin
+1262,Mazda Biante 2.0,Mazda,2013,215000000,20000,Bensin
+1263,Ford Everest XLT,Ford,2014,239000000,105000,Diesel
+1264,Nissan Livina X-Gear,Nissan,2014,117000000,70000,Bensin
+1265,Mazda CX-5 Elite,Mazda,2013,205000000,120000,Bensin
+1266,Honda CR-V,Honda,2008,143000000,95000,Bensin
+1267,Ford Everest XLT,Ford,2007,125000000,135000,Diesel
+1268,Honda Jazz GK,Honda,2016,187000000,70000,Bensin
+1269,BMW Serie 5,BMW,2018,1075000000,15000,Bensin
+1270,Mitsubishi L300 Pick,Mitsubishi,2014,140000000,80000,Diesel
+1271,Chevrolet Spark LT,Chevrolet,2011,69000000,95000,Bensin
+1272,Hyundai H-1 Royale,Hyundai,2012,195000000,110000,Diesel
+1273,Isuzu Elf Minibus,Isuzu,2013,290000000,225000,Diesel
+1274,BMW Serie 7,BMW,2012,725000000,45000,Bensin
+1275,BMW Serie 5,BMW,2008,189000000,30000,Bensin
+1276,KIA Picanto M/T,KIA,2013,82000000,55000,Bensin
+1277,Chevrolet Trax LTZ,Chevrolet,2016,170000000,50000,Bensin
+1278,Nissan Grand livina,Nissan,2008,90000000,100000,Bensin
+1279,BMW Serie 5,BMW,2012,370000000,40000,Diesel
+1280,Nissan Juke 1.5,Nissan,2011,130000000,130000,Bensin
+1281,Mazda Biante,Mazda,2016,235000000,60000,Bensin
+1282,BMW Serie 3,BMW,2002,34500000,100000,Bensin
+1283,Volkswagen Scirocco 1.4,Volkswagen,2014,350000000,55000,Bensin
+1284,Daihatsu Sirion D,Daihatsu,2015,120000000,15000,Bensin
+1285,Isuzu New Panther,Isuzu,2014,133000000,70000,Diesel
+1286,Mini Cooper Mini,Mini Cooper,2018,785000000,10000,Bensin
+1287,Mini Cooper Mini,Mini Cooper,2015,438000000,45000,Bensin
+1288,Datsun Go+ Panca,Datsun,2017,79000000,50000,Bensin
+1289,Datsun Go+ Panca,Datsun,2015,79000000,85000,Bensin
+1290,Mazda 2 R,Mazda,2016,173000000,35000,Bensin
+1291,Isuzu Panther LS,Isuzu,2014,180000000,155000,Diesel
+1292,Porsche,Porsche,2015,945000000,20000,Bensin
+1293,Mitsubishi Galant V6-24,Mitsubishi,1998,50000000,25000,Bensin
+1294,Honda,Honda,2016,155000000,65000,Bensin
+1295,BMW Serie 7,BMW,2003,109000000,90000,Bensin
+1296,Daihatsu Xenia R,Daihatsu,2012,112000000,40000,Bensin
+1297,BMW Serie 3,BMW,1995,55000000,190000,Bensin
+1298,Mercedes-Benz E-Class E200,Mercedes-Benz,2007,150000000,75000,Bensin
+1299,Mazda 2 S,Mazda,2011,92000000,100000,Bensin
+1300,Hyundai Trajet GL8,Hyundai,2004,47000000,190000,Bensin
+1301,Lexus LX 570,Lexus,2008,850000000,55000,Bensin
+1302,Nissan Grand livina,Nissan,2013,107000000,70000,Bensin
+1303,Mini Cooper Mini,Mini Cooper,2015,550000000,25000,Bensin
+1304,Hyundai Atoz GLS,Hyundai,2003,48000000,100000,Bensin
+1305,Toyota Fortuner G,Toyota,2014,265000000,70000,Diesel
+1306,Isuzu Panther,Isuzu,1995,53000000,105000,Diesel
+1307,Isuzu Elf Minibus,Isuzu,2009,120000000,10000,Diesel
+1308,Mazda 2 R,Mazda,2012,120000000,40000,Bensin
+1309,Fiat 500 Lounge,Fiat,2014,265000000,25000,Bensin
+1310,Honda Jazz S,Honda,2009,117000000,55000,Bensin
+1311,Mazda Biante,Mazda,2012,185000000,40000,Bensin
+1312,BMW Serie 3,BMW,1997,75000000,125000,Bensin
+1313,Toyota Etios Valco,Toyota,2013,75000000,60000,Bensin
+1314,Mitsubishi Pajero Sport,Mitsubishi,2013,350000000,20000,Diesel
+1315,Mazda CX-5 Grand,Mazda,2016,385000000,35000,Bensin
+1316,Hyundai Accent,Hyundai,2006,33000000,200000,Bensin
+1317,Datsun Go Panca,Datsun,2015,79500000,100000,Bensin
+1318,Datsun Go+ Panca,Datsun,2018,99000000,45000,Bensin
+1319,Honda CR-V,Honda,2011,147000000,85000,Bensin
+1320,Mitsubishi Lancer 1.6,Mitsubishi,1992,28000000,105000,Bensin
+1321,Toyota Avanza E,Toyota,2018,139000000,10000,Bensin
+1322,Mazda 2 R,Mazda,2011,91000000,45000,Bensin
+1323,Mazda Vantrend,Mazda,1994,25500000,170000,Bensin
+1324,Wuling,Wuling,2019,264800000,5000,Bensin
+1325,Mitsubishi L300,Mitsubishi,2016,124999999,55000,Diesel
+1326,Suzuki Ertiga GL,Suzuki,2016,149000000,35000,Bensin
+1327,Lain-lain,Lain-lain,1998,67000000,45000,Bensin
+1328,Honda Mobilio RS,Honda,2015,140000000,80000,Bensin
+1329,Mazda 2 Limited,Mazda,2010,98500000,75000,Bensin
+1330,Honda Odyssey 2.4L,Honda,2012,249000000,80000,Bensin
+1331,Volkswagen Polo,Volkswagen,2006,55000000,130000,Bensin
+1332,Renault Kwid 1.0,Renault,2018,110000000,5000,Bensin
+1333,Isuzu Panther LS,Isuzu,2007,120000000,150000,Diesel
+1334,Datsun Go,Datsun,2018,120000000,15000,Bensin
+1335,Lexus LS 460L,Lexus,2007,370000000,50000,Bensin
+1336,KIA Picanto SE,KIA,2013,91000000,85000,Bensin
+1337,Honda CR-V 2.0,Honda,2012,215000000,60000,Bensin
+1338,Mercedes-Benz E-Class E200,Mercedes-Benz,1986,29500000,275000,Bensin
+1339,Chevrolet Spin LTZ,Chevrolet,2013,98000000,95000,Bensin
+1340,Volkswagen Tiguan TSI,Volkswagen,2015,250000000,60000,Bensin
+1341,BMW Serie 3,BMW,2004,125000000,120000,Bensin
+1342,BMW i8 Sport,BMW,2014,875000000,30000,Bensin
+1343,Chevrolet Captiva,Chevrolet,2010,117500000,95000,Diesel
+1344,Land Rover Range,Land Rover,2012,570000000,40000,Bensin
+1345,Isuzu Panther Touring,Isuzu,2004,135000000,295000,Diesel
+1346,Isuzu D-Max,Isuzu,2014,185000000,95000,Bensin
+1347,Jeep Renegade Limited,Jeep,2011,775000000,25000,Bensin
+1348,Honda Brio E,Honda,2017,126000000,50000,Bensin
+1349,Mercedes-Benz E-Class E260,Mercedes-Benz,2003,118800000,115000,Bensin
+1350,Suzuki Ertiga GX,Suzuki,2012,106000000,110000,Bensin
+1351,Hyundai,Hyundai,2003,52000000,105000,Bensin
+1352,KIA Carens II,KIA,2005,55000000,100000,Bensin
+1353,Ford Ecosport Trend,Ford,2014,117000000,70000,Bensin
+1354,Mazda CX-5 Grand,Mazda,2013,205000000,70000,Bensin
+1355,Hyundai H-1,Hyundai,2010,150000000,115000,Diesel
+1356,Isuzu New Panther,Isuzu,2009,132000000,135000,Diesel
+1357,Ford Everest XLT,Ford,2011,190000000,105000,Diesel
+1358,Nissan Elgrand HWS,Nissan,2014,430000000,35000,Bensin
+1359,Hyundai Accent GLS,Hyundai,2000,29900000,150000,Bensin
+1360,Volkswagen Kodok,Volkswagen,1986,44000000,220000,Bensin
+1361,Isuzu Panther Grand,Isuzu,2011,180000000,90000,Diesel
+1362,Mini Cooper Mini,Mini Cooper,2015,625000000,15000,Bensin
+1363,Nissan X-Trail,Nissan,2017,255000000,55000,Bensin
+1364,Hyundai Atoz,Hyundai,2001,55000000,30000,Bensin
+1365,Nissan Livina,Nissan,2014,140000000,95000,Bensin
+1366,BMW X3 xDrive20i,BMW,2014,415000000,50000,Bensin
+1367,Isuzu Panther,Isuzu,1995,45000000,175000,Diesel
+1368,Daihatsu Xenia,Daihatsu,2013,105000000,105000,Bensin
+1369,Mini Cooper Mini,Mini Cooper,2008,348000000,50000,Bensin
+1370,Geely Panda Cross,Geely,2011,35000000,55000,Bensin
+1371,Daihatsu Ayla X,Daihatsu,2015,82000000,65000,Bensin
+1372,Mercedes-Benz G-Class,Mercedes-Benz,2019,4800000000,5000,Diesel
+1373,Daihatsu Terios TX,Daihatsu,2011,113000000,100000,Bensin
+1374,Ford Fiesta Trend,Ford,2012,120000000,30000,Bensin
+1375,Daihatsu Sigra 1.2,Daihatsu,2019,150000000,10000,Bensin
+1376,Mazda 8,Mazda,2012,185000000,100000,Bensin
+1377,Honda Brio,Honda,2013,103000000,70000,Bensin
+1378,Mitsubishi Outlander,Mitsubishi,2012,172000000,95000,Bensin
+1379,Mitsubishi Pajero Sport,Mitsubishi,2013,265000000,85000,Diesel
+1380,Mazda 2 GT,Mazda,2015,183000000,95000,Bensin
+1381,Datsun Go Panca,Datsun,2016,85000000,45000,Bensin
+1382,Klasik dan Antik,Klasik dan Antik,1986,77000000,20000,Bensin
+1383,Chevrolet Trailblazer,Chevrolet,2012,188000000,100000,Diesel
+1384,BMW Serie 3,BMW,1991,60000000,80000,Bensin
+1385,BMW Serie 3,BMW,1991,45000000,210000,Bensin
+1386,Daihatsu Xenia Xi,Daihatsu,2011,90000000,75000,Bensin
+1387,Daihatsu Xenia X,Daihatsu,2013,114000000,105000,Bensin
+1388,Toyota Rush G,Toyota,2018,225000000,10000,Bensin
+1389,Chevrolet Captiva,Chevrolet,2007,100000000,120000,Bensin
+1390,BMW Serie 3,BMW,2002,65000000,110000,Bensin
+1391,Suzuki APV GL,Suzuki,2010,66000000,25000,Bensin
+1392,Nissan X-Trail,Nissan,2008,115000000,135000,Bensin
+1393,Suzuki Karimun,Suzuki,2014,82000000,70000,Bensin
+1394,Daihatsu Ayla X,Daihatsu,2016,88000000,20000,Bensin
+1395,Ford Fiesta Sport,Ford,2012,95000000,120000,Bensin
+1396,Datsun Go+ Panca,Datsun,2017,87000000,30000,Bensin
+1397,Mercedes-Benz Lainnya,Mercedes-Benz,1995,55000000,35000,Bensin
+1398,KIA Rio Hatchback,KIA,2012,118000000,80000,Bensin
+1399,Honda HR-V E,Honda,2015,210000000,60000,Bensin
+1400,Honda BR-V E,Honda,2016,180000000,30000,Bensin
+1401,Nissan March,Nissan,2011,80000001,120000,Bensin
+1402,Datsun Go+ Panca,Datsun,2016,73000000,70000,Bensin
+1403,Nissan X-Trail,Nissan,2017,295000000,25000,Bensin
+1404,BMW Serie 5,BMW,2013,348000000,40000,Diesel
+1405,Suzuki Wagon R,Suzuki,2015,87750000,10000,Bensin
+1406,Daihatsu Terios TX,Daihatsu,2011,135000000,105000,Bensin
+1407,Lamborghini Aventador,Lamborghini,2012,5700000000,5000,Bensin
+1408,Mazda CX-3 Touring,Mazda,2018,310000000,10000,Bensin
+1409,BMW Serie 5,BMW,2013,350000000,15000,Diesel
+1410,Suzuki SX4,Suzuki,2010,85000000,125000,Bensin
+1411,Ford Ranger Base,Ford,2014,145000000,95000,Diesel
+1412,Chery,Chery,2000,45000000,235000,Bensin
+1413,Jeep Sahara,Jeep,2012,775000005,40000,Diesel
+1414,Mazda 2 GT,Mazda,2015,168000000,75000,Bensin
+1415,Lexus RX 270,Lexus,2013,625000000,45000,Bensin
+1416,Isuzu Panther LM,Isuzu,2013,135000000,120000,Diesel
+1417,Aston Martin DB11,Aston Martin,2003,58000000,20000,Bensin
+1418,Daihatsu Taruna CSX,Daihatsu,2000,55000000,50000,Bensin
+1419,Nissan Livina,Nissan,2011,87000000,70000,Bensin
+1420,Honda Brio Satya,Honda,2015,110000000,40000,Bensin
+1421,Suzuki Ertiga GL,Suzuki,2016,153000000,65000,Bensin
+1422,Mitsubishi Pajero Sport,Mitsubishi,2009,208000000,95000,Diesel
+1423,Honda Civic 1.8L,Honda,2007,130000000,145000,Bensin
+1424,Isuzu Panther,Isuzu,1997,59900000,210000,Diesel
+1425,Chevrolet Captiva,Chevrolet,2011,115000000,110000,Diesel
+1426,Daihatsu Gran max,Daihatsu,2008,77000000,95000,Bensin
+1427,Hino Dutro Truck,Hino,2014,215000000,45000,Diesel
+1428,Mitsubishi Kuda Super,Mitsubishi,2001,60000000,130000,Bensin
+1429,Nissan March,Nissan,2014,90000000,25000,Bensin
+1430,Daihatsu Luxio M,Daihatsu,2010,79999999,20000,Bensin
+1431,Suzuki Ertiga GX,Suzuki,2014,145000000,45000,Bensin
+1432,Mercedes-Benz E-Class E240,Mercedes-Benz,2001,99000000,105000,Bensin
+1433,Datsun Go+ Panca,Datsun,2018,100000000,25000,Bensin
+1434,Lamborghini Aventador,Lamborghini,2019,10000000000,5000,Bensin
+1435,Daihatsu Ayla X,Daihatsu,2013,78000000,30000,Bensin
+1436,Timor DOHC,Timor,2001,20000000,125000,Bensin
+1437,Honda Accord 2.4L,Honda,2005,77000000,195000,Bensin
+1438,Mercedes-Benz C-Class C200,Mercedes-Benz,2013,290000000,75000,Bensin
+1439,Mercedes-Benz C-Class C180,Mercedes-Benz,1995,45000000,125000,Bensin
+1440,Isuzu Panther LM,Isuzu,2005,89000000,255000,Diesel
+1441,Mazda Biante 2.0,Mazda,2016,239000000,25000,Bensin
+1442,Hyundai Atoz GLS,Hyundai,2001,33000000,20000,Bensin
+1443,Land Rover Range,Land Rover,2007,450000000,40000,Bensin
+1444,Mini Cooper Mini,Mini Cooper,2012,575000000,5000,Bensin
+1445,BMW Serie 4,BMW,2016,1050000000,15000,Bensin
+1446,Nissan Serena HWS,Nissan,2010,100000000,105000,Bensin
+1447,Toyota Fortuner,Toyota,2015,265000000,105000,Diesel
+1448,Mercedes-Benz C-Class C300,Mercedes-Benz,2019,1275000000,5000,Bensin
+1449,Toyota Innova V,Toyota,2010,175000000,140000,Diesel
+1450,Mazda 2 GT,Mazda,2015,179000000,55000,Bensin
+1451,Suzuki Ertiga GX,Suzuki,2013,128000000,70000,Bensin
+1452,Mercedes-Benz E-Class E250,Mercedes-Benz,2013,395000000,50000,Bensin
+1453,Chevrolet Trax LTZ,Chevrolet,2018,228000000,20000,Bensin
+1454,Hummer H3 L5,Hummer,2011,1175000000,40000,Bensin
+1455,Toyota Innova G,Toyota,2014,199000000,75000,Diesel
+1456,Datsun Go+ Panca,Datsun,2018,88000000,15000,Bensin
+1457,BMW X1 sDrive18i,BMW,2017,525000000,50000,Bensin
+1458,Suzuki Karimun,Suzuki,2015,88000000,25000,Bensin
+1459,Mitsubishi Strada Triton,Mitsubishi,2013,130000000,285000,Diesel
+1460,Hino,Hino,2013,487000000,115000,Diesel
+1461,BMW Serie 3,BMW,2013,345000000,45000,Bensin
+1462,Datsun Go+ Panca,Datsun,2014,76000000,35000,Bensin
+1463,Mazda 2 GT,Mazda,2015,188000000,95000,Bensin
+1464,Nissan March 1.5L,Nissan,2014,125000000,20000,Bensin
+1465,Chevrolet Spin LTZ,Chevrolet,2014,115000000,75000,Diesel
+1466,Ford Ecosport Titanium,Ford,2014,140000000,50000,Bensin
+1467,KIA Picanto SE,KIA,2013,87000000,65000,Bensin
+1468,Datsun Go Panca,Datsun,2016,75000000,50000,Bensin
+1469,Chevrolet Captiva,Chevrolet,2008,95500000,115000,Bensin
+1470,Toyota Vios,Toyota,2016,145000000,30000,Bensin
+1471,Honda CR-V 2.0,Honda,2010,143000000,100000,Bensin
+1472,Mitsubishi L300 Pick,Mitsubishi,2011,95000000,60000,Diesel
+1473,Nissan X-Trail,Nissan,2009,115000123,155000,Bensin
+1474,Toyota Innova G,Toyota,2007,99000000,95000,Bensin
+1475,Mazda 2 V,Mazda,2013,114000000,55000,Bensin
+1476,Honda CR-V 2.0,Honda,2010,144000000,40000,Bensin
+1477,Chevrolet Captiva,Chevrolet,2009,99000000,120000,Bensin
+1478,Suzuki Escudo,Suzuki,2001,75000000,220000,Bensin
+1479,Mitsubishi Triton GLX,Mitsubishi,2009,105000000,10000,Diesel
+1480,Datsun Go Panca,Datsun,2017,80000000,15000,Bensin
+1481,Toyota Avanza E,Toyota,2016,148000000,45000,Bensin
+1482,Suzuki Swift GX,Suzuki,2014,125000000,50000,Bensin
+1483,Hyundai H-1 2.5,Hyundai,2013,185000000,120000,Diesel
+1484,Toyota Fortuner G,Toyota,2010,215000000,225000,Diesel
+1485,Daihatsu Gran max,Daihatsu,2014,85000000,75000,Bensin
+1486,Ford Ranger,Ford,2013,205000000,115000,Diesel
+1487,Mazda 2 R,Mazda,2010,108000000,60000,Bensin
+1488,Honda City i-DSI,Honda,2008,95000000,135000,Bensin
+1489,Daihatsu Xenia X,Daihatsu,2012,120000000,170000,Bensin
+1490,Honda Brio E,Honda,2015,105000000,55000,Bensin
+1491,Mercedes-Benz B-Class B200,Mercedes-Benz,2012,197000000,85000,Bensin
+1492,BMW i8 Sports,BMW,2016,3400000000,10000,Hybrid
+1493,Ford laser,Ford,1988,30000000,125000,Bensin
+1494,Isuzu,Isuzu,2010,100000000,35000,Diesel
+1495,Wuling Cortez,Wuling,2018,180000000,20000,Bensin
+1496,Mitsubishi Mirage GLX,Mitsubishi,2014,90000000,65000,Bensin
+1497,Holden Premier,Holden,1986,70000000,70000,Bensin
+1498,Honda Jazz i-DSI,Honda,2005,87000000,105000,Bensin
+1499,KIA Carens II,KIA,2006,59000000,115000,Bensin
+1500,Toyota Fortuner G,Toyota,2016,375000000,25000,Diesel
+1501,Volkswagen Polo TSI,Volkswagen,2015,168000000,20000,Bensin
+1502,Datsun Go Panca,Datsun,2017,89000000,35000,Bensin
+1503,Chevrolet Optra,Chevrolet,2006,60000000,100000,Bensin
+1504,Honda Mobilio RS,Honda,2018,196000000,10000,Bensin
+1505,Suzuki Carry,Suzuki,1996,29000000,125000,Bensin
+1506,Mercedes-Benz GLE-Class GLE400,Mercedes-Benz,2016,1300000000,60000,Bensin
+1507,Mazda CX-5 Grand,Mazda,2016,325000000,30000,Bensin
+1508,Ford Fiesta Sport,Ford,2011,87000000,115000,Bensin
+1509,Honda Jazz RS,Honda,2009,145000000,85000,Bensin
+1510,Datsun Go+ Panca,Datsun,2017,84000000,30000,Bensin
+1511,BMW Serie 3,BMW,2012,317000000,45000,Bensin
+1512,Suzuki Ertiga GX,Suzuki,2015,150000000,30000,Bensin
+1513,Jeep Willys,Jeep,1986,110000000,125000,Diesel
+1514,Honda Mobilio RS,Honda,2017,177000079,15000,Bensin
+1515,Mercedes-Benz E-Class E200,Mercedes-Benz,2012,315000000,45000,Bensin
+1516,Mazda 2 R,Mazda,2013,103000000,100000,Bensin
+1517,Toyota Avanza G,Toyota,2012,120000000,80000,Bensin
+1518,Suzuki APV,Suzuki,2004,66000000,200000,Bensin
+1519,Peugeot 206 Sporty,Peugeot,2005,65000000,115000,Bensin
+1520,Daihatsu HIJET,Daihatsu,1989,12500000,20000,Bensin
+1521,Nissan Navara Sports,Nissan,2013,228000000,60000,Diesel
+1522,Toyota Agya TRD,Toyota,2016,105000000,10000,Bensin
+1523,KIA Picanto SE,KIA,2013,78000000,75000,Bensin
+1524,Suzuki Escudo,Suzuki,2001,65000000,90000,Bensin
+1525,Toyota Kijang SGX,Toyota,2003,76000000,110000,Bensin
+1526,Honda Accord VTi-L,Honda,2010,183000000,75000,Bensin
+1527,Volvo XC90 T-6,Volvo,2004,125000000,125000,Bensin
+1528,Mazda,Mazda,1998,40000000,10000,Bensin
+1529,Ford Everest 10-S,Ford,2011,120000000,35000,Diesel
+1530,Ford Ranger Standard,Ford,2015,250000000,45000,Bensin
+1531,Chevrolet Captiva,Chevrolet,2011,153000000,90000,Diesel
+1532,Volvo 960,Volvo,1992,32500000,105000,Bensin
+1533,Volkswagen Scirocco 1.4,Volkswagen,2014,380000000,10000,Bensin
+1534,Suzuki Jimny,Suzuki,1994,42000000,90000,Bensin
+1535,Land Rover Discovery,Land Rover,2008,770000000,85000,Diesel
+1536,Mercedes-Benz GLC-Class,Mercedes-Benz,2018,845000000,10000,Bensin
+1537,Daihatsu Ayla M,Daihatsu,2017,88000000,45000,Bensin
+1538,Ford laser,Ford,1996,17000000,125000,Bensin
+1539,Suzuki APV GL,Suzuki,2016,97500000,65000,Bensin
+1540,Jeep,Jeep,1994,38000000,110000,Bensin
+1541,Chevrolet Captiva,Chevrolet,2011,130000000,90000,Diesel
+1542,Datsun Go Panca,Datsun,2016,75000000,50000,Bensin
+1543,Hyundai Atoz GLS,Hyundai,2003,52000000,135000,Bensin
+1544,Mitsubishi Mirage GLX,Mitsubishi,2015,110000000,25000,Bensin
+1545,Chevrolet Captiva,Chevrolet,2007,75000000,90000,Bensin
+1546,Suzuki Ertiga GX,Suzuki,2019,205000000,5000,Bensin
+1547,Mitsubishi Pajero Sport,Mitsubishi,2018,445000000,15000,Diesel
+1548,Daihatsu Sirion D,Daihatsu,2016,116000000,45000,Bensin
+1549,Proton Gen2,Proton,2010,50000000,110000,Bensin
+1550,Toyota Yaris TRD,Toyota,2016,175000000,45000,Bensin
+1551,Nissan Grand livina,Nissan,2014,136950000,55000,Bensin
+1552,Mercedes-Benz C-Class C200,Mercedes-Benz,2017,659000000,5000,Bensin
+1553,Toyota Avanza G,Toyota,2017,153000000,35000,Bensin
+1554,Nissan Serena,Nissan,2007,68000000,30000,Bensin
+1555,Suzuki SX4 Cross,Suzuki,2017,210000000,55000,Bensin
+1556,Mercedes-Benz C-Class C200,Mercedes-Benz,2009,189000000,110000,Bensin
+1557,BMW Serie 3,BMW,2011,235000000,85000,Bensin
+1558,Isuzu Elf Minibus,Isuzu,2008,100000000,40000,Diesel
+1559,KIA Picanto M/T,KIA,2005,56000000,150000,Bensin
+1560,Toyota Corolla,Toyota,1990,27800000,40000,Bensin
+1561,Nissan Livina,Nissan,2009,78000000,100000,Bensin
+1562,Dodge Journey SXT,Dodge,2015,252000000,60000,Bensin
+1563,Toyota Calya,Toyota,2018,134000000,20000,Bensin
+1564,Ford Focus S,Ford,2012,150000000,70000,Bensin
+1565,Datsun Cross,Datsun,2018,100000000,35000,Bensin
+1566,Nissan March 1.2L,Nissan,2011,77000000,65000,Bensin
+1567,Ferrari California California,Ferrari,2013,2900000000,20000,Bensin
+1568,Jeep Compass,Jeep,2013,255000000,60000,Bensin
+1569,Daihatsu Taruna CSX,Daihatsu,2000,68500000,30000,Bensin
+1570,Mitsubishi Lancer 1.8,Mitsubishi,2004,72000000,185000,Bensin
+1571,Suzuki Ertiga GX,Suzuki,2015,128000000,95000,Bensin
+1572,Nissan Livina,Nissan,2010,87000000,100000,Bensin
+1573,Datsun Cross,Datsun,2018,122000000,15000,Bensin
+1574,Toyota Avanza Veloz,Toyota,2012,136000000,10000,Bensin
+1575,Wuling Cortez,Wuling,2018,195000000,5000,Bensin
+1576,Toyota Calya G,Toyota,2018,122000000,10000,Bensin
+1577,Renault Clio,Renault,2002,22000000,20000,Bensin
+1578,Suzuki Ertiga GX,Suzuki,2014,125000000,115000,Bensin
+1579,Ford Focus S,Ford,2013,145000000,85000,Bensin
+1580,Honda Accord 2.4L,Honda,2012,195000000,50000,Bensin
+1581,Mercedes-Benz C-Class C240,Mercedes-Benz,2003,130000000,85000,Bensin
+1582,Volvo S80,Volvo,2002,49000000,75000,Bensin
+1583,Volvo 960,Volvo,1996,60000000,205000,Bensin
+1584,Mercedes-Benz C-Class C180,Mercedes-Benz,2002,92000000,105000,Bensin
+1585,Daihatsu Xenia R,Daihatsu,2014,128000000,100000,Bensin
+1586,Isuzu Panther,Isuzu,1997,55000000,125000,Diesel
+1587,KIA Rio 1.6,KIA,2013,125000000,75000,Bensin
+1588,Jeep Cherokee,Jeep,2000,140000000,145000,Bensin
+1589,Wuling,Wuling,2019,305000000,10000,Bensin
+1590,Nissan March 1.2L,Nissan,2011,84000000,90000,Bensin
+1591,Mercedes-Benz E-Class E260,Mercedes-Benz,2002,125000000,95000,Bensin
+1592,Nissan Grand livina,Nissan,2012,87500000,45000,Bensin
+1593,Daihatsu Sigra 1.2,Daihatsu,2016,97000000,20000,Bensin
+1594,Nissan Grand livina,Nissan,2013,106000000,20000,Bensin
+1595,Mitsubishi Xpander,Mitsubishi,2019,228800000,5000,Bensin
+1596,Chevrolet Captiva,Chevrolet,2011,106000000,45000,Bensin
+1597,Chevrolet Captiva,Chevrolet,2016,285000000,35000,Diesel
+1598,Daihatsu Luxio D,Daihatsu,2017,126000000,30000,Bensin
+1599,Isuzu New Panther,Isuzu,2012,147500000,75000,Diesel
+1600,Chevrolet Captiva,Chevrolet,2015,120000000,80000,Bensin
+1601,Mini Cooper Mini,Mini Cooper,2015,615000000,25000,Bensin
+1602,KIA Picanto SE,KIA,2012,85000000,55000,Bensin
+1603,Mazda CX-5 Touring,Mazda,2012,198000000,90000,Bensin
+1604,Nissan March 1.2L,Nissan,2011,80000000,40000,Bensin
+1605,Isuzu Panther LM,Isuzu,2014,150000000,125000,Diesel
+1606,Suzuki Splash GL,Suzuki,2010,68000000,85000,Bensin
+1607,Daihatsu Ayla X,Daihatsu,2015,79000000,20000,Bensin
+1608,Mercedes-Benz C-Class C200,Mercedes-Benz,2013,260000000,55000,Bensin
+1609,Mitsubishi Pajero Sport,Mitsubishi,2017,425000000,60000,Diesel
+1610,Ford Fiesta Sport+,Ford,2014,120000000,90000,Bensin
+1611,Volkswagen Scirocco 1.4,Volkswagen,2013,365000000,30000,Bensin
+1612,Mini Cooper Mini,Mini Cooper,2019,720000000,5000,Bensin
+1613,Volkswagen Golf MkVII,Volkswagen,2014,287500000,25000,Bensin
+1614,Mercedes-Benz E-Class E300,Mercedes-Benz,1990,100000000,200000,Bensin
+1615,Mercedes-Benz GLA-Class GLA200,Mercedes-Benz,2015,465000000,20000,Bensin
+1616,Chevrolet Orlando LT,Chevrolet,2016,185000000,60000,Bensin
+1617,Mercedes-Benz E-Class E320,Mercedes-Benz,1998,108000000,140000,Bensin
+1618,Klasik dan Antik,Klasik dan Antik,1997,36500000,45000,Bensin
+1619,Mitsubishi Xpander ULTIMATE,Mitsubishi,2019,229000000,5000,Bensin
+1620,Chevrolet Spin LTZ,Chevrolet,2015,113000000,40000,Bensin
+1621,Daihatsu Terios,Daihatsu,2019,198800000,10000,Bensin
+1622,Daihatsu Xenia,Daihatsu,2011,90000000,90000,Bensin
+1623,Suzuki Ertiga GX,Suzuki,2018,175000000,10000,Bensin
+1624,Mazda Familia,Mazda,1999,29500000,210000,Bensin
+1625,Mini Cooper Mini,Mini Cooper,2011,410000000,45000,Bensin
+1626,Hyundai H-1 Elegance,Hyundai,2010,105000000,95000,Bensin
+1627,Mazda Biante 2.0,Mazda,2014,195000000,65000,Bensin
+1628,Isuzu Panther,Isuzu,2012,80000000,105000,Diesel
+1629,Mercedes-Benz SLK-Class SLK200,Mercedes-Benz,2012,615000000,25000,Bensin
+1630,Mercedes-Benz C-Class C200,Mercedes-Benz,2009,178000000,65000,Bensin
+1631,Land Rover Range,Land Rover,2011,475000000,50000,Bensin
+1632,Maserati,Maserati,2012,2000000000,15000,Bensin
+1633,Toyota Kijang,Toyota,1988,30000000,120000,Bensin
+1634,Daihatsu Sigra 1.2,Daihatsu,2018,108000000,15000,Bensin
+1635,Volkswagen Polo,Volkswagen,2012,122000000,75000,Bensin
+1636,Suzuki Carry,Suzuki,2012,65000000,15000,Bensin
+1637,BMW Serie 3,BMW,1995,56000000,190000,Bensin
+1638,BMW X1 sDrive18i,BMW,2017,595000000,15000,Bensin
+1639,Lexus LX 570,Lexus,2014,1595000000,40000,Bensin
+1640,Honda Jazz S,Honda,2010,120000000,95000,Bensin
+1641,Mazda 5,Mazda,2013,235000000,45000,Bensin
+1642,Mercedes-Benz E-Class E300,Mercedes-Benz,1988,33000000,30000,Bensin
+1643,BMW Serie 3,BMW,1994,61500000,170000,Bensin
+1644,Honda Mobilio E,Honda,2015,130000000,105000,Bensin
+1645,Mazda CX-5 Elite,Mazda,2017,445000000,20000,Bensin
+1646,BMW Serie 3,BMW,2010,189000000,55000,Bensin
+1647,Honda Civic 1.8L,Honda,2013,199500000,80000,Bensin
+1648,KIA Picanto M/T,KIA,2005,59500000,155000,Bensin
+1649,Daihatsu Taruna FX,Daihatsu,2002,58000000,20000,Bensin
+1650,Porsche Boxster S,Porsche,2017,1875000000,5000,Bensin
+1651,Opel Blazer DOHC,Opel,1996,59500000,30000,Bensin
+1652,BMW Serie 3,BMW,2012,530000000,65000,Bensin
+1653,Chrysler Grand Cherokee,Chrysler,2012,470000000,50000,Bensin
+1654,Daihatsu Terios,Daihatsu,2019,190350000,5000,Bensin
+1655,Nissan Livina X-Gear,Nissan,2009,73000000,145000,Bensin
+1656,Timor DOHC,Timor,2001,31000000,110000,Bensin
+1657,Daihatsu Sirion,Daihatsu,2019,175000000,5000,Bensin
+1658,Honda Civic 1.8L,Honda,2010,134500000,65000,Bensin
+1659,Infiniti Q,Infiniti,1997,30000000,40000,Bensin
+1660,Daihatsu Xenia,Daihatsu,2019,177000000,5000,Bensin
+1661,Suzuki APV SGX,Suzuki,2011,93000000,65000,Bensin
+1662,Nissan X-Trail,Nissan,2010,125000000,195000,Bensin
+1663,Ford Everest XLT,Ford,2004,75000000,125000,Diesel
+1664,Chevrolet Captiva,Chevrolet,2010,125000000,90000,Diesel
+1665,Suzuki Karimun estillo,Suzuki,2012,73000000,100000,Bensin
+1666,Isuzu Panther LV,Isuzu,2005,90000000,155000,Diesel
+1667,Geely MK 2,Geely,2011,41000000,75000,Bensin
+1668,Toyota Camry L,Toyota,2013,240000000,50000,Bensin
+1669,Nissan Grand livina,Nissan,2016,145000000,55000,Bensin
+1670,Datsun Go+ Panca,Datsun,2015,72000000,35000,Bensin
+1671,KIA Picanto Platinum,KIA,2013,85000000,60000,Bensin
+1672,KIA Pride,KIA,2007,55000000,105000,Bensin
+1673,KIA Carens II,KIA,2004,55000000,105000,Bensin
+1674,Chevrolet Captiva,Chevrolet,2008,90000000,60000,Bensin
+1675,Suzuki Ertiga GL,Suzuki,2017,130000000,35000,Bensin
+1676,Toyota Avanza Veloz,Toyota,2016,155000000,60000,Bensin
+1677,Datsun Go Panca,Datsun,2016,82000000,65000,Bensin
+1678,BMW Serie 3,BMW,1995,66666666,200000,Bensin
+1679,Daihatsu Xenia X,Daihatsu,2014,113000000,125000,Bensin
+1680,Isuzu Panther Grand,Isuzu,2014,230000000,80000,Diesel
+1681,BMW Serie 3,BMW,2000,100000000,50000,Bensin
+1682,Toyota Yaris J,Toyota,2008,97000000,200000,Bensin
+1683,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,234000000,15000,Bensin
+1684,Mazda Biante,Mazda,2012,180000000,45000,Bensin
+1685,Nissan Serena HWS,Nissan,2009,88000000,120000,Bensin
+1686,Nissan Evalia XV,Nissan,2013,101750000,70000,Bensin
+1687,Mercedes-Benz C-Class C230,Mercedes-Benz,2006,135000000,40000,Bensin
+1688,Nissan Serena Autech,Nissan,2012,118000000,105000,Bensin
+1689,Ford Fiesta Sport,Ford,2011,89000000,95000,Bensin
+1690,Suzuki,Suzuki,1992,250000000,15000,Bensin
+1691,Suzuki Carry Pick-up,Suzuki,1991,16500000,125000,Bensin
+1692,BMW Serie 3,BMW,1997,69000000,145000,Bensin
+1693,Suzuki Baleno,Suzuki,2002,50000000,125000,Bensin
+1694,Mazda 2 RZ,Mazda,2012,108000000,80000,Bensin
+1695,Mercedes-Benz B-Class B200,Mercedes-Benz,2013,264000000,50000,Bensin
+1696,KIA Rio Hatchback,KIA,2015,148000000,35000,Bensin
+1697,Isuzu D-Max,Isuzu,2010,160000000,5000,Bensin
+1698,Volkswagen Touareg TDI,Volkswagen,2008,310000000,75000,Diesel
+1699,Ford Ranger Base,Ford,2012,189000000,75000,Diesel
+1700,Mercedes-Benz S-Class S300,Mercedes-Benz,2009,355000000,90000,Bensin
+1701,Mazda CX-5 Grand,Mazda,2015,295000000,65000,Bensin
+1702,Fiat 500 Lounge,Fiat,2015,349000000,10000,Bensin
+1703,Chevrolet Trax 1.4,Chevrolet,2017,207000000,50000,Bensin
+1704,Honda Jazz RS,Honda,2014,160000000,80000,Bensin
+1705,Mazda BT-50 2.5,Mazda,2008,83000000,175000,Diesel
+1706,Peugeot 406,Peugeot,1997,34000000,115000,Bensin
+1707,Isuzu Panther,Isuzu,1993,50000000,95000,Diesel
+1708,Isuzu Panther,Isuzu,1992,36000000,125000,Diesel
+1709,Suzuki SX4 Cross,Suzuki,2016,152000000,50000,Bensin
+1710,Suzuki Splash,Suzuki,2014,86000000,50000,Bensin
+1711,Isuzu D-Max,Isuzu,2010,85000000,105000,Diesel
+1712,Daihatsu Xenia R,Daihatsu,2015,146000000,90000,Bensin
+1713,Chery,Chery,1986,13000000,300000,Bensin
+1714,KIA Sportage,KIA,2005,80000000,105000,Bensin
+1715,Honda Mobilio E,Honda,2014,129000000,120000,Bensin
+1716,Chevrolet Aveo LT,Chevrolet,2004,62000000,105000,Bensin
+1717,Mercedes-Benz E-Class E280,Mercedes-Benz,2006,142000000,115000,Bensin
+1718,Chevrolet Spin LTZ,Chevrolet,2013,120000000,50000,Bensin
+1719,Isuzu Panther LV,Isuzu,2004,89500000,100000,Diesel
+1720,Mazda CX-5 Touring,Mazda,2013,190000000,130000,Bensin
+1721,Mazda 626,Mazda,1988,23000000,150000,Bensin
+1722,Mercedes-Benz C-Class C200,Mercedes-Benz,2017,648000000,25000,Bensin
+1723,Isuzu Panther LV,Isuzu,2006,80000000,160000,Diesel
+1724,Mercedes-Benz E-Class E250,Mercedes-Benz,2010,525000000,35000,Bensin
+1725,Daihatsu Sirion M,Daihatsu,2013,90000000,20000,Bensin
+1726,Mitsubishi Xpander ULTIMATE,Mitsubishi,2017,200000000,35000,Bensin
+1727,Mercedes-Benz GLA-Class GLA200,Mercedes-Benz,2015,465000000,20000,Bensin
+1728,Isuzu,Isuzu,2016,132000000,55000,Diesel
+1729,KIA Rio,KIA,2012,115000000,105000,Bensin
+1730,Jaguar XJ Portfolio,Jaguar,2014,1150000000,10000,Bensin
+1731,Mobil CBU Mobil,Mobil CBU,2013,110000000,85000,Bensin
+1732,Nissan X-Trail,Nissan,2005,70000000,100000,Bensin
+1733,Nissan Teana 250,Nissan,2010,140000000,105000,Bensin
+1734,Toyota Innova G,Toyota,2009,115000000,125000,Bensin
+1735,Timor SOHC,Timor,1996,23500000,110000,Bensin
+1736,Mazda CX-5 Grand,Mazda,2013,215000000,70000,Bensin
+1737,Honda Mobilio S,Honda,2014,119000000,45000,Bensin
+1738,Toyota Alphard 2.4,Toyota,2008,285000000,95000,Bensin
+1739,Isuzu MU-X 2.5,Isuzu,2015,295000000,85000,Diesel
+1740,Suzuki Carry,Suzuki,1986,15000000,205000,Bensin
+1741,Datsun Go+ Panca,Datsun,2017,65000000,105000,Bensin
+1742,Honda BR-V E,Honda,2017,188000000,45000,Bensin
+1743,Mitsubishi Xpander ULTIMATE,Mitsubishi,2019,228000000,5000,Bensin
+1744,Isuzu Panther LS,Isuzu,2012,165000000,160000,Diesel
+1745,Nissan March,Nissan,2011,80000000,85000,Bensin
+1746,Audi Audi A6,Audi,2014,389000000,35000,Bensin
+1747,Daihatsu Xenia R,Daihatsu,2013,115000000,85000,Bensin
+1748,Daihatsu Terios TX,Daihatsu,2010,118000000,95000,Bensin
+1749,BMW Serie 6,BMW,2014,950000000,35000,Bensin
+1750,Lamborghini Gallardo,Lamborghini,2013,5300000000,15000,Bensin
+1751,Mitsubishi Lancer 1.6,Mitsubishi,1999,75000000,205000,Bensin
+1752,Volkswagen Golf MkVII,Volkswagen,2014,205000000,55000,Bensin
+1753,KIA Pregio,KIA,2002,57000000,210000,Diesel
+1754,Toyota,Toyota,1991,25000000,15000,Diesel
+1755,Hino,Hino,1999,74000000,45000,Diesel
+1756,Isuzu D-Max,Isuzu,2011,133000000,45000,Diesel
+1757,Toyota Yaris E,Toyota,2011,109000000,110000,Bensin
+1758,Mercedes-Benz E-Class E250,Mercedes-Benz,2016,850000000,90000,Bensin
+1759,Suzuki Carry DX,Suzuki,2011,65000000,190000,Bensin
+1760,Honda HR-V 1.8L,Honda,2018,335000000,20000,Bensin
+1761,Chevrolet Trax LTZ,Chevrolet,2016,172000000,45000,Bensin
+1762,BMW Serie 3,BMW,2004,245000000,80000,Bensin
+1763,Daihatsu Sirion M,Daihatsu,2016,126000000,40000,Bensin
+1764,Ford Ranger WildTrak,Ford,2015,535000000,65000,Diesel
+1765,Ford Fiesta Sport,Ford,2011,95000000,105000,Bensin
+1766,BMW Serie 3,BMW,2012,435000000,75000,Bensin
+1767,Mazda CX-5 Grand,Mazda,2013,215000000,50000,Bensin
+1768,KIA Rio,KIA,2014,112000000,40000,Bensin
+1769,Isuzu,Isuzu,2015,195000000,60000,Diesel
+1770,Chrysler 300 300C,Chrysler,2011,475000000,15000,Bensin
+1771,Toyota Kijang LSX-D,Toyota,2002,58000000,5000,Bensin
+1772,Mercedes-Benz C-Class C180,Mercedes-Benz,1995,53500000,45000,Bensin
+1773,Chevrolet Captiva,Chevrolet,2015,245000000,40000,Diesel
+1774,Honda Brio Satya,Honda,2018,118000000,15000,Bensin
+1775,Suzuki SX4 Cross,Suzuki,2008,68500000,215000,Bensin
+1776,Mitsubishi Pajero Sport,Mitsubishi,2012,280000000,85000,Diesel
+1777,Toyota Avanza G,Toyota,2014,130000000,90000,Bensin
+1778,Ford Ecosport Titanium,Ford,2014,132000000,60000,Bensin
+1779,Mitsubishi Xpander EXCEED,Mitsubishi,2018,208500000,10000,Bensin
+1780,Mercedes-Benz E-Class E260,Mercedes-Benz,2001,95000000,205000,Bensin
+1781,Chevrolet Spin,Chevrolet,2014,99000000,85000,Bensin
+1782,Volkswagen Golf,Volkswagen,2012,125000000,50000,Bensin
+1783,Ford Ranger Hi-Rider,Ford,2010,120000000,115000,Diesel
+1784,Isuzu New Panther,Isuzu,2012,139000000,70000,Diesel
+1785,Suzuki APV GL,Suzuki,2017,90000000,80000,Bensin
+1786,Mazda CX-5 Touring,Mazda,2015,289000000,40000,Bensin
+1787,BMW X5 xDrive35i,BMW,2016,795000000,35000,Bensin
+1788,Mercedes-Benz,Mercedes-Benz,1989,21000000,35000,Bensin
+1789,BMW Serie 5,BMW,2014,480000000,30000,Diesel
+1790,Timor DOHC,Timor,1997,35000000,45000,Bensin
+1791,Klasik dan Antik,Klasik dan Antik,1986,366000000,175000,Bensin
+1792,Nissan X-Trail,Nissan,2006,84988988,105000,Bensin
+1793,BMW Serie 3,BMW,1994,45000000,130000,Bensin
+1794,Datsun Go Panca,Datsun,2018,84500000,25000,Bensin
+1795,KIA Picanto M/T,KIA,2012,80000000,45000,Bensin
+1796,Suzuki Ertiga,Suzuki,2019,180000000,5000,Bensin
+1797,Suzuki Ertiga GX,Suzuki,2015,119000000,40000,Bensin
+1798,BMW,BMW,2014,372000000,55000,Bensin
+1799,Mitsubishi Xpander GLS,Mitsubishi,2017,185000000,25000,Bensin
+1800,Opel Blazer Montera,Opel,2002,39000000,45000,Bensin
+1801,Mercedes-Benz C-Class,Mercedes-Benz,2016,640000000,40000,Bensin
+1802,Jeep Wrangler Sport,Jeep,2013,1145000000,35000,Bensin
+1803,Suzuki Carry,Suzuki,1994,40000000,12500,Bensin
+1804,Jeep Jeep,Jeep,1994,46000000,12500,Bensin
+1805,Ford Ranger,Ford,2011,125000000,45000,Diesel
+1806,Timor SOHC,Timor,1997,32000000,140000,Bensin
+1807,Volvo S80 2.4,Volvo,2002,55000000,45000,Bensin
+1808,Mitsubishi Colt,Mitsubishi,1986,39900000,35000,Bensin
+1809,Daihatsu Xenia R,Daihatsu,2016,103000000,185000,Bensin
+1810,Mercedes-Benz E-Class E250,Mercedes-Benz,2014,539000000,50000,Bensin
+1811,Hyundai Verna,Hyundai,2008,48000000,185000,Bensin
+1812,Daihatsu Sirion M,Daihatsu,2013,89000000,35000,Bensin
+1813,Mazda Biante,Mazda,2016,250000000,30000,Bensin
+1814,Hyundai Avega G,Hyundai,2008,52000000,85000,Bensin
+1815,Foton Foton 2.8,Foton,2011,93000000,15000,Diesel
+1816,Mercedes-Benz,Mercedes-Benz,2015,750000000,35000,Diesel
+1817,Suzuki Ertiga,Suzuki,2019,175000000,10000,Bensin
+1818,Volkswagen Beetle,Volkswagen,1986,1500000000,10000,Bensin
+1819,Honda Jazz RS,Honda,2009,124000000,90000,Bensin
+1820,Toyota Innova G,Toyota,2013,188000000,140000,Diesel
+1821,Daihatsu Sigra,Daihatsu,2019,120750000,5000,Bensin
+1822,BMW Serie 5,BMW,2015,565000000,35000,Bensin
+1823,Mercedes-Benz C-Class C240,Mercedes-Benz,2004,150000000,115000,Bensin
+1824,KIA Picanto M/T,KIA,2005,56000000,90000,Bensin
+1825,Mercedes-Benz GLA-Class GLA200,Mercedes-Benz,2015,565000000,30000,Bensin
+1826,Toyota Innova G,Toyota,2011,185000000,25000,Bensin
+1827,KIA Carens II,KIA,2004,58000000,220000,Bensin
+1828,Land Rover Range,Land Rover,2018,1296000000,5000,Bensin
+1829,Chevrolet Captiva,Chevrolet,2011,130000000,130000,Diesel
+1830,Honda Ferio,Honda,1998,66900000,195000,Bensin
+1831,Nissan Serena HWS,Nissan,2011,89500000,200000,Bensin
+1832,Honda Genio,Honda,1992,63000000,160000,Bensin
+1833,Suzuki Grand vitara,Suzuki,1993,100000000,110000,Bensin
+1834,Mercedes-Benz CLA-Class CLA200,Mercedes-Benz,2015,495000000,35000,Bensin
+1835,Mazda 2 R,Mazda,2014,130000000,220000,Bensin
+1836,Jeep Compass,Jeep,2012,245000000,35000,Bensin
+1837,Ford Focus,Ford,2007,70000000,100000,Bensin
+1838,Hyundai Atoz GLS,Hyundai,2003,35000000,135000,Bensin
+1839,Nissan Juke,Nissan,2011,125000000,85000,Bensin
+1840,Mitsubishi,Mitsubishi,2016,625000000,65000,Diesel
+1841,BMW Serie 3,BMW,1998,52000000,180000,Bensin
+1842,Suzuki Sidekick,Suzuki,1996,46000000,25000,Bensin
+1843,Daihatsu Gran max,Daihatsu,2013,63000000,205000,Bensin
+1844,Mitsubishi Outlander,Mitsubishi,2016,202000000,65000,Bensin
+1845,Suzuki Carry Pick-up,Suzuki,2018,88000000,10000,Bensin
+1846,Isuzu Panther LV,Isuzu,2008,120000000,255000,Diesel
+1847,Daihatsu Xenia,Daihatsu,2011,93898000,135000,Bensin
+1848,Isuzu Elf Minibus,Isuzu,2006,63500000,130000,Diesel
+1849,KIA Travello Option,KIA,2007,63000000,160000,Diesel
+1850,Porsche Cayenne Turbo,Porsche,2014,900000000,20000,Bensin
+1851,Hino,Hino,2005,500000000,12500,Bensin
+1852,Nissan Grand livina,Nissan,2014,135000000,70000,Bensin
+1853,Jaguar X-type,Jaguar,2015,1150000000,5000,Bensin
+1854,Lain-lain,Lain-lain,2010,990000000,10000,Bensin
+1855,Datsun Go Panca,Datsun,2017,89000000,45000,Bensin
+1856,BMW Serie 5,BMW,1997,60000000,105000,Bensin
+1857,Nissan Evalia XV,Nissan,2013,95000000,95000,Bensin
+1858,BMW Serie 3,BMW,1994,57000000,170000,Bensin
+1859,Toyota Calya G,Toyota,2016,123000000,30000,Bensin
+1860,Mercedes-Benz GLC-Class,Mercedes-Benz,2019,995000000,10000,Bensin
+1861,Nissan Serena Autech,Nissan,2016,265000000,35000,Bensin
+1862,Peugeot 206 Sporty,Peugeot,2004,36000000,205000,Bensin
+1863,Honda Civic,Honda,1990,40000000,130000,Bensin
+1864,Toyota Rush S,Toyota,2018,247500000,25000,Bensin
+1865,Mercedes-Benz GLC-Class GLC250,Mercedes-Benz,2017,740000000,20000,Bensin
+1866,Timor SOHC,Timor,1997,24500000,230000,Bensin
+1867,Daihatsu Terios TX,Daihatsu,2013,125000000,55000,Bensin
+1868,Hino Dutro Truck,Hino,2017,215000000,105000,Diesel
+1869,Nissan Serena HWS,Nissan,2013,168000000,85000,Bensin
+1870,BMW Serie 3,BMW,1997,70000000,205000,Bensin
+1871,BMW Serie 3,BMW,2003,220000000,120000,Bensin
+1872,KIA Pregio SE,KIA,2003,52000000,65000,Diesel
+1873,Proton Saga BLM,Proton,2009,47000000,95000,Bensin
+1874,Hyundai Grand Avega,Hyundai,2013,97000000,45000,Bensin
+1875,Chevrolet Trax LTZ,Chevrolet,2016,185000000,40000,Bensin
+1876,Toyota Kijang LSX,Toyota,2000,65000000,90000,Diesel
+1877,Timor SOHC,Timor,1997,23000000,35000,Bensin
+1878,BMW Serie 3,BMW,1992,46000000,150000,Bensin
+1879,Porsche Cayenne V6,Porsche,2010,475000000,55000,Bensin
+1880,BMW Serie 3,BMW,2004,129999999,75000,Bensin
+1881,Ford Ranger XLT,Ford,2013,205000000,100000,Diesel
+1882,Chevrolet Orlando LT,Chevrolet,2012,125500000,65000,Bensin
+1883,Mazda Biante 2.0,Mazda,2015,239000000,60000,Bensin
+1884,Mercedes-Benz CLA-Class CLA200,Mercedes-Benz,2016,615000000,20000,Bensin
+1885,Mercedes-Benz C-Class C180,Mercedes-Benz,2003,65000000,105000,Bensin
+1886,BMW Serie 3,BMW,1993,38500000,115000,Bensin
+1887,BMW Serie 3,BMW,2002,98000000,12500,Bensin
+1888,Daihatsu Xenia X,Daihatsu,2018,128000000,15000,Bensin
+1889,Isuzu Panther LS,Isuzu,2001,97500000,180000,Diesel
+1890,BMW Serie 5,BMW,2010,269000000,50000,Bensin
+1891,Hino Dutro Truck,Hino,2017,185000000,15000,Diesel
+1892,Suzuki Baleno,Suzuki,2000,48000000,85000,Bensin
+1893,Suzuki Ertiga GL,Suzuki,2018,180000000,20000,Bensin
+1894,Nissan Grand livina,Nissan,2012,105000000,80000,Bensin
+1895,Hino Dutro,Hino,2013,228000000,100000,Diesel
+1896,Mazda 2 S,Mazda,2010,90000000,100000,Bensin
+1897,Honda HR-V S,Honda,2017,245000000,10000,Bensin
+1898,Nissan Grand livina,Nissan,2013,105000000,70000,Bensin
+1899,Suzuki SX4 Cross,Suzuki,2017,135000000,25000,Bensin
+1900,Toyota Kijang,Toyota,1995,45000000,12500,Bensin
+1901,Mazda Biante 2.0,Mazda,2013,190000000,60000,Bensin
+1902,BMW Serie 3,BMW,1990,60000000,105000,Bensin
+1903,Isuzu Panther,Isuzu,2002,100000000,260000,Diesel
+1904,Lexus,Lexus,2012,429000000,90000,Bensin
+1905,Honda Freed S,Honda,2013,143000000,115000,Bensin
+1906,Toyota Hardtop,Toyota,1986,300000000,5000,Bensin
+1907,Nissan Serena HWS,Nissan,2014,178000000,50000,Bensin
+1908,Timor SOHC,Timor,1997,26000000,55000,Bensin
+1909,KIA Picanto M/T,KIA,2010,65000000,150000,Bensin
+1910,Datsun Go Panca,Datsun,2019,138360000,5000,Bensin
+1911,Nissan Navara,Nissan,2011,205000000,100000,Diesel
+1912,Suzuki Ertiga GX,Suzuki,2018,169000000,60000,Bensin
+1913,Mitsubishi Xpander EXCEED,Mitsubishi,2018,215000000,20000,Bensin
+1914,Klasik dan Antik,Klasik dan Antik,1986,198000000,95000,Bensin
+1915,KIA Rio Hatchback,KIA,2013,125000000,45000,Bensin
+1916,Mazda,Mazda,1988,30000000,205000,Bensin
+1917,Toyota Avanza S,Toyota,2010,112000000,115000,Bensin
+1918,Mercedes-Benz C-Class C280,Mercedes-Benz,2008,173000001,100000,Bensin
+1919,Mazda CX-5 Touring,Mazda,2013,199000000,60000,Bensin
+1920,KIA Sorento,KIA,2013,189000000,35000,Bensin
+1921,Volkswagen Scirocco,Volkswagen,2013,285000000,40000,Bensin
+1922,BMW Serie 3,BMW,1991,40000000,45000,Bensin
+1923,Timor DOHC,Timor,1998,35000000,100000,Bensin
+1924,KIA Picanto SE,KIA,2009,69000000,95000,Bensin
+1925,Jeep Rubicon,Jeep,2012,665000000,55000,Bensin
+1926,Toyota Alphard 2.5,Toyota,2018,1050000000,10000,Bensin
+1927,Ford Fiesta Sport,Ford,2014,113000000,55000,Bensin
+1928,Maserati,Maserati,2012,2400000000,15000,Bensin
+1929,Suzuki Ertiga GX,Suzuki,2014,130000000,80000,Bensin
+1930,KIA Carnival TD,KIA,2001,55000000,150000,Diesel
+1931,Mazda CX-7,Mazda,2009,169000000,70000,Bensin
+1932,Hyundai Avega GX,Hyundai,2009,51500000,100000,Bensin
+1933,Honda HR-V E,Honda,2016,255000000,30000,Bensin
+1934,Mitsubishi Xpander,Mitsubishi,2019,200000000,5000,Bensin
+1935,BMW Serie 3,BMW,1996,87000000,170000,Bensin
+1936,Honda Brio Satya,Honda,2014,101000000,30000,Bensin
+1937,Peugeot 206 Sporty,Peugeot,2003,53000000,65000,Bensin
+1938,Toyota Calya G,Toyota,2019,124000000,10000,Bensin
+1939,KIA,KIA,1997,28500000,12500,Bensin
+1940,BMW Serie 3,BMW,2016,475000000,40000,Bensin
+1941,Nissan X-Trail,Nissan,2015,189000000,115000,Bensin
+1942,BMW,BMW,2014,420000000,30000,Bensin
+1943,Chevrolet Spin,Chevrolet,2013,94000000,75000,Bensin
+1944,Suzuki Swift,Suzuki,2008,85000000,150000,Bensin
+1945,Daihatsu Terios TX,Daihatsu,2013,145000000,75000,Bensin
+1946,Bentley Continental GT,Bentley,2012,3750000000,15000,Bensin
+1947,Toyota Yaris TRD,Toyota,2017,205000000,40000,Bensin
+1948,BMW Serie 5,BMW,2015,550000000,40000,Bensin
+1949,Suzuki Ertiga,Suzuki,2019,220500000,5000,Bensin
+1950,Porsche Cayenne,Porsche,2016,1225000000,10000,Bensin
+1951,Mercedes-Benz C-Class C200,Mercedes-Benz,2011,165000000,100000,Bensin
+1952,Toyota Avanza Veloz,Toyota,2013,120000000,80000,Bensin
+1953,Nissan Serena Autech,Nissan,2011,135000000,95000,Bensin
+1954,Toyota Alphard 2.5,Toyota,2006,165000000,175000,Bensin
+1955,Ford Fiesta Trend,Ford,2011,79000000,70000,Bensin
+1956,Wuling,Wuling,2019,338800000,5000,Bensin
+1957,Toyota Harrier 300G,Toyota,2001,68000000,20000,Bensin
+1958,Toyota Kijang Pick-Up,Toyota,2002,28000000,140000,Bensin
+1959,Daihatsu Terios R,Daihatsu,2015,158000000,60000,Bensin
+1960,Mitsubishi Pajero Sport,Mitsubishi,2015,308000000,65000,Diesel
+1961,Suzuki APV Blind,Suzuki,2012,68000000,145000,Bensin
+1962,Mazda Lantis,Mazda,1998,38000000,60000,Bensin
+1963,Honda Freed S,Honda,2012,135000000,65000,Bensin
+1964,Mazda CX-5 Grand,Mazda,2013,230000000,80000,Bensin
+1965,Honda Brio E,Honda,2015,108000000,50000,Bensin
+1966,Nissan Grand livina,Nissan,2016,119000000,85000,Bensin
+1967,Toyota Rush,Toyota,2013,122000000,75000,Bensin
+1968,Ssang Yong Rexton,Ssang Yong,2003,76000000,35000,Bensin
+1969,Suzuki APV GX,Suzuki,2014,107000000,110000,Bensin
+1970,Mazda 2 R,Mazda,2012,105000000,20000,Bensin
+1971,Chevrolet Spin LTZ,Chevrolet,2013,117000000,70000,Bensin
+1972,Lexus RX 270,Lexus,2011,325750000,65000,Bensin
+1973,Dodge Journey SXT,Dodge,2015,172000000,55000,Bensin
+1974,Nissan Grand livina,Nissan,2013,106000000,115000,Bensin
+1975,Mitsubishi Outlander,Mitsubishi,2012,172000000,110000,Bensin
+1976,Nissan X-Trail,Nissan,2015,225000000,70000,Bensin
+1977,Volvo 960,Volvo,1994,18500000,155000,Bensin
+1978,Chevrolet Captiva,Chevrolet,2010,138000000,85000,Diesel
+1979,Chevrolet Captiva,Chevrolet,2010,137000000,105000,Diesel
+1980,Nissan Evalia SV,Nissan,2012,83000000,60000,Bensin
+1981,Datsun Go+,Datsun,2017,88000000,30000,Bensin
+1982,Mercedes-Benz C-Class C180,Mercedes-Benz,1994,45000000,5000,Bensin
+1983,Mazda 8,Mazda,2011,158000000,70000,Bensin
+1984,Suzuki Baleno,Suzuki,1997,45000001,150000,Bensin
+1985,Daihatsu Sigra 1.0,Daihatsu,2017,96000000,30000,Bensin
+1986,Nissan Grand livina,Nissan,2012,103000000,40000,Bensin
+1987,Mercedes-Benz C-Class C300,Mercedes-Benz,2016,1000000000,10000,Bensin
+1988,Jeep Wrangler Sport,Jeep,2014,895000000,75000,Bensin
+1989,BMW Serie 3,BMW,2016,695000000,30000,Bensin
+1990,Chevrolet Trooper 2.5,Chevrolet,1989,30000000,12500,Diesel
+1991,Datsun Go+,Datsun,2019,112000000,5000,Bensin
+1992,Toyota Avanza G,Toyota,2011,129500000,75000,Bensin
+1993,Honda Civic 1.8L,Honda,2007,116000000,105000,Bensin
+1994,Mitsubishi L300 Pick,Mitsubishi,2016,155000000,70000,Diesel
+1995,BMW Serie 3,BMW,2009,210000000,85000,Bensin
+1996,Datsun Go+ Panca,Datsun,2016,65000000,115000,Bensin
+1997,Nissan Grand livina,Nissan,2008,75000000,205000,Bensin
+1998,Lexus RX 200T,Lexus,2016,960000000,20000,Bensin
+1999,Lexus LX 470,Lexus,2002,300000000,135000,Bensin
+2000,Timor S515i 1.5,Timor,2000,31500000,150000,Bensin
+2001,Suzuki APV GX,Suzuki,2015,120000000,110000,Bensin
+2002,Toyota Innova V,Toyota,2017,308000000,35000,Diesel
+2003,Honda Jazz S,Honda,2013,132000000,85000,Bensin
+2004,Mercedes-Benz C-Class C200,Mercedes-Benz,1995,55000000,185000,Bensin
+2005,Jeep Cherokee Limited,Jeep,2014,675000000,5000,Bensin
+2006,Toyota Calya G,Toyota,2019,114500000,10000,Bensin
+2007,BMW,BMW,2014,785000000,25000,Bensin
+2008,Mazda 2 R,Mazda,2013,115500000,75000,Bensin
+2009,Toyota Calya G,Toyota,2017,122000000,25000,Bensin
+2010,Daihatsu Luxio X,Daihatsu,2017,147500000,20000,Bensin
+2011,Chevrolet Kalos,Chevrolet,2010,39999999,40000,Bensin
+2012,Daihatsu Terios,Daihatsu,2019,199000000,5000,Bensin
+2013,Mercedes-Benz S-Class S400,Mercedes-Benz,2015,1325000000,30000,Bensin
+2014,Hyundai H-1 Facelift,Hyundai,2012,170000000,80000,Diesel
+2015,Daihatsu Taruna CSR,Daihatsu,2002,75000000,15000,Bensin
+2016,Isuzu,Isuzu,2002,85000000,55000,Diesel
+2017,Nissan Livina,Nissan,2015,128000000,50000,Bensin
+2018,Mercedes-Benz CLS-Class,Mercedes-Benz,2010,325000000,25000,Bensin
+2019,Mitsubishi Colt,Mitsubishi,2018,246000000,10000,Diesel
+2020,Suzuki APV Mega,Suzuki,2016,105000000,45000,Bensin
+2021,Nissan,Nissan,2019,485000000,10000,Diesel
+2022,Nissan Grand livina,Nissan,2011,97000000,110000,Bensin
+2023,Mazda 323,Mazda,1988,16000000,30000,Bensin
+2024,Toyota Kijang LSX,Toyota,2001,62000000,30000,Bensin
+2025,Mitsubishi Galant,Mitsubishi,1996,58000000,100000,Bensin
+2026,Honda Brio E,Honda,2018,135000000,25000,Bensin
+2027,Opel Blazer Montera,Opel,2002,65000000,110000,Bensin
+2028,Honda CR-V,Honda,2010,152000000,80000,Bensin
+2029,Mercedes-Benz C-Class C200,Mercedes-Benz,2013,310000000,95000,Bensin
+2030,Mazda 2 R,Mazda,2015,155000000,45000,Bensin
+2031,Timor SOHC,Timor,1997,38000000,90000,Bensin
+2032,Honda Jazz RS,Honda,2015,200000000,35000,Bensin
+2033,Mercedes-Benz E-Class E230,Mercedes-Benz,1997,52500000,5000,Bensin
+2034,Mazda Biante,Mazda,2013,170000000,80000,Bensin
+2035,Toyota Avanza G,Toyota,2012,128000000,55000,Bensin
+2036,Mitsubishi Xpander ULTIMATE,Mitsubishi,2019,280000000,5000,Bensin
+2037,Daihatsu Xenia X,Daihatsu,2012,107000000,12500,Bensin
+2038,Isuzu Elf Minibus,Isuzu,2013,290000000,200000,Diesel
+2039,Honda Mobilio E,Honda,2014,125000000,145000,Bensin
+2040,Chevrolet Spin,Chevrolet,2015,119000000,40000,Bensin
+2041,Wuling Cortez,Wuling,2018,200000000,30000,Bensin
+2042,KIA Carens I,KIA,2000,37000000,80000,Bensin
+2043,Jeep Wrangler Rubicon,Jeep,2009,570000000,55000,Bensin
+2044,Mini Cooper Mini,Mini Cooper,2015,555000000,15000,Bensin
+2045,Hino Dutro 300,Hino,2014,194000000,115000,Diesel
+2046,Hyundai Avega GL,Hyundai,2008,58000000,105000,Bensin
+2047,Chrysler Grand Cherokee,Chrysler,2000,180000000,150000,Bensin
+2048,Mercedes-Benz S-Class S320,Mercedes-Benz,2001,130000000,45000,Bensin
+2049,BMW X1 sDrive18i,BMW,2017,550000000,15000,Bensin
+2050,Hyundai H-1 XG,Hyundai,2009,100000000,115000,Bensin
+2051,KIA Picanto SE,KIA,2011,82000000,120000,Bensin
+2052,Toyota Fortuner G,Toyota,2015,290000000,60000,Diesel
+2053,Ford Fiesta Sport,Ford,2011,99000000,65000,Bensin
+2054,Peugeot 206 XS,Peugeot,2004,42000000,105000,Bensin
+2055,Suzuki Swift ST,Suzuki,2008,79000000,145000,Bensin
+2056,Mercedes-Benz C-Class C200,Mercedes-Benz,2013,215000000,240000,Bensin
+2057,Hino Dutro 300,Hino,2018,255000000,25000,Diesel
+2058,Ford Fiesta Trend,Ford,2011,87000000,100000,Bensin
+2059,Lain-lain,Lain-lain,1995,50000000,20000,Bensin
+2060,Honda CR-V,Honda,2010,178000000,105000,Bensin
+2061,Audi Audi A6,Audi,2013,435000000,35000,Bensin
+2062,Hyundai H-1,Hyundai,2011,130000000,105000,Bensin
+2063,Land Rover Free,Land Rover,2005,170000000,195000,Diesel
+2064,Isuzu Panther LV,Isuzu,2001,71000000,105000,Diesel
+2065,Daihatsu Gran max,Daihatsu,2014,100000000,110000,Bensin
+2066,Hyundai Santa Fe,Hyundai,2013,255000000,95000,Diesel
+2067,Toyota Rush G,Toyota,2010,118000000,105000,Bensin
+2068,Datsun Go Panca,Datsun,2018,99000000,35000,Bensin
+2069,BMW Serie 3,BMW,2005,140000000,140000,Bensin
+2070,Toyota Etios G,Toyota,2014,96000000,45000,Bensin
+2071,Mercedes-Benz GLE-Class GLE43,Mercedes-Benz,2017,1635000000,5000,Bensin
+2072,Suzuki Carry,Suzuki,1986,15000000,5000,Bensin
+2073,Mitsubishi Pajero Sport,Mitsubishi,2012,285000000,90000,Diesel
+2074,Isuzu Panther Touring,Isuzu,2005,105000000,80000,Diesel
+2075,Isuzu Panther Touring,Isuzu,1997,60000000,90000,Diesel
+2076,Jeep Sahara,Jeep,2018,1700000000,5000,Bensin
+2077,Nissan X-Trail,Nissan,2014,160000000,80000,Bensin
+2078,Timor S515i 1.5,Timor,1998,35500000,35000,Bensin
+2079,Mitsubishi Pajero Sport,Mitsubishi,2011,258000000,145000,Diesel
+2080,Mazda 2 GT,Mazda,2016,200000000,30000,Bensin
+2081,Mazda 2 R,Mazda,2015,175000000,90000,Bensin
+2082,Daihatsu Xenia X,Daihatsu,2018,155000000,30000,Bensin
+2083,Honda Mobilio RS,Honda,2018,160000000,20000,Bensin
+2084,Honda Jazz VTEC,Honda,2007,110000000,110000,Bensin
+2085,Isuzu Panther Pick,Isuzu,2008,65000000,260000,Diesel
+2086,Mazda 3,Mazda,2007,90000000,95000,Bensin
+2087,Isuzu Panther LS,Isuzu,2002,93000000,115000,Diesel
+2088,Proton Wira,Proton,2005,19000000,25000,Bensin
+2089,Peugeot 306 LeMans,Peugeot,2001,35000000,165000,Bensin
+2090,Honda Jazz RS,Honda,2016,235000000,30000,Bensin
+2091,Mitsubishi Colt,Mitsubishi,1986,17000000,12500,Bensin
+2092,Datsun Go Panca,Datsun,2019,111000000,5000,Bensin
+2093,Daihatsu Xenia R,Daihatsu,2015,115000000,55000,Bensin
+2094,Suzuki Carry Van,Suzuki,2006,45000000,75000,Diesel
+2095,Chevrolet Captiva,Chevrolet,2011,155000000,80000,Diesel
+2096,Mazda Lantis 1.8,Mazda,1996,34000000,15000,Bensin
+2097,Wuling Confero S,Wuling,2019,135000000,5000,Bensin
+2098,Mitsubishi Pajero Sport,Mitsubishi,2012,274900000,105000,Diesel
+2099,Daihatsu Terios TX,Daihatsu,2014,143500000,60000,Bensin
+2100,Daihatsu Luxio X,Daihatsu,2012,115000000,80000,Bensin
+2101,Opel Vectra,Opel,1994,18000000,220000,Bensin
+2102,Mercedes-Benz C-Class C240,Mercedes-Benz,2002,90000000,12500,Bensin
+2103,Suzuki Karimun DX,Suzuki,2002,43000000,55000,Bensin
+2104,Ford Ranger WildTrak,Ford,2014,325000000,55000,Diesel
+2105,Land Rover Range,Land Rover,2012,550000000,45000,Bensin
+2106,BMW X5 xDrive35i,BMW,2017,1125000000,10000,Bensin
+2107,Nissan Grand livina,Nissan,2012,92000000,90000,Bensin
+2108,Datsun Go Panca,Datsun,2018,92000000,30000,Bensin
+2109,Suzuki Escudo,Suzuki,1999,66000000,10000,Bensin
+2110,Honda CR-V 2.4,Honda,2013,230000000,100000,Bensin
+2111,Honda Jazz RS,Honda,2010,132000000,70000,Bensin
+2112,Honda Brio Satya,Honda,2016,132500000,15000,Bensin
+2113,Hyundai Santa Fe,Hyundai,2016,340000000,35000,Diesel
+2114,Ford Ecosport Trend,Ford,2014,114000000,100000,Bensin
+2115,Toyota Corolla,Toyota,1989,31000000,12500,Bensin
+2116,Suzuki Ertiga GL,Suzuki,2015,123000000,45000,Bensin
+2117,Isuzu Panther,Isuzu,1993,38000000,105000,Diesel
+2118,Isuzu Panther,Isuzu,1992,32000000,30000,Diesel
+2119,Timor DOHC,Timor,2002,26500000,5000,Bensin
+2120,Chevrolet Orlando LT,Chevrolet,2014,165000000,35000,Bensin
+2121,BMW Serie 3,BMW,1995,47000000,240000,Bensin
+2122,Datsun Go+,Datsun,2014,35000000,45000,Bensin
+2123,Hyundai i10,Hyundai,2014,103000000,30000,Bensin
+2124,Suzuki Ignis GX,Suzuki,2017,125000000,30000,Bensin
+2125,Land Rover Range,Land Rover,2013,595000000,20000,Bensin
+2126,BMW Serie 3,BMW,2016,470000000,30000,Bensin
+2127,Mitsubishi Mirage Exceed,Mitsubishi,2014,95000000,50000,Bensin
+2128,Nissan Grand livina,Nissan,2013,137500000,45000,Bensin
+2129,Daihatsu Ayla M,Daihatsu,2016,89000000,35000,Bensin
+2130,BMW Serie 4,BMW,2018,1395000000,10000,Bensin
+2131,Honda Accord VTi-L,Honda,2013,250000000,35000,Bensin
+2132,Nissan Grand livina,Nissan,2017,135000000,15000,Bensin
+2133,Volkswagen Tiguan TSI,Volkswagen,2015,250000000,60000,Bensin
+2134,Timor DOHC,Timor,1997,30000000,235000,Bensin
+2135,Chery Tiggo,Chery,2010,65000000,95000,Bensin
+2136,Hyundai Atoz GLS,Hyundai,2000,43500000,225000,Bensin
+2137,Mazda 323,Mazda,1989,25000000,160000,Bensin
+2138,Toyota Kijang LGX,Toyota,2002,105000000,12500,Diesel
+2139,Nissan Grand livina,Nissan,2007,69000000,205000,Bensin
+2140,Wuling Cortez,Wuling,2018,189000000,5000,Bensin
+2141,Toyota Yaris TRD,Toyota,2014,166000000,100000,Bensin
+2142,BMW Serie 3,BMW,2015,375000000,30000,Bensin
+2143,KIA Carens II,KIA,2005,52000000,160000,Bensin
+2144,KIA Sportage,KIA,2012,134000000,105000,Bensin
+2145,Mitsubishi Pajero Sport,Mitsubishi,2010,208000000,100000,Diesel
+2146,Jeep Wrangler Sahara,Jeep,2011,695000000,30000,Bensin
+2147,Chevrolet Trax LTZ,Chevrolet,2017,214000000,30000,Bensin
+2148,Isuzu Elf Minibus,Isuzu,2013,155000000,15000,Diesel
+2149,Nissan Latio,Nissan,2008,79000000,150000,Bensin
+2150,Chevrolet Zafira,Chevrolet,2003,55000000,105000,Bensin
+2151,Ford Everest XLT,Ford,2010,138000000,65000,Diesel
+2152,Mini Cooper Mini,Mini Cooper,2010,360000000,25000,Bensin
+2153,Land Rover,Land Rover,1986,385000000,15000,Bensin
+2154,Chevrolet Captiva,Chevrolet,2015,225000000,45000,Diesel
+2155,Isuzu Elf Minibus,Isuzu,2016,180000000,45000,Diesel
+2156,Suzuki Ertiga GX,Suzuki,2013,132500000,90000,Bensin
+2157,Suzuki APV,Suzuki,2013,85000000,105000,Bensin
+2158,Daihatsu Xenia R,Daihatsu,2016,133000000,30000,Bensin
+2159,Mazda 2 V,Mazda,2013,138000000,35000,Bensin
+2160,Mercedes-Benz C-Class C200,Mercedes-Benz,2018,685000000,20000,Bensin
+2161,Datsun Go,Datsun,2019,102600000,5000,Bensin
+2162,Honda Jazz S,Honda,2008,113000000,5000,Bensin
+2163,Mazda CX-5 Grand,Mazda,2013,218900000,55000,Bensin
+2164,Isuzu,Isuzu,2013,132000000,55000,Diesel
+2165,Datsun Go,Datsun,2016,74500000,55000,Bensin
+2166,Mitsubishi Delica Standart,Mitsubishi,2015,190000000,100000,Bensin
+2167,Mitsubishi Colt,Mitsubishi,2010,52000000,170000,Bensin
+2168,Chevrolet Zafira,Chevrolet,2003,45000000,45000,Bensin
+2169,Isuzu Panther,Isuzu,1999,62500000,55000,Diesel
+2170,Mitsubishi Lancer 1.6,Mitsubishi,1989,20000000,25000,Bensin
+2171,Mercedes-Benz C-Class C180,Mercedes-Benz,2003,108000000,85000,Bensin
+2172,Suzuki Ertiga Dreza,Suzuki,2016,164000000,40000,Bensin
+2173,Mercedes-Benz A-Class,Mercedes-Benz,2013,315000000,40000,Bensin
+2174,Toyota Innova G,Toyota,2015,179000000,70000,Bensin
+2175,Mercedes-Benz C-Class C240,Mercedes-Benz,2006,150000000,105000,Bensin
+2176,Toyota Innova G,Toyota,2009,125000000,12500,Bensin
+2177,Mercedes-Benz C-Class C230,Mercedes-Benz,2007,92000000,70000,Bensin
+2178,Lexus RX 200T,Lexus,2015,1020000000,45000,Bensin
+2179,KIA Sportage,KIA,2011,145000000,120000,Bensin
+2180,Peugeot 405,Peugeot,1990,15750000,40000,Bensin
+2181,Honda Freed,Honda,2016,190000000,45000,Bensin
+2182,Nissan Terrano Kingsroad,Nissan,2005,119000000,110000,Bensin
+2183,Mazda 2 GT,Mazda,2016,220000000,80000,Bensin
+2184,Honda HR-V E,Honda,2019,295000000,10000,Bensin
+2185,Daihatsu Terios TX,Daihatsu,2013,152500000,90000,Bensin
+2186,Mazda CX-9 3.7,Mazda,2010,235000000,105000,Bensin
+2187,Honda Mobilio E,Honda,2015,133000000,40000,Bensin
+2188,Daihatsu Xenia Li,Daihatsu,2010,101000000,90000,Bensin
+2189,Mercedes-Benz E-Class E63,Mercedes-Benz,2011,875000000,40000,Bensin
+2190,Suzuki Ertiga GL,Suzuki,2014,129000000,75000,Bensin
+2191,Mitsubishi Pajero Sport,Mitsubishi,2015,290000000,60000,Diesel
+2192,Hyundai H-1 XG,Hyundai,2015,267000000,80000,Diesel
+2193,Chevrolet Spin,Chevrolet,2015,119000000,35000,Bensin
+2194,Mazda Biante,Mazda,2012,200000000,65000,Bensin
+2195,Toyota Fortuner VRZ,Toyota,2017,440000000,35000,Diesel
+2196,Suzuki Ertiga GL,Suzuki,2016,148000000,35000,Bensin
+2197,Mercedes-Benz C-Class C230,Mercedes-Benz,2008,179000000,100000,Bensin
+2198,Mercedes-Benz E-Class E250,Mercedes-Benz,2011,495000000,25000,Bensin
+2199,Ford Fiesta Trend,Ford,2012,85000000,55000,Bensin
+2200,Nissan Elgrand HWS,Nissan,2008,220000000,160000,Bensin
+2201,Datsun Go+ Panca,Datsun,2016,76000000,35000,Bensin
+2202,Isuzu Elf Minibus,Isuzu,2010,145000000,45000,Diesel
+2203,Suzuki Wagon R,Suzuki,2018,81500000,15000,Bensin
+2204,Mazda Biante 2.0,Mazda,2016,245000000,25000,Bensin
+2205,BMW Serie 3,BMW,2006,145000000,80000,Bensin
+2206,Mazda Biante 2.0,Mazda,2015,210000000,80000,Bensin
+2207,Hyundai Matrix,Hyundai,2003,48950000,110000,Bensin
+2208,Daihatsu Sigra 1.2,Daihatsu,2016,125000000,45000,Bensin
+2209,Suzuki Wagon R,Suzuki,2014,75000000,30000,Bensin
+2210,Ford Ecosport Titanium,Ford,2014,123000000,40000,Bensin
+2211,Mini Cooper Mini,Mini Cooper,2017,690000000,10000,Bensin
+2212,KIA Picanto,KIA,2008,60000000,110000,Bensin
+2213,Wuling Confero S,Wuling,2017,99000000,30000,Bensin
+2214,Hyundai Avega GX,Hyundai,2012,79000000,115000,Bensin
+2215,Honda CR-V,Honda,2010,145000000,120000,Bensin
+2216,Nissan X-Trail,Nissan,2014,212000000,65000,Bensin
+2217,Mercedes-Benz GLA-Class,Mercedes-Benz,2017,575000000,20000,Bensin
+2218,Chevrolet Spin LT,Chevrolet,2014,119000000,75000,Diesel
+2219,Nissan Grand livina,Nissan,2013,95000000,100000,Bensin
+2220,Porsche Cayenne Turbo,Porsche,2016,1200000000,15000,Bensin
+2221,Daihatsu Sirion D,Daihatsu,2012,85000000,70000,Bensin
+2222,Nissan Navara Sports,Nissan,2009,190000000,5000,Diesel
+2223,Datsun Cross,Datsun,2018,127000000,30000,Bensin
+2224,Nissan Grand livina,Nissan,2008,80000000,175000,Bensin
+2225,BMW Serie 3,BMW,2012,230000000,75000,Bensin
+2226,Daihatsu Sigra 1.2,Daihatsu,2017,99000000,60000,Bensin
+2227,Suzuki Ignis GL,Suzuki,2018,113000000,25000,Bensin
+2228,BMW Serie 3,BMW,1995,40000000,5000,Bensin
+2229,BMW Serie 6,BMW,2014,925000000,15000,Bensin
+2230,Isuzu,Isuzu,2000,60000000,30000,Diesel
+2231,Fiat Abart,Fiat,2017,1175000000,5000,Bensin
+2232,Suzuki Carry,Suzuki,2002,33000000,65000,Bensin
+2233,Nissan Juke 1.5,Nissan,2011,130000000,25000,Bensin
+2234,Mercedes-Benz E-Class E200,Mercedes-Benz,2006,120000000,30000,Bensin
+2235,Mini Cooper Mini,Mini Cooper,2018,735000000,5000,Bensin
+2236,Datsun Go,Datsun,2019,104000000,5000,Bensin
+2237,Suzuki Carry Pick-up,Suzuki,2019,125000000,5000,Bensin
+2238,Ford Ecosport Titanium,Ford,2014,123000000,50000,Bensin
+2239,KIA Picanto M/T,KIA,2004,58000000,110000,Bensin
+2240,Audi Audi A3,Audi,2001,70000000,185000,Bensin
+2241,Audi Audi Q7,Audi,2012,435000000,50000,Bensin
+2242,Isuzu Panther Smart,Isuzu,2008,105000000,120000,Diesel
+2243,KIA Carens I,KIA,2000,45000000,170000,Bensin
+2244,Volkswagen Polo,Volkswagen,2009,85750000,100000,Bensin
+2245,BMW Serie 3,BMW,2014,490000000,30000,Bensin
+2246,Suzuki Karimun GX,Suzuki,2003,58000000,180000,Bensin
+2247,BMW Serie 7,BMW,2012,565000000,35000,Bensin
+2248,Ford Fiesta Sport+,Ford,2014,107000000,110000,Bensin
+2249,Mitsubishi Outlander,Mitsubishi,2012,162500000,75000,Bensin
+2250,Hyundai Avega GX,Hyundai,2003,66000000,110000,Bensin
+2251,Nissan Livina X-Gear,Nissan,2011,82000000,105000,Bensin
+2252,Mitsubishi Xpander,Mitsubishi,2019,258400000,5000,Bensin
+2253,Datsun Go+ Panca,Datsun,2016,87000000,55000,Bensin
+2254,Cadillac Escalade V8,Cadillac,2013,1175000000,25000,Bensin
+2255,Cadillac Escalade V8,Cadillac,2013,1175000000,30000,Bensin
+2256,Honda Mobilio RS,Honda,2015,150000000,55000,Bensin
+2257,Mercedes-Benz C-Class C200,Mercedes-Benz,2014,355000000,45000,Bensin
+2258,Toyota Innova V,Toyota,2016,265000000,35000,Bensin
+2259,KIA Rio,KIA,2005,33000000,275000,Bensin
+2260,Mitsubishi Colt Box,Mitsubishi,2014,182000000,85000,Diesel
+2261,Mazda 2 GT,Mazda,2015,180000000,45000,Bensin
+2262,Hyundai Verna,Hyundai,2004,42000000,12500,Bensin
+2263,Hyundai i10,Hyundai,2014,106000000,45000,Bensin
+2264,Isuzu Panther,Isuzu,1996,47000000,12500,Diesel
+2265,Mazda 2 V,Mazda,2013,109000000,50000,Bensin
+2266,Mazda 8,Mazda,2012,168000000,105000,Bensin
+2267,Honda Maestro,Honda,1990,14000000,55000,Bensin
+2268,Toyota Innova G,Toyota,2014,180000000,70000,Bensin
+2269,BMW Serie 5,BMW,2016,765000000,25000,Bensin
+2270,Isuzu Panther LS,Isuzu,2000,99000000,100000,Bensin
+2271,Hyundai Santa Fe,Hyundai,2013,220000000,130000,Diesel
+2272,Daihatsu Xenia X,Daihatsu,2016,140000000,85000,Bensin
+2273,Nissan Livina,Nissan,2012,70000000,70000,Bensin
+2274,Hyundai Atoz GLX,Hyundai,2005,57000000,130000,Bensin
+2275,Ssang Yong Rexton,Ssang Yong,2002,85000000,140000,Bensin
+2276,Suzuki Ertiga GX,Suzuki,2018,180000000,10000,Bensin
+2277,Chevrolet Captiva,Chevrolet,2008,125000000,75000,Diesel
+2278,KIA Carens II,KIA,2003,56000000,195000,Bensin
+2279,Isuzu Elf Minibus,Isuzu,2010,115000000,65000,Diesel
+2280,Honda CR-V 2.4,Honda,2007,135000000,95000,Bensin
+2281,Suzuki Ertiga GL,Suzuki,2016,145000000,45000,Bensin
+2282,Honda Mobilio S,Honda,2015,122000000,45000,Bensin
+2283,KIA Picanto SE,KIA,2009,73000000,100000,Bensin
+2284,BMW Serie 3,BMW,2006,145000000,140000,Bensin
+2285,Fiat Uno,Fiat,1992,13000000,45000,Bensin
+2286,Honda Mobilio E,Honda,2014,140000000,40000,Bensin
+2287,Porsche Cayenne V6,Porsche,2012,725000000,50000,Bensin
+2288,Nissan X-Trail,Nissan,2009,115000000,155000,Bensin
+2289,Toyota Alphard G,Toyota,2005,150000000,205000,Bensin
+2290,Audi Audi A4,Audi,2002,89000000,160000,Bensin
+2291,Isuzu New Panther,Isuzu,2006,135000000,190000,Diesel
+2292,Datsun Go+ Panca,Datsun,2016,65000000,120000,Bensin
+2293,Mercedes-Benz E-Class E200,Mercedes-Benz,2004,101000000,12500,Bensin
+2294,Ford Fiesta Trend,Ford,2011,93000000,105000,Bensin
+2295,Wuling Confero S,Wuling,2018,152000000,20000,Bensin
+2296,Mitsubishi L300 Pick,Mitsubishi,2016,125000000,55000,Diesel
+2297,Datsun Go+ Panca,Datsun,2019,99000000,5000,Bensin
+2298,Ford Ranger Standard,Ford,2010,95000000,55000,Diesel
+2299,Isuzu New Panther,Isuzu,2013,83000000,40000,Diesel
+2300,Mitsubishi L300,Mitsubishi,2016,125199999,55000,Diesel
+2301,KIA Picanto SE,KIA,2013,88000000,85000,Bensin
+2302,Mazda CX-5 Grand,Mazda,2014,255000000,60000,Bensin
+2303,Lexus LS 460,Lexus,2010,470000000,35000,Bensin
+2304,Porsche Boxster,Porsche,2013,1195000000,15000,Bensin
+2305,Mitsubishi Xpander,Mitsubishi,2019,220750000,5000,Bensin
+2306,Suzuki Katana GX,Suzuki,1996,46500000,205000,Bensin
+2307,Daihatsu Ayla M,Daihatsu,2013,75000000,45000,Bensin
+2308,Mazda 8,Mazda,2012,172000000,90000,Bensin
+2309,BMW X3 xDrive20i,BMW,2013,385000000,35000,Bensin
+2310,Nissan Grand livina,Nissan,2010,70000000,200000,Bensin
+2311,Mitsubishi Xpander ULTIMATE,Mitsubishi,2018,227000000,35000,Bensin
+2312,BMW Serie 3,BMW,1991,59000000,135000,Bensin
+2313,Nissan X-Trail,Nissan,2014,218000000,80000,Bensin
+2314,Nissan Grand livina,Nissan,2008,67000000,130000,Bensin
+2315,Mitsubishi Galant,Mitsubishi,1986,25000000,100000,Bensin
+2316,KIA Picanto A/T,KIA,2011,79500000,70000,Bensin
+2317,Proton Gen2,Proton,2008,55000000,85000,Bensin
+2318,Honda HR-V E,Honda,2015,225000000,55000,Bensin
+2319,KIA Carnival GS,KIA,2000,77500000,55000,Bensin
+2320,Honda Mobilio E,Honda,2014,124000000,60000,Bensin
+2321,BMW X1 sDrive18i,BMW,2017,550000000,15000,Bensin
+2322,BMW Serie 3,BMW,2003,105000000,80000,Bensin
+2323,Chevrolet Spin LTZ,Chevrolet,2013,120000000,60000,Bensin
+2324,Nissan Teana 230,Nissan,2007,98000000,85000,Bensin
+2325,Mitsubishi Pajero Sport,Mitsubishi,2011,224000000,120000,Diesel
+2326,Mercedes-Benz E-Class E300,Mercedes-Benz,1991,150000000,45000,Bensin
+2327,Proton Savvy,Proton,2007,40000000,30000,Bensin
+2328,Mazda,Mazda,1998,28000000,30000,Bensin
+2329,Mazda 2 R,Mazda,2013,127000000,95000,Bensin
+2330,Ford Fiesta Trend,Ford,2013,95000000,12500,Bensin
+2331,Daihatsu Ayla X,Daihatsu,2016,107000000,25000,Bensin
+2332,Daihatsu Xenia X,Daihatsu,2011,88000000,75000,Bensin
+2333,BMW Serie 5,BMW,2001,68500000,120000,Bensin
+2334,Mitsubishi Pajero Sport,Mitsubishi,2010,218000000,100000,Diesel
+2335,Suzuki Aerio,Suzuki,2003,63000000,95000,Bensin
+2336,Mercedes-Benz C-Class C180,Mercedes-Benz,2002,100000000,55000,Bensin
+2337,Lexus NX 200T,Lexus,2016,875000000,50000,Bensin
+2338,Chevrolet Spin,Chevrolet,2015,119000000,50000,Bensin
+2339,Hyundai,Hyundai,1997,45000000,20000,Bensin
+2340,Mitsubishi Xpander SPORT,Mitsubishi,2018,232000000,15000,Bensin
+2341,BMW X5 xDrive35i,BMW,2017,1050000000,15000,Bensin
+2342,Mercedes-Benz C-Class C240,Mercedes-Benz,2001,110000000,100000,Bensin
+2343,Mazda 2 GT,Mazda,2015,204000000,60000,Bensin
+2344,Mazda 2 R,Mazda,2011,95000000,90000,Bensin
+2345,Porsche Boxster,Porsche,2013,1250000000,25000,Bensin
+2346,BMW Serie 3,BMW,2005,113000000,135000,Bensin
+2347,Opel Blazer DOHC,Opel,1997,45000000,70000,Bensin
+2348,Mazda MR-90,Mazda,1997,21750000,50000,Bensin
+2349,Volkswagen Golf TSI,Volkswagen,2012,175000000,75000,Bensin
+2350,Mitsubishi Pajero Sport,Mitsubishi,2016,425000000,15000,Diesel
+2351,Mercedes-Benz A-Class A200,Mercedes-Benz,2013,295000000,50000,Bensin
+2352,Wuling Cortez,Wuling,2018,192000000,25000,Bensin
+2353,Suzuki Ertiga GX,Suzuki,2015,145000000,70000,Bensin
+2354,Honda Brio Satya,Honda,2016,120000000,75000,Bensin
+2355,Toyota Altis,Toyota,2008,134000000,160000,Bensin
+2356,Mitsubishi Galant V6-24,Mitsubishi,1998,55000000,130000,Bensin
+2357,Daihatsu Ayla X,Daihatsu,2016,100000000,5000,Bensin
+2358,Datsun Go Panca,Datsun,2018,99000000,20000,Bensin
+2359,Jeep Wrangler Sahara,Jeep,2014,1200000000,15000,Bensin
+2360,Opel Optima,Opel,1995,25000000,105000,Bensin
+2361,Hyundai,Hyundai,2002,44500000,50000,Bensin
+2362,Hyundai i20 GL,Hyundai,2011,79000000,105000,Bensin
+2363,Toyota Kijang LGX,Toyota,2003,85000000,5000,Bensin
+2364,Toyota Kijang Pick-Up,Toyota,1988,35000000,130000,Bensin
+2365,Toyota Fortuner VRZ,Toyota,2016,400000000,25000,Diesel
+2366,Mercedes-Benz C-Class C200,Mercedes-Benz,2015,525000000,70000,Bensin
+2367,Daihatsu Gran max,Daihatsu,2016,97000000,65000,Bensin
+2368,KIA Picanto SE,KIA,2013,75000000,85000,Bensin
+2369,Honda Civic,Honda,2010,175000000,55000,Bensin
+2370,Honda Civic 1.8L,Honda,2012,175000000,45000,Bensin
+2371,Mazda 2 R,Mazda,2011,109000000,75000,Bensin
+2372,Mercedes-Benz E-Class E280,Mercedes-Benz,2008,175000000,110000,Bensin
+2373,Datsun Go+ Panca,Datsun,2015,68000000,85000,Bensin
+2374,Nissan X-Trail,Nissan,2010,141000000,80000,Bensin
+2375,Ford,Ford,1990,20000000,30000,Bensin
+2376,Honda HR-V S,Honda,2017,260000000,15000,Bensin
+2377,Mazda 323 Interplay,Mazda,1995,30000000,40000,Bensin
+2378,KIA Picanto SE,KIA,2011,76000000,85000,Bensin
+2379,Toyota Vellfire X,Toyota,2015,715000000,45000,Bensin
+2380,Isuzu Panther LS,Isuzu,2003,95000000,105000,Diesel
+2381,KIA Rio Hatchback,KIA,2013,120000000,110000,Bensin
+2382,Suzuki APV Mega,Suzuki,2018,99000000,10000,Bensin
+2383,KIA Visto,KIA,2003,46000000,100000,Bensin
+2384,Toyota Avanza G,Toyota,2015,133000000,85000,Bensin
+2385,Isuzu Panther,Isuzu,1997,57000000,105000,Diesel
+2386,Daihatsu Terios Custom,Daihatsu,2017,180000000,20000,Bensin
+2387,Mitsubishi Mirage SPORT,Mitsubishi,2015,100000000,55000,Bensin
+2388,Mazda 2 S,Mazda,2011,120000000,75000,Bensin
+2389,BMW Serie 3,BMW,2012,299000000,95000,Bensin
+2390,Toyota Alphard X,Toyota,2013,279000000,5000,Bensin
+2391,Isuzu Panther Grand,Isuzu,2007,160000000,15000,Diesel
+2392,Isuzu Grand touring,Isuzu,2013,205000000,185000,Diesel
+2393,Ford Fiesta Sport+,Ford,2014,125000000,50000,Bensin
+2394,Mercedes-Benz CLS-Class CLS350,Mercedes-Benz,2006,330000000,35000,Bensin
+2395,Ford Ecosport Titanium,Ford,2014,120000000,80000,Bensin
+2396,Mitsubishi Xpander,Mitsubishi,2019,213700000,5000,Bensin
+2397,Hyundai Atoz GLX,Hyundai,2003,49000000,130000,Bensin
+2398,Mini Cooper Mini,Mini Cooper,2012,415000000,70000,Bensin
+2399,Mitsubishi T120SS Pick,Mitsubishi,2018,82000000,20000,Bensin
+2400,Ford Ranger STD,Ford,2011,150000000,160000,Diesel
+2401,Chevrolet Captiva,Chevrolet,2010,115000000,160000,Diesel
+2402,Isuzu Panther LM,Isuzu,2008,100000000,5000,Diesel
+2403,Ford Fiesta Style,Ford,2011,82000000,115000,Bensin
+2404,Ford Fiesta Sport,Ford,2013,110000000,35000,Bensin
+2405,Wuling Cortez,Wuling,2018,195000000,25000,Bensin
+2406,Mitsubishi Mirage GLX,Mitsubishi,2017,114000000,50000,Bensin
+2407,Daihatsu Taruna FGX,Daihatsu,2004,76000000,85000,Bensin
+2408,Daihatsu Gran max,Daihatsu,2014,75000000,110000,Bensin
+2409,Subaru WRX STi,Subaru,2013,409000000,35000,Bensin
